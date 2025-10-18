@@ -20,6 +20,9 @@ import HistoricalTrendsDashboard from './pages/dashboards/HistoricalTrendsDashbo
 import InfrastructureDashboard from './pages/dashboards/InfrastructureDashboard';
 import SidewalkPlanningDashboard from './pages/dashboards/SidewalkPlanningDashboard';
 import DataCatalogPage from './pages/DataCatalogPage';
+import AboutPage from './pages/AboutPage';
+import UserGuidePage from './pages/UserGuidePage';
+import DataSourcesPage from './pages/DataSourcesPage';
 
 function App() {
   return (
@@ -41,6 +44,9 @@ function App() {
             <Route path="/historical-trends" element={<HistoricalTrendsDashboard />} />
             <Route path="/infrastructure" element={<InfrastructureDashboard />} />
             <Route path="/sidewalk-planning" element={<SidewalkPlanningDashboard />} />
+            <Route path="/about" element={<AboutPage />} />
+            <Route path="/user-guide" element={<UserGuidePage />} />
+            <Route path="/data-sources" element={<DataSourcesPage />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </main>

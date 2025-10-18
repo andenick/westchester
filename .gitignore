@@ -69,6 +69,11 @@ Technical/data/processed/*.json
 Technical/data/processed/**/*.geojson
 Technical/data/cache/
 
+# EXCEPTIONS: Include small essential data files for deployment
+!Technical/data/raw/transit/*.json
+!Technical/data/raw/transit/*.geojson
+!Technical/data/raw/demographics/*.json
+
 # Large HTML map files
 Output/MAPPING_DELIVERABLES/Interactive_Maps/*.html
 Technical/src/frontend/public/MAPPING_DELIVERABLES/Interactive_Maps/*.html
