@@ -1,0 +1,1612 @@
+county,agency,year,months_reported,total_index_crimes,violent,murder,forcible_rape,robbery,aggravated_assault,property,burglary,larceny,motor_vehicle_theft,region
+Westchester,Ardsley Vg PD,2024,12,38,2,0,1,0,1,36,2,33,1,Non-New York City
+Westchester,Bedford Town PD,2024,12,48,4,0,0,0,4,44,5,32,7,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2024,12,15,0,0,0,0,0,15,1,13,1,Non-New York City
+Westchester,Bronxville Vg PD,2024,12,32,0,0,0,0,0,32,8,21,3,Non-New York City
+Westchester,Buchanan Vg PD,2024,12,7,0,0,0,0,0,7,2,4,1,Non-New York City
+Westchester,County Total,2024,,11078,1863,16,88,377,1382,9215,820,7589,806,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2024,12,58,1,0,0,0,1,57,2,52,3,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2024,12,191,32,0,0,1,31,159,17,130,12,Non-New York City
+Westchester,Eastchester Town PD,2024,12,117,4,0,0,2,2,113,8,96,9,Non-New York City
+Westchester,Elmsford Vg PD,2024,12,7,1,0,1,0,0,6,2,4,0,Non-New York City
+Westchester,Greenburgh Town PD,2024,12,609,25,0,4,5,16,584,29,531,24,Non-New York City
+Westchester,Harrison Town PD,2024,12,154,2,0,0,0,2,152,19,131,2,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2024,12,32,1,0,0,1,0,31,1,25,5,Non-New York City
+Westchester,Irvington Vg PD,2024,12,26,4,0,0,2,2,22,4,17,1,Non-New York City
+Westchester,Larchmont Vg PD,2024,12,67,2,0,0,0,2,65,7,54,4,Non-New York City
+Westchester,Lewisboro Town PD,2024,12,4,1,0,0,0,1,3,2,1,0,Non-New York City
+Westchester,Mamaroneck Town PD,2024,12,67,1,0,0,0,1,66,4,59,3,Non-New York City
+Westchester,Mamaroneck Vg PD,2024,12,267,21,0,4,2,15,246,15,225,6,Non-New York City
+Westchester,Mount Pleasant Town PD,2024,12,181,18,0,0,2,16,163,20,135,8,Non-New York City
+Westchester,Mount Vernon City PD,2024,12,1411,384,3,18,75,288,1027,97,737,193,Non-New York City
+Westchester,New Castle Town PD,2024,11,50,0,0,0,0,0,50,4,46,0,Non-New York City
+Westchester,New Rochelle City PD,2024,12,1112,115,0,3,36,76,997,41,905,51,Non-New York City
+Westchester,North Castle Town PD,2024,11,112,16,0,0,0,16,96,15,73,8,Non-New York City
+Westchester,NYC DEPP - Eastview PCT,2024,12,0,0,0,0,0,0,0,0,0,0,Non-New York City
+Westchester,NYC-DEPP - Hillview PCT,2024,12,0,0,0,0,0,0,0,0,0,0,Non-New York City
+Westchester,Ossining Vg PD,2024,11,180,25,0,0,6,19,155,14,128,13,Non-New York City
+Westchester,Peekskill City PD,2024,12,318,59,2,4,7,46,259,25,220,14,Non-New York City
+Westchester,Pelham Manor Vg PD,2024,12,214,8,0,0,4,4,206,9,183,14,Non-New York City
+Westchester,Pelham Vg PD,2024,12,26,3,0,0,1,2,23,3,19,1,Non-New York City
+Westchester,Pleasantville Vg PD,2024,12,50,6,0,0,1,5,44,2,42,0,Non-New York City
+Westchester,Port Chester Vg PD,2024,12,315,23,0,0,11,12,292,24,256,12,Non-New York City
+Westchester,Pound Ridge Town PD,2024,12,29,0,0,0,0,0,29,1,25,3,Non-New York City
+Westchester,Rye Brook Vg PD,2024,12,66,2,0,0,1,1,64,7,49,8,Non-New York City
+Westchester,Rye City PD,2024,12,44,2,0,1,0,1,42,4,28,10,Non-New York City
+Westchester,Scarsdale Vg PD,2024,12,64,1,0,0,1,0,63,12,45,6,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2024,1,0,0,0,0,0,0,0,0,0,0,Non-New York City
+Westchester,Tarrytown Vg PD,2024,12,55,5,0,0,2,3,50,7,39,4,Non-New York City
+Westchester,Tuckahoe Vg PD,2024,12,9,2,0,0,0,2,7,3,3,1,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2024,12,133,11,0,0,5,6,122,9,109,4,Non-New York City
+Westchester,Westchester County MTA,2024,12,27,0,0,0,0,0,27,2,25,0,Non-New York City
+Westchester,Westchester County Park PD,2024,12,0,0,0,0,0,0,0,0,0,0,Non-New York City
+Westchester,Westchester County State Police,2024,11,611,195,3,15,1,176,416,40,356,20,Non-New York City
+Westchester,White Plains City PD,2024,12,1159,69,1,3,11,54,1090,56,1005,29,Non-New York City
+Westchester,Yonkers City PD,2024,12,2942,805,7,31,200,567,2137,284,1538,315,Non-New York City
+Westchester,Yorktown Town PD,2024,12,231,13,0,3,0,10,218,13,195,10,Non-New York City
+Westchester,Ardsley Vg PD,2023,12,45,1,0,0,1,0,44,5,39,0,Non-New York City
+Westchester,Bedford Town PD,2023,12,29,5,0,3,0,2,24,8,14,2,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2023,12,18,0,0,0,0,0,18,6,9,3,Non-New York City
+Westchester,Bronxville Vg PD,2023,12,43,0,0,0,0,0,43,5,34,4,Non-New York City
+Westchester,Buchanan Vg PD,2023,12,11,0,0,0,0,0,11,1,10,0,Non-New York City
+Westchester,County Total,2023,,12035,1801,11,108,465,1217,10234,1003,8260,971,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2023,12,57,3,0,0,0,3,54,2,51,1,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2023,12,113,6,0,1,1,4,107,16,81,10,Non-New York City
+Westchester,Eastchester Town PD,2023,12,118,4,0,0,2,2,114,13,78,23,Non-New York City
+Westchester,Elmsford Vg PD,2023,12,10,3,0,1,0,2,7,0,7,0,Non-New York City
+Westchester,Greenburgh Town PD,2023,12,836,41,0,5,16,20,795,39,718,38,Non-New York City
+Westchester,Harrison Town PD,2023,12,200,7,0,3,0,4,193,29,157,7,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2023,12,42,0,0,0,0,0,42,1,39,2,Non-New York City
+Westchester,Irvington Vg PD,2023,12,36,3,0,0,0,3,33,8,24,1,Non-New York City
+Westchester,Larchmont Vg PD,2023,12,62,2,0,0,1,1,60,6,51,3,Non-New York City
+Westchester,Lewisboro Town PD,2023,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Westchester,Mamaroneck Town PD,2023,12,95,2,0,0,0,2,93,17,65,11,Non-New York City
+Westchester,Mamaroneck Vg PD,2023,12,217,16,0,3,4,9,201,11,173,17,Non-New York City
+Westchester,Mount Pleasant Town PD,2023,12,199,16,0,0,3,13,183,25,151,7,Non-New York City
+Westchester,Mount Vernon City PD,2023,12,1520,368,3,19,111,235,1152,145,803,204,Non-New York City
+Westchester,New Castle Town PD,2023,12,65,2,0,0,0,2,63,5,54,4,Non-New York City
+Westchester,New Rochelle City PD,2023,12,1255,140,0,6,53,81,1115,94,941,80,Non-New York City
+Westchester,North Castle Town PD,2023,12,85,6,0,0,1,5,79,12,60,7,Non-New York City
+Westchester,NYC DEPP - Eastview PCT,2023,12,2,0,0,0,0,0,2,1,0,1,Non-New York City
+Westchester,NYC-DEPP - Hillview PCT,2023,12,0,0,0,0,0,0,0,0,0,0,Non-New York City
+Westchester,Ossining Vg PD,2023,12,195,18,0,1,1,16,177,11,157,9,Non-New York City
+Westchester,Peekskill City PD,2023,12,298,65,2,0,10,53,233,11,212,10,Non-New York City
+Westchester,Pelham Manor Vg PD,2023,12,176,9,0,0,4,5,167,16,139,12,Non-New York City
+Westchester,Pelham Vg PD,2023,12,34,3,0,0,1,2,31,2,26,3,Non-New York City
+Westchester,Pleasantville Vg PD,2023,12,53,4,0,0,3,1,49,4,44,1,Non-New York City
+Westchester,Port Chester Vg PD,2023,12,346,23,0,0,11,12,323,24,286,13,Non-New York City
+Westchester,Pound Ridge Town PD,2023,12,19,1,0,0,0,1,18,1,16,1,Non-New York City
+Westchester,Rye Brook Vg PD,2023,12,66,2,0,1,1,0,64,6,52,6,Non-New York City
+Westchester,Rye City PD,2023,12,72,2,0,0,1,1,70,9,46,15,Non-New York City
+Westchester,Scarsdale Vg PD,2023,12,110,0,0,0,0,0,110,35,64,11,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2023,10,0,0,0,0,0,0,0,0,0,0,Non-New York City
+Westchester,SUNY Police - Purchase,2023,11,16,1,0,1,0,0,15,2,13,0,Non-New York City
+Westchester,Tarrytown Vg PD,2023,12,43,7,0,0,1,6,36,6,29,1,Non-New York City
+Westchester,Tuckahoe Vg PD,2023,12,10,1,0,0,0,1,9,2,5,2,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2023,12,162,9,1,0,4,4,153,7,142,4,Non-New York City
+Westchester,Westchester County MTA,2023,12,62,15,0,0,2,13,47,0,43,4,Non-New York City
+Westchester,Westchester County Park PD,2023,12,0,0,0,0,0,0,0,0,0,0,Non-New York City
+Westchester,Westchester County State Police,2023,12,637,196,1,22,4,169,441,30,388,23,Non-New York City
+Westchester,White Plains City PD,2023,12,1105,87,0,8,19,60,1018,59,929,30,Non-New York City
+Westchester,Yonkers City PD,2023,12,3310,722,4,31,206,481,2588,318,1876,394,Non-New York City
+Westchester,Yorktown Town PD,2023,12,262,11,0,3,4,4,251,11,233,7,Non-New York City
+Westchester,Ardsley Vg PD,2022,12,33,1,0,0,0,1,32,5,24,3,Non-New York City
+Westchester,Bedford Town PD,2022,12,19,0,0,0,0,0,19,0,18,1,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2022,12,32,1,0,0,0,1,31,6,23,2,Non-New York City
+Westchester,Bronxville Vg PD,2022,12,37,0,0,0,0,0,37,7,18,12,Non-New York City
+Westchester,Buchanan Vg PD,2022,12,5,1,0,1,0,0,4,0,4,0,Non-New York City
+Westchester,County Total,2022,,11206,1680,10,98,445,1127,9526,771,7951,804,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2022,12,62,3,0,2,0,1,59,3,53,3,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2022,12,112,5,0,1,1,3,107,7,96,4,Non-New York City
+Westchester,Eastchester Town PD,2022,12,139,4,0,0,2,2,135,8,104,23,Non-New York City
+Westchester,Elmsford Vg PD,2022,12,15,5,0,0,0,5,10,1,6,3,Non-New York City
+Westchester,Greenburgh Town PD,2022,12,727,31,0,5,14,12,696,25,649,22,Non-New York City
+Westchester,Harrison Town PD,2022,12,224,5,0,1,0,4,219,26,182,11,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2022,12,47,1,0,0,1,0,46,2,40,4,Non-New York City
+Westchester,Irvington Vg PD,2022,12,31,1,0,0,0,1,30,1,23,6,Non-New York City
+Westchester,Larchmont Vg PD,2022,12,84,1,0,0,1,0,83,11,62,10,Non-New York City
+Westchester,Lewisboro Town PD,2022,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
+Westchester,Mamaroneck Town PD,2022,12,104,0,0,0,0,0,104,12,81,11,Non-New York City
+Westchester,Mamaroneck Vg PD,2022,12,282,24,0,6,4,14,258,29,212,17,Non-New York City
+Westchester,Mount Pleasant Town PD,2022,12,262,27,0,0,2,25,235,14,210,11,Non-New York City
+Westchester,Mount Vernon City PD,2022,12,1455,334,4,17,97,216,1121,104,864,153,Non-New York City
+Westchester,New Castle Town PD,2022,12,77,1,0,0,0,1,76,2,66,8,Non-New York City
+Westchester,New Rochelle City PD,2022,12,1255,154,2,3,46,103,1101,61,979,61,Non-New York City
+Westchester,North Castle Town PD,2022,12,99,7,0,0,0,7,92,10,72,10,Non-New York City
+Westchester,NYC DEPP - Eastview PCT,2022,12,4,0,0,0,0,0,4,0,4,0,Non-New York City
+Westchester,NYC-DEPP - Hillview PCT,2022,12,0,0,0,0,0,0,0,0,0,0,Non-New York City
+Westchester,Ossining Vg PD,2022,12,201,18,0,0,5,13,183,9,171,3,Non-New York City
+Westchester,Peekskill City PD,2022,12,344,68,1,2,11,54,276,17,250,9,Non-New York City
+Westchester,Pelham Manor Vg PD,2022,12,169,6,0,0,3,3,163,5,144,14,Non-New York City
+Westchester,Pelham Vg PD,2022,12,46,6,0,0,4,2,40,1,39,0,Non-New York City
+Westchester,Pleasantville Vg PD,2022,12,52,1,0,0,0,1,51,2,46,3,Non-New York City
+Westchester,Port Chester Vg PD,2022,12,348,19,0,0,8,11,329,15,295,19,Non-New York City
+Westchester,Pound Ridge Town PD,2022,12,34,3,0,0,0,3,31,2,28,1,Non-New York City
+Westchester,Rye Brook Vg PD,2022,12,83,1,0,0,0,1,82,14,56,12,Non-New York City
+Westchester,Rye City PD,2022,12,25,0,0,0,0,0,25,3,14,8,Non-New York City
+Westchester,Scarsdale Vg PD,2022,12,106,2,0,2,0,0,104,16,49,39,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2022,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Westchester,SUNY Police - Purchase,2022,12,18,1,0,1,0,0,17,3,12,2,Non-New York City
+Westchester,Tarrytown Vg PD,2022,12,69,5,0,1,1,3,64,12,47,5,Non-New York City
+Westchester,Tuckahoe Vg PD,2022,12,4,1,0,0,1,0,3,0,2,1,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2022,12,146,6,0,0,3,3,140,11,127,2,Non-New York City
+Westchester,Westchester County MTA,2022,12,54,11,0,0,3,8,43,1,40,2,Non-New York City
+Westchester,Westchester County Park PD,2022,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Westchester,Westchester County State Police,2022,12,669,149,0,22,3,124,520,20,479,21,Non-New York City
+Westchester,White Plains City PD,2022,12,825,68,0,7,14,47,757,37,701,19,Non-New York City
+Westchester,Yonkers City PD,2022,12,2623,694,3,25,216,450,1929,247,1421,261,Non-New York City
+Westchester,Yorktown Town PD,2022,12,281,15,0,2,5,8,266,22,236,8,Non-New York City
+Westchester,Ardsley Vg PD,2021,11,15,2,0,0,0,2,13,0,11,2,Non-New York City
+Westchester,Bedford Town PD,2021,12,20,2,0,0,0,2,18,0,15,3,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2021,12,30,0,0,0,0,0,30,1,17,12,Non-New York City
+Westchester,Bronxville Vg PD,2021,10,27,0,0,0,0,0,27,5,15,7,Non-New York City
+Westchester,Buchanan Vg PD,2021,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
+Westchester,County Total,2021,,9285,1520,20,95,381,1024,7765,741,6348,676,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2021,12,40,3,0,0,1,2,37,1,32,4,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2021,12,146,9,0,1,2,6,137,14,115,8,Non-New York City
+Westchester,Eastchester Town PD,2021,12,126,2,0,0,2,0,124,6,109,9,Non-New York City
+Westchester,Elmsford Vg PD,2021,12,12,1,0,0,0,1,11,1,9,1,Non-New York City
+Westchester,Greenburgh Town PD,2021,12,483,24,0,3,9,12,459,22,410,27,Non-New York City
+Westchester,Harrison Town PD,2021,12,133,14,0,0,4,10,119,14,90,15,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2021,12,32,1,0,0,1,0,31,1,26,4,Non-New York City
+Westchester,Irvington Vg PD,2021,12,25,2,0,0,0,2,23,3,15,5,Non-New York City
+Westchester,Larchmont Vg PD,2021,12,76,3,0,0,1,2,73,16,50,7,Non-New York City
+Westchester,Lewisboro Town PD,2021,12,0,0,0,0,0,0,0,0,0,0,Non-New York City
+Westchester,Mamaroneck Town PD,2021,12,89,0,0,0,0,0,89,10,70,9,Non-New York City
+Westchester,Mamaroneck Vg PD,2021,12,228,14,1,0,5,8,214,14,192,8,Non-New York City
+Westchester,Mount Pleasant Town PD,2021,12,167,21,0,0,6,15,146,17,119,10,Non-New York City
+Westchester,Mount Vernon City PD,2021,12,1195,357,5,18,104,230,838,126,584,128,Non-New York City
+Westchester,New Castle Town PD,2021,12,63,3,0,1,1,1,60,5,45,10,Non-New York City
+Westchester,New Rochelle City PD,2021,12,990,143,2,7,45,89,847,64,737,46,Non-New York City
+Westchester,North Castle Town PD,2021,12,77,7,0,1,0,6,70,2,59,9,Non-New York City
+Westchester,NYC DEPP - Eastview PCT,2021,12,8,0,0,0,0,0,8,0,8,0,Non-New York City
+Westchester,NYC-DEPP - Hillview PCT,2021,12,0,0,0,0,0,0,0,0,0,0,Non-New York City
+Westchester,Ossining Vg PD,2021,12,235,24,0,2,5,17,211,14,188,9,Non-New York City
+Westchester,Peekskill City PD,2021,12,204,28,0,2,4,22,176,6,169,1,Non-New York City
+Westchester,Pelham Manor Vg PD,2021,12,136,5,0,1,3,1,131,11,113,7,Non-New York City
+Westchester,Pelham Vg PD,2021,12,49,5,0,0,0,5,44,1,41,2,Non-New York City
+Westchester,Pleasantville Vg PD,2021,12,49,2,0,0,2,0,47,4,36,7,Non-New York City
+Westchester,Port Chester Vg PD,2021,12,244,14,0,1,5,8,230,12,200,18,Non-New York City
+Westchester,Pound Ridge Town PD,2021,12,32,1,0,0,0,1,31,1,29,1,Non-New York City
+Westchester,Rye Brook Vg PD,2021,12,68,1,0,1,0,0,67,2,59,6,Non-New York City
+Westchester,Rye City PD,2021,12,3,0,0,0,0,0,3,0,3,0,Non-New York City
+Westchester,Scarsdale Vg PD,2021,12,111,4,0,0,1,3,107,11,76,20,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2021,12,4,1,1,0,0,0,3,0,3,0,Non-New York City
+Westchester,SUNY Police - Purchase,2021,12,12,0,0,0,0,0,12,1,11,0,Non-New York City
+Westchester,Tarrytown Vg PD,2021,12,50,4,0,1,2,1,46,5,35,6,Non-New York City
+Westchester,Tuckahoe Vg PD,2021,12,26,0,0,0,0,0,26,9,13,4,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2021,12,146,11,0,0,5,6,135,9,120,6,Non-New York City
+Westchester,Westchester County MTA,2021,12,48,6,0,0,4,2,42,3,39,0,Non-New York City
+Westchester,Westchester County Park PD,2021,12,5,0,0,0,0,0,5,0,5,0,Non-New York City
+Westchester,Westchester County State Police,2021,12,493,137,0,16,1,120,356,25,306,25,Non-New York City
+Westchester,White Plains City PD,2021,12,785,76,2,6,18,50,709,62,617,30,Non-New York City
+Westchester,Yonkers City PD,2021,12,2361,589,9,32,150,398,1772,231,1340,201,Non-New York City
+Westchester,Yorktown Town PD,2021,12,240,4,0,2,0,2,236,12,215,9,Non-New York City
+Westchester,Ardsley Vg PD,2020,11,30,2,0,1,1,0,28,0,25,3,Non-New York City
+Westchester,Bedford Town PD,2020,12,46,2,0,0,1,1,44,4,37,3,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2020,12,36,2,0,0,2,0,34,3,25,6,Non-New York City
+Westchester,Bronxville Vg PD,2020,12,25,1,0,0,1,0,24,5,15,4,Non-New York City
+Westchester,Buchanan Vg PD,2020,12,12,0,0,0,0,0,12,0,12,0,Non-New York City
+Westchester,County Total,2020,,10308,1584,25,112,395,1052,8724,818,7164,742,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2020,12,37,2,0,1,0,1,35,2,31,2,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2020,12,98,2,0,0,1,1,96,5,85,6,Non-New York City
+Westchester,Eastchester Town PD,2020,12,136,1,0,0,0,1,135,4,112,19,Non-New York City
+Westchester,Elmsford Vg PD,2020,12,12,1,0,0,0,1,11,0,10,1,Non-New York City
+Westchester,Greenburgh Town PD,2020,12,482,27,0,6,10,11,455,26,406,23,Non-New York City
+Westchester,Harrison Town PD,2020,12,135,6,0,0,1,5,129,13,105,11,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2020,12,96,2,0,0,1,1,94,5,84,5,Non-New York City
+Westchester,Irvington Vg PD,2020,12,31,2,0,1,1,0,29,3,24,2,Non-New York City
+Westchester,Larchmont Vg PD,2020,12,86,4,0,0,0,4,82,4,73,5,Non-New York City
+Westchester,Lewisboro Town PD,2020,12,0,0,0,0,0,0,0,0,0,0,Non-New York City
+Westchester,Mamaroneck Town PD,2020,12,54,0,0,0,0,0,54,4,48,2,Non-New York City
+Westchester,Mamaroneck Vg PD,2020,12,202,20,0,1,5,14,182,25,144,13,Non-New York City
+Westchester,Mount Pleasant Town PD,2020,12,193,13,0,1,0,12,180,10,160,10,Non-New York City
+Westchester,Mount Vernon City PD,2020,12,1262,381,8,21,84,268,881,132,616,133,Non-New York City
+Westchester,New Castle Town PD,2020,12,77,0,0,0,0,0,77,2,74,1,Non-New York City
+Westchester,New Rochelle City PD,2020,12,1237,150,4,4,48,94,1087,53,979,55,Non-New York City
+Westchester,North Castle Town PD,2020,12,89,1,0,0,0,1,88,10,61,17,Non-New York City
+Westchester,NYC DEPP - Eastview PCT,2020,12,17,0,0,0,0,0,17,0,17,0,Non-New York City
+Westchester,NYC-DEPP - Hillview PCT,2020,12,0,0,0,0,0,0,0,0,0,0,Non-New York City
+Westchester,Ossining Vg PD,2020,12,213,17,0,0,7,10,196,14,176,6,Non-New York City
+Westchester,Peekskill City PD,2020,12,209,33,3,3,14,13,176,11,156,9,Non-New York City
+Westchester,Pelham Manor Vg PD,2020,12,135,1,0,0,0,1,134,20,109,5,Non-New York City
+Westchester,Pelham Vg PD,2020,12,58,1,0,0,0,1,57,2,53,2,Non-New York City
+Westchester,Pleasantville Vg PD,2020,12,59,4,0,0,1,3,55,7,43,5,Non-New York City
+Westchester,Port Chester Vg PD,2020,12,231,22,0,3,6,13,209,18,180,11,Non-New York City
+Westchester,Pound Ridge Town PD,2020,12,43,2,0,1,1,0,41,2,39,0,Non-New York City
+Westchester,Rye Brook Vg PD,2020,12,76,0,0,0,0,0,76,4,54,18,Non-New York City
+Westchester,Rye City PD,2020,12,20,0,0,0,0,0,20,1,9,10,Non-New York City
+Westchester,Scarsdale Vg PD,2020,12,137,3,0,0,0,3,134,15,93,26,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2020,12,24,0,0,0,0,0,24,3,15,6,Non-New York City
+Westchester,SUNY Police - Purchase,2020,12,11,0,0,0,0,0,11,3,8,0,Non-New York City
+Westchester,Tarrytown Vg PD,2020,12,64,9,0,3,4,2,55,7,43,5,Non-New York City
+Westchester,Tuckahoe Vg PD,2020,12,23,2,0,0,0,2,21,2,16,3,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2020,12,165,15,0,0,5,10,150,15,134,1,Non-New York City
+Westchester,Westchester County MTA,2020,12,47,4,0,0,2,2,43,2,40,1,Non-New York City
+Westchester,Westchester County Park PD,2020,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
+Westchester,Westchester County State Police,2020,12,440,111,1,22,4,84,329,27,275,27,Non-New York City
+Westchester,White Plains City PD,2020,12,1111,81,2,5,25,49,1030,70,933,27,Non-New York City
+Westchester,Yonkers City PD,2020,12,2643,653,7,38,169,439,1990,276,1466,248,Non-New York City
+Westchester,Yorktown Town PD,2020,12,204,7,0,1,1,5,197,9,177,11,Non-New York City
+Westchester,Ardsley Vg PD,2019,12,22,1,0,1,0,0,21,3,17,1,Non-New York City
+Westchester,Bedford Town PD,2019,12,59,1,0,0,0,1,58,5,52,1,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2019,12,30,0,0,0,0,0,30,1,29,0,Non-New York City
+Westchester,Bronxville Vg PD,2019,12,34,0,0,0,0,0,34,5,28,1,Non-New York City
+Westchester,Buchanan Vg PD,2019,12,8,2,0,1,1,0,6,0,6,0,Non-New York City
+Westchester,County Total,2019,,9664,1633,13,118,450,1052,8031,672,6891,468,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2019,12,39,3,0,0,0,3,36,2,32,2,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2019,12,48,4,0,0,2,2,44,2,38,4,Non-New York City
+Westchester,Eastchester Town PD,2019,12,70,3,0,0,2,1,67,8,52,7,Non-New York City
+Westchester,Elmsford Vg PD,2019,12,14,3,0,0,1,2,11,3,8,0,Non-New York City
+Westchester,Greenburgh Town PD,2019,12,481,43,0,8,8,27,438,22,403,13,Non-New York City
+Westchester,Harrison Town PD,2019,12,149,0,0,0,0,0,149,20,122,7,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2019,12,60,2,0,0,0,2,58,4,53,1,Non-New York City
+Westchester,Irvington Vg PD,2019,12,33,0,0,0,0,0,33,3,28,2,Non-New York City
+Westchester,Larchmont Vg PD,2019,12,86,2,0,1,1,0,84,2,78,4,Non-New York City
+Westchester,Lewisboro Town PD,2019,12,0,0,0,0,0,0,0,0,0,0,Non-New York City
+Westchester,Mamaroneck Town PD,2019,12,81,2,0,0,0,2,79,10,67,2,Non-New York City
+Westchester,Mamaroneck Vg PD,2019,12,173,16,0,1,2,13,157,21,122,14,Non-New York City
+Westchester,Mount Pleasant Town PD,2019,12,170,11,0,0,2,9,159,11,141,7,Non-New York City
+Westchester,Mount Vernon City PD,2019,12,1223,381,2,20,98,261,842,91,642,109,Non-New York City
+Westchester,New Castle Town PD,2019,12,54,1,0,0,0,1,53,5,48,0,Non-New York City
+Westchester,New Rochelle City PD,2019,12,1131,147,0,10,50,87,984,52,891,41,Non-New York City
+Westchester,North Castle Town PD,2019,12,79,4,0,0,0,4,75,5,66,4,Non-New York City
+Westchester,NYC DEPP - Eastview PCT,2019,12,10,0,0,0,0,0,10,0,10,0,Non-New York City
+Westchester,NYC-DEPP - Hillview PCT,2019,12,0,0,0,0,0,0,0,0,0,0,Non-New York City
+Westchester,Ossining Vg PD,2019,12,177,20,1,1,4,14,157,13,141,3,Non-New York City
+Westchester,Peekskill City PD,2019,12,239,30,0,1,7,22,209,7,196,6,Non-New York City
+Westchester,Pelham Manor Vg PD,2019,12,156,7,0,0,2,5,149,10,134,5,Non-New York City
+Westchester,Pelham Vg PD,2019,12,49,4,0,0,1,3,45,3,41,1,Non-New York City
+Westchester,Pleasantville Vg PD,2019,12,45,6,3,0,3,0,39,3,36,0,Non-New York City
+Westchester,Port Chester Vg PD,2019,12,221,21,1,2,7,11,200,18,172,10,Non-New York City
+Westchester,Pound Ridge Town PD,2019,12,35,1,0,1,0,0,34,2,32,0,Non-New York City
+Westchester,Rye Brook Vg PD,2019,12,69,0,0,0,0,0,69,6,58,5,Non-New York City
+Westchester,Rye City PD,2019,12,17,1,0,0,1,0,16,2,11,3,Non-New York City
+Westchester,Scarsdale Vg PD,2019,12,122,6,0,0,0,6,116,12,103,1,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2019,12,0,0,0,0,0,0,0,0,0,0,Non-New York City
+Westchester,SUNY Police - Purchase,2019,12,35,3,0,3,0,0,32,5,27,0,Non-New York City
+Westchester,Tarrytown Vg PD,2019,12,64,6,0,2,2,2,58,14,38,6,Non-New York City
+Westchester,Tuckahoe Vg PD,2019,12,28,0,0,0,0,0,28,3,21,4,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2019,12,229,30,0,1,2,27,199,10,182,7,Non-New York City
+Westchester,Westchester County MTA,2019,12,75,10,0,0,4,6,65,0,61,4,Non-New York City
+Westchester,Westchester County Park PD,2019,12,3,0,0,0,0,0,3,0,3,0,Non-New York City
+Westchester,Westchester County State Police,2019,12,339,63,0,17,3,43,276,25,243,8,Non-New York City
+Westchester,White Plains City PD,2019,12,949,83,0,5,20,58,866,36,806,24,Non-New York City
+Westchester,Yonkers City PD,2019,12,2536,708,6,42,224,436,1828,208,1467,153,Non-New York City
+Westchester,Yorktown Town PD,2019,12,222,8,0,1,3,4,214,20,186,8,Non-New York City
+Westchester,Ardsley Vg PD,2018,12,28,1,0,1,0,0,27,4,23,0,Non-New York City
+Westchester,Bedford Town PD,2018,12,45,4,0,0,0,4,41,1,40,0,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2018,12,16,0,0,0,0,0,16,3,10,3,Non-New York City
+Westchester,Bronxville Vg PD,2018,12,25,0,0,0,0,0,25,4,21,0,Non-New York City
+Westchester,Buchanan Vg PD,2018,12,3,0,0,0,0,0,3,0,3,0,Non-New York City
+Westchester,County Total,2018,,9848,1678,14,127,452,1085,8170,822,6896,452,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2018,12,33,2,0,0,0,2,31,1,28,2,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2018,12,96,3,0,0,1,2,93,6,83,4,Non-New York City
+Westchester,Eastchester Town PD,2018,12,94,4,0,0,4,0,90,10,79,1,Non-New York City
+Westchester,Elmsford Vg PD,2018,12,22,4,0,1,1,2,18,1,12,5,Non-New York City
+Westchester,Greenburgh Town PD,2018,12,599,52,0,7,12,33,547,46,485,16,Non-New York City
+Westchester,Harrison Town PD,2018,12,104,2,0,0,2,0,102,12,90,0,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2018,12,79,2,0,0,0,2,77,1,73,3,Non-New York City
+Westchester,Irvington Vg PD,2018,12,19,2,1,0,0,1,17,1,16,0,Non-New York City
+Westchester,Larchmont Vg PD,2018,12,77,2,0,1,0,1,75,6,68,1,Non-New York City
+Westchester,Lewisboro Town PD,2018,12,0,0,0,0,0,0,0,0,0,0,Non-New York City
+Westchester,Mamaroneck Town PD,2018,12,75,0,0,0,0,0,75,11,62,2,Non-New York City
+Westchester,Mamaroneck Vg PD,2018,12,140,13,1,0,2,10,127,24,99,4,Non-New York City
+Westchester,Mount Pleasant Town PD,2018,12,220,14,0,2,3,9,206,30,174,2,Non-New York City
+Westchester,Mount Vernon City PD,2018,12,1331,356,6,27,102,221,975,122,734,119,Non-New York City
+Westchester,New Castle Town PD,2018,12,54,1,0,0,1,0,53,8,44,1,Non-New York City
+Westchester,New Rochelle City PD,2018,12,1003,114,2,11,25,76,889,70,785,34,Non-New York City
+Westchester,North Castle Town PD,2018,12,61,6,0,2,1,3,55,6,46,3,Non-New York City
+Westchester,NYC DEPP - Eastview PCT,2018,12,8,0,0,0,0,0,8,1,7,0,Non-New York City
+Westchester,NYC-DEPP - Hillview PCT,2018,12,0,0,0,0,0,0,0,0,0,0,Non-New York City
+Westchester,Ossining Vg PD,2018,12,203,15,0,0,7,8,188,12,171,5,Non-New York City
+Westchester,Peekskill City PD,2018,12,277,51,1,5,9,36,226,11,209,6,Non-New York City
+Westchester,Pelham Manor Vg PD,2018,12,159,9,0,0,2,7,150,8,140,2,Non-New York City
+Westchester,Pelham Vg PD,2018,12,66,6,0,0,2,4,60,4,54,2,Non-New York City
+Westchester,Pleasantville Vg PD,2018,12,40,2,0,0,1,1,38,4,33,1,Non-New York City
+Westchester,Port Chester Vg PD,2018,12,207,22,0,1,12,9,185,9,164,12,Non-New York City
+Westchester,Pound Ridge Town PD,2018,12,48,3,0,2,0,1,45,2,43,0,Non-New York City
+Westchester,Rye Brook Vg PD,2018,12,46,0,0,0,0,0,46,7,34,5,Non-New York City
+Westchester,Rye City PD,2018,12,62,6,0,0,1,5,56,6,46,4,Non-New York City
+Westchester,Scarsdale Vg PD,2018,12,125,2,0,0,2,0,123,13,105,5,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2018,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Westchester,SUNY Police - Purchase,2018,12,32,1,0,0,0,1,31,2,28,1,Non-New York City
+Westchester,Tarrytown Vg PD,2018,12,48,7,1,0,4,2,41,10,29,2,Non-New York City
+Westchester,Tuckahoe Vg PD,2018,12,18,3,0,0,2,1,15,0,12,3,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2018,12,275,67,1,1,8,57,208,9,194,5,Non-New York City
+Westchester,Westchester County MTA,2018,12,88,14,0,0,5,9,74,3,70,1,Non-New York City
+Westchester,Westchester County Park PD,2018,12,3,0,0,0,0,0,3,1,2,0,Non-New York City
+Westchester,Westchester County State Police,2018,12,415,71,0,26,3,42,344,34,294,16,Non-New York City
+Westchester,White Plains City PD,2018,12,947,98,0,5,26,67,849,33,793,23,Non-New York City
+Westchester,Yonkers City PD,2018,12,2457,705,1,31,213,460,1752,270,1326,156,Non-New York City
+Westchester,Yorktown Town PD,2018,12,199,14,0,4,1,9,185,16,166,3,Non-New York City
+Westchester,Ardsley Vg PD,2017,12,37,2,0,1,0,1,35,8,26,1,Non-New York City
+Westchester,Bedford Town PD,2017,12,42,5,0,2,1,2,37,6,29,2,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2017,12,22,2,0,0,1,1,20,1,19,0,Non-New York City
+Westchester,Bronxville Vg PD,2017,12,29,0,0,0,0,0,29,4,23,2,Non-New York City
+Westchester,Buchanan Vg PD,2017,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
+Westchester,County Total,2017,,11580,1953,19,135,600,1199,9627,1010,8031,586,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2017,12,42,4,0,1,0,3,38,2,33,3,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2017,12,93,4,0,0,1,3,89,4,85,0,Non-New York City
+Westchester,Eastchester Town PD,2017,12,176,5,0,0,4,1,171,6,157,8,Non-New York City
+Westchester,Elmsford Vg PD,2017,12,19,5,0,0,2,3,14,0,11,3,Non-New York City
+Westchester,Greenburgh Town PD,2017,12,664,51,1,10,18,22,613,31,558,24,Non-New York City
+Westchester,Harrison Town PD,2017,12,119,1,0,0,0,1,118,4,113,1,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2017,12,69,3,0,0,1,2,66,5,59,2,Non-New York City
+Westchester,Irvington Vg PD,2017,12,19,3,0,0,1,2,16,2,13,1,Non-New York City
+Westchester,Larchmont Vg PD,2017,12,106,3,0,0,2,1,103,9,88,6,Non-New York City
+Westchester,Lewisboro Town PD,2017,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Westchester,Mamaroneck Town PD,2017,12,61,1,0,0,0,1,60,5,55,0,Non-New York City
+Westchester,Mamaroneck Vg PD,2017,12,150,19,0,0,8,11,131,24,99,8,Non-New York City
+Westchester,Mount Pleasant Town PD,2017,8,134,12,0,1,4,7,122,7,111,4,Non-New York City
+Westchester,Mount Vernon City PD,2017,12,1733,439,6,22,123,288,1294,159,1001,134,Non-New York City
+Westchester,New Castle Town PD,2017,12,50,2,0,0,0,2,48,1,42,5,Non-New York City
+Westchester,New Rochelle City PD,2017,12,1332,181,1,10,70,100,1151,105,979,67,Non-New York City
+Westchester,North Castle Town PD,2017,12,60,3,0,0,1,2,57,6,47,4,Non-New York City
+Westchester,NYC DEPP - Eastview PCT,2017,12,0,0,0,0,0,0,0,0,0,0,Non-New York City
+Westchester,NYC-DEPP - Hillview PCT,2017,12,0,0,0,0,0,0,0,0,0,0,Non-New York City
+Westchester,Ossining Vg PD,2017,12,265,20,0,1,5,14,245,20,218,7,Non-New York City
+Westchester,Peekskill City PD,2017,12,213,34,0,3,12,19,179,17,156,6,Non-New York City
+Westchester,Pelham Manor Vg PD,2017,12,166,4,0,1,0,3,162,14,141,7,Non-New York City
+Westchester,Pelham Vg PD,2017,12,80,0,0,0,0,0,80,6,68,6,Non-New York City
+Westchester,Pleasantville Vg PD,2017,12,51,1,0,0,0,1,50,5,44,1,Non-New York City
+Westchester,Port Chester Vg PD,2017,12,371,49,0,2,23,24,322,29,280,13,Non-New York City
+Westchester,Pound Ridge Town PD,2017,12,39,5,2,1,0,2,34,4,28,2,Non-New York City
+Westchester,Rye Brook Vg PD,2017,12,92,0,0,0,0,0,92,12,78,2,Non-New York City
+Westchester,Rye City PD,2017,12,78,5,0,1,1,3,73,5,58,10,Non-New York City
+Westchester,Scarsdale Vg PD,2017,12,134,6,0,0,2,4,128,7,115,6,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2017,12,1,0,0,0,0,0,1,1,0,0,Non-New York City
+Westchester,SUNY Police - Purchase,2017,12,38,3,0,3,0,0,35,4,31,0,Non-New York City
+Westchester,Tarrytown Vg PD,2017,12,58,9,0,2,3,4,49,3,45,1,Non-New York City
+Westchester,Tuckahoe Vg PD,2017,12,35,1,0,0,1,0,34,4,28,2,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2017,12,293,56,0,1,6,49,237,14,212,11,Non-New York City
+Westchester,Westchester County MTA,2017,12,89,10,0,0,6,4,79,0,75,4,Non-New York City
+Westchester,Westchester County Park PD,2017,12,10,0,0,0,0,0,10,2,7,1,Non-New York City
+Westchester,Westchester County State Police,2017,12,455,76,1,25,5,45,379,48,319,12,Non-New York City
+Westchester,White Plains City PD,2017,12,1090,107,0,9,26,72,983,35,916,32,Non-New York City
+Westchester,Yonkers City PD,2017,12,2833,810,8,36,271,495,2023,360,1481,182,Non-New York City
+Westchester,Yorktown Town PD,2017,12,229,12,0,3,2,7,217,31,180,6,Non-New York City
+Westchester,Ardsley Vg PD,2016,12,30,1,0,0,1,0,29,2,27,0,Non-New York City
+Westchester,Bedford Town PD,2016,12,74,8,0,2,1,5,66,13,49,4,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2016,12,23,0,0,0,0,0,23,5,18,0,Non-New York City
+Westchester,Bronxville Vg PD,2016,12,41,0,0,0,0,0,41,12,27,2,Non-New York City
+Westchester,Buchanan Vg PD,2016,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Westchester,County Total,2016,,12543,2116,24,144,768,1180,10427,1328,8490,609,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2016,12,31,0,0,0,0,0,31,5,26,0,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2016,12,99,7,0,1,3,3,92,20,71,1,Non-New York City
+Westchester,Eastchester Town PD,2016,12,178,5,0,0,2,3,173,16,154,3,Non-New York City
+Westchester,Elmsford Vg PD,2016,12,27,6,0,1,2,3,21,4,14,3,Non-New York City
+Westchester,Greenburgh Town PD,2016,12,822,57,0,12,15,30,765,36,707,22,Non-New York City
+Westchester,Harrison Town PD,2016,12,128,1,0,0,0,1,127,8,118,1,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2016,12,57,2,0,0,2,0,55,2,50,3,Non-New York City
+Westchester,Irvington Vg PD,2016,12,23,2,0,0,1,1,21,8,13,0,Non-New York City
+Westchester,Larchmont Vg PD,2016,12,106,2,0,0,1,1,104,10,91,3,Non-New York City
+Westchester,Lewisboro Town PD,2016,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
+Westchester,Mamaroneck Town PD,2016,12,88,4,0,0,1,3,84,14,67,3,Non-New York City
+Westchester,Mamaroneck Vg PD,2016,12,113,17,0,1,2,14,96,11,82,3,Non-New York City
+Westchester,Mount Pleasant Town PD,2016,12,224,14,0,3,6,5,210,28,182,0,Non-New York City
+Westchester,Mount Vernon City PD,2016,12,1693,461,11,31,156,263,1232,196,918,118,Non-New York City
+Westchester,New Castle Town PD,2016,12,59,3,0,0,1,2,56,5,50,1,Non-New York City
+Westchester,New Rochelle City PD,2016,12,1352,175,3,14,67,91,1177,118,996,63,Non-New York City
+Westchester,North Castle Town PD,2016,12,78,1,0,0,0,1,77,6,69,2,Non-New York City
+Westchester,NYC DEPP - Eastview PCT,2016,12,3,0,0,0,0,0,3,0,3,0,Non-New York City
+Westchester,NYC-DEPP - Hillview PCT,2016,12,0,0,0,0,0,0,0,0,0,0,Non-New York City
+Westchester,Ossining Vg PD,2016,12,172,17,0,1,6,10,155,32,117,6,Non-New York City
+Westchester,Peekskill City PD,2016,12,200,27,0,1,9,17,173,19,146,8,Non-New York City
+Westchester,Pelham Manor Vg PD,2016,12,166,3,0,0,2,1,163,20,130,13,Non-New York City
+Westchester,Pelham Vg PD,2016,12,91,6,0,0,1,5,85,7,74,4,Non-New York City
+Westchester,Pleasantville Vg PD,2016,12,71,1,0,0,0,1,70,7,61,2,Non-New York City
+Westchester,Port Chester Vg PD,2016,12,550,44,0,2,21,21,506,47,441,18,Non-New York City
+Westchester,Pound Ridge Town PD,2016,12,38,1,0,1,0,0,37,2,34,1,Non-New York City
+Westchester,Rye Brook Vg PD,2016,12,67,3,0,2,0,1,64,7,52,5,Non-New York City
+Westchester,Rye City PD,2016,12,63,1,0,0,0,1,62,8,50,4,Non-New York City
+Westchester,Scarsdale Vg PD,2016,12,168,4,1,1,0,2,164,42,119,3,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2016,12,23,6,0,0,2,4,17,6,10,1,Non-New York City
+Westchester,SUNY Police - Purchase,2016,12,44,1,0,1,0,0,43,7,36,0,Non-New York City
+Westchester,Tarrytown Vg PD,2016,12,64,5,0,0,0,5,59,8,50,1,Non-New York City
+Westchester,Tuckahoe Vg PD,2016,12,50,1,0,0,0,1,49,4,40,5,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2016,12,377,72,0,2,7,63,305,19,270,16,Non-New York City
+Westchester,Westchester County MTA,2016,12,93,15,0,0,7,8,78,2,76,0,Non-New York City
+Westchester,Westchester County Park PD,2016,12,9,1,0,0,0,1,8,0,8,0,Non-New York City
+Westchester,Westchester County State Police,2016,12,506,63,0,20,8,35,443,58,372,13,Non-New York City
+Westchester,White Plains City PD,2016,12,1052,121,0,10,30,81,931,53,854,24,Non-New York City
+Westchester,Yonkers City PD,2016,12,3131,944,9,34,408,493,2187,422,1516,249,Non-New York City
+Westchester,Yorktown Town PD,2016,12,356,14,0,4,6,4,342,39,299,4,Non-New York City
+Westchester,Ardsley Vg PD,2015,12,31,0,0,0,0,0,31,5,25,1,Non-New York City
+Westchester,Bedford Town PD,2015,12,86,5,1,1,0,3,81,15,66,0,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2015,12,32,0,0,0,0,0,32,7,25,0,Non-New York City
+Westchester,Bronxville Vg PD,2015,12,33,3,0,0,3,0,30,11,18,1,Non-New York City
+Westchester,Buchanan Vg PD,2015,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
+Westchester,County Total,2015,,12240,2148,17,171,739,1221,10092,1307,8103,682,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2015,12,31,4,0,1,1,2,27,0,27,0,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2015,12,99,9,0,1,1,7,90,13,74,3,Non-New York City
+Westchester,Eastchester Town PD,2015,12,177,6,0,0,4,2,171,10,152,9,Non-New York City
+Westchester,Elmsford Vg PD,2015,12,33,5,0,0,2,3,28,6,20,2,Non-New York City
+Westchester,Greenburgh Town PD,2015,12,679,49,0,11,17,21,630,52,541,37,Non-New York City
+Westchester,Harrison Town PD,2015,12,116,4,2,1,0,1,112,5,106,1,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2015,12,60,5,0,1,0,4,55,6,47,2,Non-New York City
+Westchester,Irvington Vg PD,2015,12,25,1,0,0,0,1,24,4,18,2,Non-New York City
+Westchester,Larchmont Vg PD,2015,12,67,4,0,0,2,2,63,13,46,4,Non-New York City
+Westchester,Lewisboro Town PD,2015,12,3,0,0,0,0,0,3,0,3,0,Non-New York City
+Westchester,Mamaroneck Town PD,2015,12,105,8,0,1,3,4,97,14,80,3,Non-New York City
+Westchester,Mamaroneck Vg PD,2015,12,143,6,0,0,3,3,137,22,111,4,Non-New York City
+Westchester,Mount Kisco Vg PD,2015,5,58,7,0,0,2,5,51,13,38,0,Non-New York City
+Westchester,Mount Pleasant Town PD,2015,12,211,17,0,3,5,9,194,21,171,2,Non-New York City
+Westchester,Mount Vernon City PD,2015,12,1613,481,2,38,128,313,1132,226,782,124,Non-New York City
+Westchester,New Castle Town PD,2015,12,60,2,0,0,2,0,58,13,44,1,Non-New York City
+Westchester,New Rochelle City PD,2015,12,1458,173,0,11,75,87,1285,138,1056,91,Non-New York City
+Westchester,North Castle Town PD,2015,12,63,4,0,0,0,4,59,7,50,2,Non-New York City
+Westchester,NYC DEPP - Eastview PCT,2015,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
+Westchester,NYC-DEPP - Hillview PCT,2015,12,0,0,0,0,0,0,0,0,0,0,Non-New York City
+Westchester,Ossining Vg PD,2015,12,240,37,1,1,17,18,203,27,165,11,Non-New York City
+Westchester,Peekskill City PD,2015,12,322,39,1,1,12,25,283,23,253,7,Non-New York City
+Westchester,Pelham Manor Vg PD,2015,12,99,8,0,0,6,2,91,3,88,0,Non-New York City
+Westchester,Pelham Vg PD,2015,12,78,4,0,1,1,2,74,8,64,2,Non-New York City
+Westchester,Pleasantville Vg PD,2015,12,79,4,0,0,1,3,75,7,67,1,Non-New York City
+Westchester,Port Chester Vg PD,2015,12,596,75,1,5,33,36,521,39,471,11,Non-New York City
+Westchester,Pound Ridge Town PD,2015,12,25,2,0,0,1,1,23,0,23,0,Non-New York City
+Westchester,Rye Brook Vg PD,2015,12,60,2,0,0,1,1,58,4,53,1,Non-New York City
+Westchester,Rye City PD,2015,12,49,1,0,0,1,0,48,5,41,2,Non-New York City
+Westchester,Scarsdale Vg PD,2015,12,149,3,0,0,2,1,146,25,119,2,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2015,12,42,8,1,0,0,7,34,11,20,3,Non-New York City
+Westchester,SUNY Police - Purchase,2015,12,73,1,0,1,0,0,72,11,61,0,Non-New York City
+Westchester,Tarrytown Vg PD,2015,12,64,9,0,0,6,3,55,7,42,6,Non-New York City
+Westchester,Tuckahoe Vg PD,2015,12,45,1,0,1,0,0,44,5,34,5,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2015,12,156,6,1,0,2,3,150,8,137,5,Non-New York City
+Westchester,Westchester County MTA,2015,12,77,8,0,1,5,2,69,2,64,3,Non-New York City
+Westchester,Westchester County Park PD,2015,12,14,1,0,0,0,1,13,1,12,0,Non-New York City
+Westchester,Westchester County State Police,2015,12,481,76,1,25,8,42,405,56,326,23,Non-New York City
+Westchester,White Plains City PD,2015,12,1120,102,0,7,30,65,1018,53,937,28,Non-New York City
+Westchester,Yonkers City PD,2015,12,2958,950,6,54,361,529,2008,378,1357,273,Non-New York City
+Westchester,Yorktown Town PD,2015,12,326,18,0,5,4,9,308,33,265,10,Non-New York City
+Westchester,Ardsley Vg PD,2014,12,26,1,0,0,0,1,25,6,19,0,Non-New York City
+Westchester,Bedford Town PD,2014,12,124,1,0,0,0,1,123,12,109,2,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2014,12,19,2,0,0,0,2,17,4,13,0,Non-New York City
+Westchester,Bronxville Vg PD,2014,12,27,2,0,0,2,0,25,5,20,0,Non-New York City
+Westchester,Buchanan Vg PD,2014,12,3,0,0,0,0,0,3,0,3,0,Non-New York City
+Westchester,County Total,2014,,12106,2149,14,65,804,1266,9957,1490,7995,472,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2014,12,46,3,0,0,0,3,43,3,40,0,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2014,12,99,3,0,0,1,2,96,11,81,4,Non-New York City
+Westchester,Eastchester Town PD,2014,12,146,6,0,0,2,4,140,25,112,3,Non-New York City
+Westchester,Elmsford Vg PD,2014,12,38,2,0,0,2,0,36,6,21,9,Non-New York City
+Westchester,Greenburgh Town PD,2014,12,663,59,0,5,20,34,604,68,513,23,Non-New York City
+Westchester,Harrison Town PD,2014,12,135,6,0,1,0,5,129,17,111,1,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2014,12,56,1,0,0,0,1,55,3,50,2,Non-New York City
+Westchester,Irvington Vg PD,2014,12,19,1,0,0,0,1,18,5,13,0,Non-New York City
+Westchester,Larchmont Vg PD,2014,12,100,0,0,0,0,0,100,7,92,1,Non-New York City
+Westchester,Lewisboro Town PD,2014,12,5,0,0,0,0,0,5,0,5,0,Non-New York City
+Westchester,Mamaroneck Town PD,2014,12,118,1,0,0,1,0,117,20,95,2,Non-New York City
+Westchester,Mamaroneck Vg PD,2014,12,192,20,0,0,1,19,172,28,141,3,Non-New York City
+Westchester,Mount Kisco Vg PD,2014,12,145,28,0,2,8,18,117,23,91,3,Non-New York City
+Westchester,Mount Pleasant Town PD,2014,12,215,10,0,1,2,7,205,35,169,1,Non-New York City
+Westchester,Mount Vernon City PD,2014,12,1514,482,6,20,195,261,1032,251,696,85,Non-New York City
+Westchester,New Castle Town PD,2014,12,54,2,0,0,0,2,52,15,35,2,Non-New York City
+Westchester,New Rochelle City PD,2014,12,1390,177,1,6,76,94,1213,146,1019,48,Non-New York City
+Westchester,North Castle Town PD,2014,12,65,2,0,0,1,1,63,9,52,2,Non-New York City
+Westchester,NYC DEPP - Eastview PCT,2014,5,0,0,0,0,0,0,0,0,0,0,Non-New York City
+Westchester,Ossining Vg PD,2014,12,267,55,1,1,28,25,212,47,157,8,Non-New York City
+Westchester,Peekskill City PD,2014,12,241,52,0,0,11,41,189,22,164,3,Non-New York City
+Westchester,Pelham Manor Vg PD,2014,12,133,4,0,0,4,0,129,11,118,0,Non-New York City
+Westchester,Pelham Vg PD,2014,12,80,6,0,1,3,2,74,8,65,1,Non-New York City
+Westchester,Pleasantville Vg PD,2014,12,8,1,1,0,0,0,7,1,6,0,Non-New York City
+Westchester,Port Chester Vg PD,2014,12,560,58,0,1,34,23,502,53,436,13,Non-New York City
+Westchester,Pound Ridge Town PD,2014,12,42,3,0,0,0,3,39,5,34,0,Non-New York City
+Westchester,Rye Brook Vg PD,2014,12,94,2,0,0,2,0,92,12,78,2,Non-New York City
+Westchester,Rye City PD,2014,12,58,4,0,0,3,1,54,4,49,1,Non-New York City
+Westchester,Scarsdale Vg PD,2014,12,130,1,0,0,1,0,129,24,102,3,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2014,12,61,8,0,0,4,4,53,10,41,2,Non-New York City
+Westchester,SUNY Police - Purchase,2014,12,89,0,0,0,0,0,89,17,72,0,Non-New York City
+Westchester,Tarrytown Vg PD,2014,12,92,6,0,0,3,3,86,20,63,3,Non-New York City
+Westchester,Tuckahoe Vg PD,2014,12,47,2,0,0,0,2,45,3,38,4,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2014,12,124,5,1,0,2,2,119,0,118,1,Non-New York City
+Westchester,Westchester County MTA,2014,12,103,10,0,0,8,2,93,2,91,0,Non-New York City
+Westchester,Westchester County Park PD,2014,12,9,2,0,0,0,2,7,1,6,0,Non-New York City
+Westchester,Westchester County State Police,2014,12,424,43,0,4,8,31,381,58,309,14,Non-New York City
+Westchester,White Plains City PD,2014,12,1146,100,1,1,25,73,1046,55,968,23,Non-New York City
+Westchester,Yonkers City PD,2014,12,2974,963,3,22,357,581,2011,414,1397,200,Non-New York City
+Westchester,Yorktown Town PD,2014,12,225,15,0,0,0,15,210,24,183,3,Non-New York City
+Westchester,Ardsley Vg PD,2013,12,38,5,0,0,3,2,33,4,28,1,Non-New York City
+Westchester,Bedford Town PD,2013,12,161,5,0,0,1,4,156,26,126,4,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2013,12,12,1,0,0,0,1,11,1,10,0,Non-New York City
+Westchester,Bronxville Vg PD,2013,12,47,0,0,0,0,0,47,5,39,3,Non-New York City
+Westchester,Buchanan Vg PD,2013,12,5,1,0,1,0,0,4,0,4,0,Non-New York City
+Westchester,County Total,2013,,14135,2192,11,59,843,1279,11943,1678,9646,619,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2013,12,54,1,0,0,1,0,53,8,43,2,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2013,12,105,1,0,0,0,1,104,13,89,2,Non-New York City
+Westchester,Eastchester Town PD,2013,12,170,2,0,0,0,2,168,13,154,1,Non-New York City
+Westchester,Elmsford Vg PD,2013,12,37,2,0,1,0,1,35,3,27,5,Non-New York City
+Westchester,Greenburgh Town PD,2013,12,627,48,1,5,16,26,579,55,501,23,Non-New York City
+Westchester,Harrison Town PD,2013,12,231,6,0,0,1,5,225,27,194,4,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2013,12,82,1,0,0,1,0,81,4,75,2,Non-New York City
+Westchester,Irvington Vg PD,2013,12,23,0,0,0,0,0,23,4,19,0,Non-New York City
+Westchester,Larchmont Vg PD,2013,12,89,2,0,0,0,2,87,8,77,2,Non-New York City
+Westchester,Lewisboro Town PD,2013,12,31,0,0,0,0,0,31,0,31,0,Non-New York City
+Westchester,Mamaroneck Town PD,2013,12,159,1,0,0,1,0,158,16,141,1,Non-New York City
+Westchester,Mamaroneck Vg PD,2013,12,189,8,0,1,2,5,181,23,150,8,Non-New York City
+Westchester,Mount Kisco Vg PD,2013,12,125,17,0,1,6,10,108,10,98,0,Non-New York City
+Westchester,Mount Pleasant Town PD,2013,12,238,12,0,0,6,6,226,25,198,3,Non-New York City
+Westchester,Mount Vernon City PD,2013,12,1993,556,2,7,228,319,1437,318,972,147,Non-New York City
+Westchester,New Castle Town PD,2013,12,79,2,0,0,0,2,77,13,62,2,Non-New York City
+Westchester,New Rochelle City PD,2013,12,1569,176,0,6,81,89,1393,151,1172,70,Non-New York City
+Westchester,North Castle Town PD,2013,12,71,3,0,0,0,3,68,12,53,3,Non-New York City
+Westchester,NYC DEPP - Eastview PCT,2013,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
+Westchester,Ossining Vg PD,2013,12,279,36,0,0,21,15,243,46,192,5,Non-New York City
+Westchester,Peekskill City PD,2013,12,278,30,0,0,8,22,248,25,215,8,Non-New York City
+Westchester,Pelham Manor Vg PD,2013,12,149,2,0,0,1,1,147,14,130,3,Non-New York City
+Westchester,Pelham Vg PD,2013,12,179,7,0,1,2,4,172,22,149,1,Non-New York City
+Westchester,Pleasantville Vg PD,2013,12,22,0,0,0,0,0,22,1,21,0,Non-New York City
+Westchester,Port Chester Vg PD,2013,12,620,48,0,2,19,27,572,67,483,22,Non-New York City
+Westchester,Pound Ridge Town PD,2013,12,36,3,0,0,0,3,33,15,18,0,Non-New York City
+Westchester,Rye Brook Vg PD,2013,12,90,2,0,0,2,0,88,9,77,2,Non-New York City
+Westchester,Rye City PD,2013,12,94,5,0,0,2,3,89,9,77,3,Non-New York City
+Westchester,Scarsdale Vg PD,2013,12,185,1,0,0,0,1,184,24,153,7,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2013,12,66,8,1,0,1,6,58,9,47,2,Non-New York City
+Westchester,SUNY Police - Purchase,2013,12,70,2,0,0,0,2,68,7,61,0,Non-New York City
+Westchester,Tarrytown Vg PD,2013,12,116,6,0,0,3,3,110,12,94,4,Non-New York City
+Westchester,Tuckahoe Vg PD,2013,12,35,0,0,0,0,0,35,7,27,1,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2013,12,185,7,0,1,1,5,178,3,173,2,Non-New York City
+Westchester,Westchester County MTA,2013,12,99,10,0,0,8,2,89,0,84,5,Non-New York City
+Westchester,Westchester County Park PD,2013,12,17,0,0,0,0,0,17,0,16,1,Non-New York City
+Westchester,Westchester County State Police,2013,12,413,46,0,5,8,33,367,77,279,11,Non-New York City
+Westchester,White Plains City PD,2013,12,1311,78,1,3,28,46,1233,77,1135,21,Non-New York City
+Westchester,Yonkers City PD,2013,12,3404,1036,6,25,390,615,2368,470,1662,236,Non-New York City
+Westchester,Yorktown Town PD,2013,12,350,15,0,0,2,13,335,45,288,2,Non-New York City
+Westchester,Ardsley Vg PD,2012,12,45,2,0,0,1,1,43,8,34,1,Non-New York City
+Westchester,Bedford Town PD,2012,12,184,10,0,2,3,5,174,22,148,4,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2012,12,14,0,0,0,0,0,14,4,10,0,Non-New York City
+Westchester,Bronxville Vg PD,2012,12,50,1,0,0,0,1,49,3,43,3,Non-New York City
+Westchester,County Total,2012,,15040,2448,20,72,924,1432,12592,1887,10069,636,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2012,12,70,1,0,0,0,1,69,8,58,3,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2012,11,139,8,0,0,4,4,131,14,112,5,Non-New York City
+Westchester,Eastchester Town PD,2012,12,227,4,0,0,2,2,223,13,204,6,Non-New York City
+Westchester,Elmsford Vg PD,2012,12,55,5,0,0,1,4,50,12,31,7,Non-New York City
+Westchester,Greenburgh Town PD,2012,12,640,49,0,0,16,33,591,66,490,35,Non-New York City
+Westchester,Harrison Town PD,2012,12,221,11,0,1,4,6,210,25,181,4,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2012,12,70,7,0,0,6,1,63,10,52,1,Non-New York City
+Westchester,Irvington Vg PD,2012,12,23,0,0,0,0,0,23,3,20,0,Non-New York City
+Westchester,Larchmont Vg PD,2012,12,110,2,0,0,0,2,108,18,89,1,Non-New York City
+Westchester,Lewisboro Town PD,2012,12,32,0,0,0,0,0,32,0,32,0,Non-New York City
+Westchester,Mamaroneck Town PD,2012,12,155,3,0,0,1,2,152,25,123,4,Non-New York City
+Westchester,Mamaroneck Vg PD,2012,12,167,16,1,1,6,8,151,20,122,9,Non-New York City
+Westchester,Mount Kisco Vg PD,2012,12,148,27,0,0,5,22,121,9,108,4,Non-New York City
+Westchester,Mount Pleasant Town PD,2012,12,254,14,0,3,3,8,240,52,182,6,Non-New York City
+Westchester,Mount Vernon City PD,2012,12,1956,612,10,14,224,364,1344,323,886,135,Non-New York City
+Westchester,New Castle Town PD,2012,12,75,1,0,0,1,0,74,7,66,1,Non-New York City
+Westchester,New Rochelle City PD,2012,12,1577,181,0,3,91,87,1396,179,1152,65,Non-New York City
+Westchester,North Castle Town PD,2012,12,97,3,0,0,1,2,94,10,84,0,Non-New York City
+Westchester,NYC DEPP - Eastview PCT,2012,12,8,0,0,0,0,0,8,0,8,0,Non-New York City
+Westchester,Ossining Vg PD,2012,12,355,41,0,0,18,23,314,74,227,13,Non-New York City
+Westchester,Peekskill City PD,2012,12,258,37,2,4,9,22,221,31,182,8,Non-New York City
+Westchester,Pelham Manor Vg PD,2012,12,144,1,0,0,1,0,143,20,118,5,Non-New York City
+Westchester,Pelham Vg PD,2012,12,118,6,0,0,5,1,112,16,93,3,Non-New York City
+Westchester,Pleasantville Vg PD,2012,12,34,0,0,0,0,0,34,2,31,1,Non-New York City
+Westchester,Port Chester Vg PD,2012,12,752,67,2,1,44,20,685,61,606,18,Non-New York City
+Westchester,Pound Ridge Town PD,2012,12,23,3,0,0,0,3,20,4,16,0,Non-New York City
+Westchester,Rye Brook Vg PD,2012,12,68,1,0,0,0,1,67,6,59,2,Non-New York City
+Westchester,Rye City PD,2012,12,143,1,0,0,0,1,142,16,121,5,Non-New York City
+Westchester,Scarsdale Vg PD,2012,12,147,2,0,0,1,1,145,24,117,4,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2012,12,89,9,0,0,2,7,80,14,64,2,Non-New York City
+Westchester,SUNY Police - Purchase,2012,12,50,2,0,0,1,1,48,13,35,0,Non-New York City
+Westchester,Tarrytown Vg PD,2012,12,95,2,0,0,0,2,93,11,78,4,Non-New York City
+Westchester,Tuckahoe Vg PD,2012,12,24,1,0,1,0,0,23,3,20,0,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2012,12,213,9,0,1,0,8,204,7,194,3,Non-New York City
+Westchester,Westchester County MTA,2012,12,116,14,0,0,10,4,102,2,99,1,Non-New York City
+Westchester,Westchester County Park PD,2012,12,11,0,0,0,0,0,11,0,11,0,Non-New York City
+Westchester,Westchester County State Police,2012,12,492,56,0,10,7,39,436,98,323,15,Non-New York City
+Westchester,White Plains City PD,2012,12,1479,92,1,3,31,57,1387,82,1280,25,Non-New York City
+Westchester,Yonkers City PD,2012,12,3697,1133,4,28,422,679,2564,534,1799,231,Non-New York City
+Westchester,Yorktown Town PD,2012,12,415,14,0,0,4,10,401,38,361,2,Non-New York City
+Westchester,Ardsley Vg PD,2011,12,40,1,0,0,0,1,39,6,33,0,Non-New York City
+Westchester,Bedford Town PD,2011,12,94,11,0,1,1,9,83,10,72,1,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2011,12,32,2,0,0,2,0,30,8,22,0,Non-New York City
+Westchester,Bronxville Vg PD,2011,12,61,0,0,0,0,0,61,11,47,3,Non-New York City
+Westchester,Buchanan Vg PD,2011,12,1,0,0,0,0,0,1,1,0,0,Non-New York City
+Westchester,County Total,2011,,16283,2557,21,71,1034,1431,13726,2125,10823,778,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2011,12,66,1,0,0,0,1,65,3,59,3,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2011,12,155,15,0,0,9,6,140,17,116,7,Non-New York City
+Westchester,Eastchester Town PD,2011,12,170,4,0,0,2,2,166,15,147,4,Non-New York City
+Westchester,Elmsford Vg PD,2011,12,70,11,0,2,4,5,59,7,41,11,Non-New York City
+Westchester,Greenburgh Town PD,2011,12,755,57,1,3,11,42,698,80,598,20,Non-New York City
+Westchester,Harrison Town PD,2011,12,256,17,0,0,4,13,239,26,208,5,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2011,12,109,2,0,0,1,1,107,9,98,0,Non-New York City
+Westchester,Irvington Vg PD,2011,12,26,2,0,0,1,1,24,3,18,3,Non-New York City
+Westchester,Larchmont Vg PD,2011,12,131,3,0,0,2,1,128,24,101,3,Non-New York City
+Westchester,Lewisboro Town PD,2011,12,26,0,0,0,0,0,26,1,25,0,Non-New York City
+Westchester,Mamaroneck Town PD,2011,12,134,7,0,0,2,5,127,13,109,5,Non-New York City
+Westchester,Mamaroneck Vg PD,2011,12,198,27,0,2,8,17,171,28,131,12,Non-New York City
+Westchester,Mount Kisco Vg PD,2011,12,196,33,0,1,12,20,163,14,144,5,Non-New York City
+Westchester,Mount Pleasant Town PD,2011,12,315,10,0,0,2,8,305,33,265,7,Non-New York City
+Westchester,Mount Vernon City PD,2011,12,2117,658,6,9,249,394,1459,296,1012,151,Non-New York City
+Westchester,New Castle Town PD,2011,12,114,5,0,0,0,5,109,19,87,3,Non-New York City
+Westchester,New Rochelle City PD,2011,12,1560,216,2,2,118,94,1344,166,1105,73,Non-New York City
+Westchester,North Castle Town PD,2011,12,51,4,0,1,1,2,47,9,37,1,Non-New York City
+Westchester,NYC DEPP - Eastview PCT,2011,12,6,0,0,0,0,0,6,0,6,0,Non-New York City
+Westchester,Ossining Vg PD,2011,12,278,44,0,1,25,18,234,42,181,11,Non-New York City
+Westchester,Peekskill City PD,2011,12,253,36,0,2,10,24,217,37,170,10,Non-New York City
+Westchester,Pelham Manor Vg PD,2011,12,154,6,0,0,3,3,148,12,130,6,Non-New York City
+Westchester,Pelham Vg PD,2011,12,139,4,0,0,3,1,135,7,122,6,Non-New York City
+Westchester,Port Chester Vg PD,2011,12,959,77,1,2,45,29,882,85,740,57,Non-New York City
+Westchester,Pound Ridge Town PD,2011,12,42,1,0,1,0,0,41,16,24,1,Non-New York City
+Westchester,Rye Brook Vg PD,2011,12,93,2,0,0,0,2,91,11,78,2,Non-New York City
+Westchester,Rye City PD,2011,12,181,1,0,0,1,0,180,14,163,3,Non-New York City
+Westchester,Scarsdale Vg PD,2011,12,144,2,0,0,0,2,142,19,121,2,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2011,12,113,6,0,0,4,2,107,19,77,11,Non-New York City
+Westchester,SUNY Police - Purchase,2011,12,119,1,0,1,0,0,118,53,65,0,Non-New York City
+Westchester,Tarrytown Vg PD,2011,12,123,8,0,1,3,4,115,20,91,4,Non-New York City
+Westchester,Tuckahoe Vg PD,2011,12,10,3,0,0,1,2,7,1,6,0,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2011,12,166,25,0,0,2,23,141,10,129,2,Non-New York City
+Westchester,Westchester County MTA,2011,12,120,8,0,0,7,1,112,0,109,3,Non-New York City
+Westchester,Westchester County Park PD,2011,12,5,0,0,0,0,0,5,0,5,0,Non-New York City
+Westchester,Westchester County State Police,2011,12,598,42,3,3,5,31,556,132,410,14,Non-New York City
+Westchester,White Plains City PD,2011,12,1352,87,1,3,29,54,1265,46,1190,29,Non-New York City
+Westchester,Yonkers City PD,2011,12,4271,1097,7,36,463,591,3174,753,2123,298,Non-New York City
+Westchester,Yorktown Town PD,2011,12,480,21,0,0,4,17,459,49,408,2,Non-New York City
+Westchester,Ardsley Vg PD,2010,12,25,1,0,0,0,1,24,6,17,1,Non-New York City
+Westchester,Bedford Town PD,2010,12,42,2,0,0,0,2,40,9,28,3,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2010,12,19,1,0,0,1,0,18,3,15,0,Non-New York City
+Westchester,Bronxville Vg PD,2010,12,56,4,0,0,2,2,52,6,43,3,Non-New York City
+Westchester,Buchanan Vg PD,2010,12,12,1,0,0,1,0,11,6,4,1,Non-New York City
+Westchester,County Total,2010,,15392,2457,20,75,1095,1267,12935,1983,10276,676,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2010,12,72,2,0,0,1,1,70,16,53,1,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2010,12,142,7,0,0,5,2,135,21,112,2,Non-New York City
+Westchester,Eastchester Town PD,2010,12,211,8,0,0,5,3,203,23,174,6,Non-New York City
+Westchester,Elmsford Vg PD,2010,12,49,6,0,0,4,2,43,7,26,10,Non-New York City
+Westchester,Greenburgh Town PD,2010,12,704,70,0,3,23,44,634,71,546,17,Non-New York City
+Westchester,Harrison Town PD,2010,12,274,20,1,2,1,16,254,29,215,10,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2010,12,146,7,0,1,1,5,139,14,122,3,Non-New York City
+Westchester,Irvington Vg PD,2010,12,29,0,0,0,0,0,29,6,23,0,Non-New York City
+Westchester,Larchmont Vg PD,2010,12,85,2,0,0,2,0,83,7,74,2,Non-New York City
+Westchester,Lewisboro Town PD,2010,12,40,0,0,0,0,0,40,2,37,1,Non-New York City
+Westchester,Mamaroneck Town PD,2010,12,152,8,0,0,5,3,144,21,121,2,Non-New York City
+Westchester,Mamaroneck Vg PD,2010,12,151,15,1,1,1,12,136,30,102,4,Non-New York City
+Westchester,Mount Kisco Vg PD,2010,12,191,27,0,1,6,20,164,25,134,5,Non-New York City
+Westchester,Mount Pleasant Town PD,2010,12,195,9,0,1,4,4,186,29,155,2,Non-New York City
+Westchester,Mount Vernon City PD,2010,12,2262,678,3,12,330,333,1584,354,1052,178,Non-New York City
+Westchester,New Castle Town PD,2010,12,110,3,0,0,2,1,107,29,75,3,Non-New York City
+Westchester,New Rochelle City PD,2010,12,1439,220,1,5,95,119,1219,140,1025,54,Non-New York City
+Westchester,North Castle Town PD,2010,12,72,1,0,0,0,1,71,16,51,4,Non-New York City
+Westchester,NYC DEPP - Eastview PCT,2010,12,15,0,0,0,0,0,15,0,15,0,Non-New York City
+Westchester,Ossining Town PD,2010,12,15,0,0,0,0,0,15,2,12,1,Non-New York City
+Westchester,Ossining Vg PD,2010,12,287,39,0,0,20,19,248,54,191,3,Non-New York City
+Westchester,Peekskill City PD,2010,12,263,31,1,1,7,22,232,57,172,3,Non-New York City
+Westchester,Pelham Manor Vg PD,2010,12,154,9,0,0,7,2,145,7,133,5,Non-New York City
+Westchester,Pelham Vg PD,2010,12,120,20,0,0,10,10,100,19,79,2,Non-New York City
+Westchester,Pleasantville Vg PD,2010,12,5,2,0,0,1,1,3,0,3,0,Non-New York City
+Westchester,Port Chester Vg PD,2010,12,729,51,0,2,28,21,678,92,558,28,Non-New York City
+Westchester,Pound Ridge Town PD,2010,12,99,0,0,0,0,0,99,8,91,0,Non-New York City
+Westchester,Rye Brook Vg PD,2010,12,94,2,0,0,2,0,92,11,79,2,Non-New York City
+Westchester,Rye City PD,2010,12,186,5,0,0,1,4,181,20,151,10,Non-New York City
+Westchester,Scarsdale Vg PD,2010,12,220,5,0,0,2,3,215,43,167,5,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2010,12,113,11,0,0,3,8,102,20,80,2,Non-New York City
+Westchester,SUNY Police - Purchase,2010,12,135,8,0,5,1,2,127,23,104,0,Non-New York City
+Westchester,Tarrytown Vg PD,2010,12,87,7,0,0,6,1,80,8,70,2,Non-New York City
+Westchester,Tuckahoe Vg PD,2010,12,12,4,0,0,1,3,8,1,7,0,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2010,12,278,67,0,0,2,65,211,15,190,6,Non-New York City
+Westchester,Westchester County MTA,2010,12,120,12,0,0,6,6,108,3,103,2,Non-New York City
+Westchester,Westchester County Park PD,2010,12,14,2,0,0,0,2,12,0,12,0,Non-New York City
+Westchester,Westchester County State Police,2010,12,531,61,1,10,9,41,470,100,351,19,Non-New York City
+Westchester,White Plains City PD,2010,12,1204,110,2,2,40,66,1094,48,1017,29,Non-New York City
+Westchester,Yonkers City PD,2010,12,3746,895,9,29,455,402,2851,521,2086,244,Non-New York City
+Westchester,Yorktown Town PD,2010,12,487,24,1,0,5,18,463,61,401,1,Non-New York City
+Westchester,Ardsley Vg PD,2009,12,37,1,0,0,1,0,36,9,26,1,Non-New York City
+Westchester,Bedford Town PD,2009,12,119,4,0,0,2,2,115,20,94,1,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2009,12,28,0,0,0,0,0,28,1,27,0,Non-New York City
+Westchester,Bronxville Vg PD,2009,12,70,1,0,0,1,0,69,10,55,4,Non-New York City
+Westchester,Buchanan Vg PD,2009,12,22,0,0,0,0,0,22,2,20,0,Non-New York City
+Westchester,County Total,2009,,16636,2482,22,77,1042,1341,14154,2249,11007,898,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2009,12,76,3,0,0,2,1,73,16,56,1,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2009,12,181,5,0,0,2,3,176,26,144,6,Non-New York City
+Westchester,Eastchester Town PD,2009,12,234,10,0,0,3,7,224,19,200,5,Non-New York City
+Westchester,Elmsford Vg PD,2009,12,78,7,0,1,1,5,71,19,43,9,Non-New York City
+Westchester,Greenburgh Town PD,2009,12,792,52,0,3,17,32,740,114,594,32,Non-New York City
+Westchester,Harrison Town PD,2009,12,302,12,0,0,1,11,290,51,220,19,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2009,12,156,16,0,0,2,14,140,17,120,3,Non-New York City
+Westchester,Irvington Vg PD,2009,12,28,1,0,0,0,1,27,6,21,0,Non-New York City
+Westchester,Larchmont Vg PD,2009,12,136,1,0,0,0,1,135,17,115,3,Non-New York City
+Westchester,Lewisboro Town PD,2009,12,77,0,0,0,0,0,77,8,69,0,Non-New York City
+Westchester,Mamaroneck Town PD,2009,12,156,1,0,0,1,0,155,21,126,8,Non-New York City
+Westchester,Mamaroneck Vg PD,2009,12,229,17,0,0,6,11,212,37,160,15,Non-New York City
+Westchester,Mount Kisco Vg PD,2009,12,253,40,0,0,18,22,213,45,161,7,Non-New York City
+Westchester,Mount Pleasant Town PD,2009,12,245,9,0,1,1,7,236,39,188,9,Non-New York City
+Westchester,Mount Vernon City PD,2009,12,2307,664,10,10,274,370,1643,342,1140,161,Non-New York City
+Westchester,New Castle Town PD,2009,12,101,0,0,0,0,0,101,7,91,3,Non-New York City
+Westchester,New Rochelle City PD,2009,12,1528,210,2,3,80,125,1318,200,1024,94,Non-New York City
+Westchester,North Castle Town PD,2009,12,108,4,0,0,1,3,104,22,80,2,Non-New York City
+Westchester,NYC DEPP - Eastview PCT,2009,12,19,0,0,0,0,0,19,0,19,0,Non-New York City
+Westchester,Ossining Town PD,2009,12,31,0,0,0,0,0,31,4,26,1,Non-New York City
+Westchester,Ossining Vg PD,2009,12,318,33,0,1,15,17,285,77,194,14,Non-New York City
+Westchester,Peekskill City PD,2009,12,258,34,0,2,12,20,224,43,176,5,Non-New York City
+Westchester,Pelham Manor Vg PD,2009,12,124,5,0,0,5,0,119,14,99,6,Non-New York City
+Westchester,Pelham Vg PD,2009,12,110,12,0,1,10,1,98,15,76,7,Non-New York City
+Westchester,Port Chester Vg PD,2009,12,730,72,0,3,40,29,658,73,540,45,Non-New York City
+Westchester,Pound Ridge Town PD,2009,12,43,1,0,1,0,0,42,8,31,3,Non-New York City
+Westchester,Rye Brook Vg PD,2009,12,79,1,1,0,0,0,78,6,69,3,Non-New York City
+Westchester,Rye City PD,2009,12,218,3,0,0,2,1,215,38,168,9,Non-New York City
+Westchester,Scarsdale Vg PD,2009,12,221,6,0,0,3,3,215,24,185,6,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2009,12,89,1,0,0,0,1,88,19,67,2,Non-New York City
+Westchester,SUNY Police - Purchase,2009,12,143,5,0,2,2,1,138,36,102,0,Non-New York City
+Westchester,Tarrytown Vg PD,2009,12,104,8,0,1,5,2,96,12,80,4,Non-New York City
+Westchester,Tuckahoe Vg PD,2009,12,33,2,0,0,1,1,31,2,25,4,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2009,12,247,55,0,0,3,52,192,17,168,7,Non-New York City
+Westchester,Westchester County MTA,2009,12,63,6,0,0,4,2,57,0,56,1,Non-New York City
+Westchester,Westchester County Park PD,2009,12,15,1,0,0,1,0,14,2,11,1,Non-New York City
+Westchester,Westchester County State Police,2009,12,730,69,1,8,8,52,661,110,535,16,Non-New York City
+Westchester,White Plains City PD,2009,12,1206,117,0,1,38,78,1089,40,1014,35,Non-New York City
+Westchester,Yonkers City PD,2009,12,4110,965,8,36,475,446,3145,620,2182,343,Non-New York City
+Westchester,Yorktown Town PD,2009,12,482,28,0,3,5,20,454,41,410,3,Non-New York City
+Westchester,Ardsley Vg PD,2008,12,41,2,0,0,1,1,39,3,35,1,Non-New York City
+Westchester,Bedford Town PD,2008,12,126,5,0,0,0,5,121,23,94,4,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2008,12,36,0,0,0,0,0,36,6,29,1,Non-New York City
+Westchester,Bronxville Vg PD,2008,12,53,3,0,1,1,1,50,16,30,4,Non-New York City
+Westchester,Buchanan Vg PD,2008,12,23,2,0,0,0,2,21,3,18,0,Non-New York City
+Westchester,County Total,2008,,16723,2414,27,75,1093,1219,14309,2370,11096,843,Non-New York City
+Westchester,Croton-Kensico PCT (NYC-DEPP),2008,12,19,0,0,0,0,0,19,1,18,0,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2008,12,84,3,0,0,3,0,81,13,67,1,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2008,12,134,6,0,1,1,4,128,16,109,3,Non-New York City
+Westchester,Eastchester Town PD,2008,12,242,9,0,0,5,4,233,12,216,5,Non-New York City
+Westchester,Elmsford Vg PD,2008,12,43,5,0,0,1,4,38,11,22,5,Non-New York City
+Westchester,Greenburgh Town PD,2008,12,807,50,0,3,11,36,757,99,629,29,Non-New York City
+Westchester,Harrison Town PD,2008,12,264,19,1,1,2,15,245,40,197,8,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2008,12,142,29,0,3,2,24,113,15,98,0,Non-New York City
+Westchester,Irvington Vg PD,2008,12,41,1,0,0,0,1,40,13,26,1,Non-New York City
+Westchester,Larchmont Vg PD,2008,12,140,2,0,0,1,1,138,27,107,4,Non-New York City
+Westchester,Lewisboro Town PD,2008,12,86,0,0,0,0,0,86,9,77,0,Non-New York City
+Westchester,Mamaroneck Town PD,2008,12,170,4,0,0,2,2,166,31,128,7,Non-New York City
+Westchester,Mamaroneck Vg PD,2008,12,264,24,0,0,6,18,240,58,174,8,Non-New York City
+Westchester,Mount Kisco Vg PD,2008,12,118,8,0,0,4,4,110,16,93,1,Non-New York City
+Westchester,Mount Pleasant Town PD,2008,12,263,15,0,0,4,11,248,39,202,7,Non-New York City
+Westchester,Mount Vernon City PD,2008,12,2385,667,11,10,347,299,1718,452,1103,163,Non-New York City
+Westchester,New Castle Town PD,2008,12,108,3,0,0,0,3,105,29,73,3,Non-New York City
+Westchester,New Rochelle City PD,2008,12,1756,191,0,1,118,72,1565,184,1290,91,Non-New York City
+Westchester,North Castle Town PD,2008,12,78,3,0,0,0,3,75,12,59,4,Non-New York City
+Westchester,Ossining Town PD,2008,12,46,1,0,0,0,1,45,5,39,1,Non-New York City
+Westchester,Ossining Vg PD,2008,12,358,45,0,4,18,23,313,70,234,9,Non-New York City
+Westchester,Peekskill City PD,2008,12,286,54,4,0,24,26,232,28,192,12,Non-New York City
+Westchester,Pelham Manor Vg PD,2008,12,88,4,0,0,1,3,84,15,67,2,Non-New York City
+Westchester,Pelham Vg PD,2008,12,148,8,0,0,3,5,140,22,116,2,Non-New York City
+Westchester,Port Chester Vg PD,2008,12,705,69,0,1,47,21,636,88,509,39,Non-New York City
+Westchester,Pound Ridge Town PD,2008,12,39,2,0,0,0,2,37,9,27,1,Non-New York City
+Westchester,Rye Brook Vg PD,2008,12,91,0,0,0,0,0,91,19,67,5,Non-New York City
+Westchester,Rye City PD,2008,12,207,7,0,0,0,7,200,42,146,12,Non-New York City
+Westchester,Scarsdale Vg PD,2008,12,202,7,0,0,2,5,195,26,163,6,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2008,12,14,4,0,0,0,4,10,4,6,0,Non-New York City
+Westchester,SUNY Police - Purchase,2008,12,109,4,0,0,1,3,105,20,85,0,Non-New York City
+Westchester,Tarrytown Vg PD,2008,12,150,4,0,0,4,0,146,15,126,5,Non-New York City
+Westchester,Tuckahoe Vg PD,2008,12,51,0,0,0,0,0,51,11,35,5,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2008,12,177,41,0,1,1,39,136,9,125,2,Non-New York City
+Westchester,Westchester County MTA,2008,12,92,10,0,0,6,4,82,1,79,2,Non-New York City
+Westchester,Westchester County Park PD,2008,12,10,1,0,0,0,1,9,1,8,0,Non-New York City
+Westchester,Westchester County (RR-CSX),2008,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Westchester,Westchester County State Police,2008,12,742,67,2,3,7,55,675,100,567,8,Non-New York City
+Westchester,White Plains City PD,2008,12,1255,87,0,1,20,66,1168,40,1104,24,Non-New York City
+Westchester,Yonkers City PD,2008,12,4040,914,9,42,447,416,3126,653,2121,352,Non-New York City
+Westchester,Yorktown Town PD,2008,12,489,34,0,3,3,28,455,64,385,6,Non-New York City
+Westchester,Ardsley Vg PD,2007,12,37,3,0,1,1,1,34,3,26,5,Non-New York City
+Westchester,Bedford Town PD,2007,12,154,5,1,0,2,2,149,18,127,4,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2007,12,52,1,0,0,0,1,51,12,35,4,Non-New York City
+Westchester,Bronxville Vg PD,2007,12,75,3,0,0,1,2,72,8,50,14,Non-New York City
+Westchester,Buchanan Vg PD,2007,12,21,3,0,0,1,2,18,1,17,0,Non-New York City
+Westchester,County Total,2007,,16786,2478,22,90,1038,1328,14308,2337,11000,971,Non-New York City
+Westchester,Croton-Kensico PCT (NYC-DEPP),2007,12,15,1,0,0,0,1,14,0,14,0,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2007,12,97,4,0,0,1,3,93,22,68,3,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2007,12,148,10,0,1,3,6,138,17,118,3,Non-New York City
+Westchester,Eastchester Town PD,2007,12,214,4,0,0,2,2,210,13,184,13,Non-New York City
+Westchester,Elmsford Vg PD,2007,12,74,8,0,1,3,4,66,10,50,6,Non-New York City
+Westchester,Greenburgh Town PD,2007,12,763,44,1,3,17,23,719,71,618,30,Non-New York City
+Westchester,Harrison Town PD,2007,12,324,27,0,1,2,24,297,40,244,13,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2007,12,161,26,0,2,2,22,135,8,124,3,Non-New York City
+Westchester,Irvington Vg PD,2007,12,31,1,0,0,0,1,30,4,26,0,Non-New York City
+Westchester,Larchmont Vg PD,2007,12,103,2,0,0,1,1,101,12,86,3,Non-New York City
+Westchester,Lewisboro Town PD,2007,12,96,0,0,0,0,0,96,12,83,1,Non-New York City
+Westchester,Mamaroneck Town PD,2007,12,114,1,0,0,0,1,113,19,90,4,Non-New York City
+Westchester,Mamaroneck Vg PD,2007,12,264,19,0,0,9,10,245,39,193,13,Non-New York City
+Westchester,Mount Kisco Vg PD,2007,12,135,5,0,0,3,2,130,14,115,1,Non-New York City
+Westchester,Mount Pleasant Town PD,2007,12,248,9,0,3,2,4,239,40,188,11,Non-New York City
+Westchester,Mount Vernon City PD,2007,12,2445,600,7,10,266,317,1845,462,1200,183,Non-New York City
+Westchester,New Castle Town PD,2007,12,129,0,0,0,0,0,129,21,107,1,Non-New York City
+Westchester,New Rochelle City PD,2007,12,1673,219,1,3,119,96,1454,234,1142,78,Non-New York City
+Westchester,North Castle Town PD,2007,12,96,10,0,0,2,8,86,15,70,1,Non-New York City
+Westchester,Ossining Town PD,2007,12,52,6,0,0,0,6,46,5,41,0,Non-New York City
+Westchester,Ossining Vg PD,2007,12,392,52,1,2,22,27,340,100,227,13,Non-New York City
+Westchester,Peekskill City PD,2007,12,289,73,0,1,33,39,216,36,166,14,Non-New York City
+Westchester,Pelham Manor Vg PD,2007,12,127,7,0,1,5,1,120,16,95,9,Non-New York City
+Westchester,Pelham Vg PD,2007,12,136,8,0,0,8,0,128,25,93,10,Non-New York City
+Westchester,Port Chester Vg PD,2007,12,774,88,0,3,46,39,686,114,530,42,Non-New York City
+Westchester,Pound Ridge Town PD,2007,12,46,1,0,0,0,1,45,1,44,0,Non-New York City
+Westchester,Rye Brook Vg PD,2007,12,118,2,0,1,0,1,116,15,97,4,Non-New York City
+Westchester,Rye City PD,2007,12,224,6,0,0,1,5,218,27,176,15,Non-New York City
+Westchester,Scarsdale Vg PD,2007,12,162,3,0,0,1,2,159,14,136,9,Non-New York City
+Westchester,SUNY College at Purchase,2007,12,143,5,0,2,1,2,138,35,102,1,Non-New York City
+Westchester,Tarrytown Vg PD,2007,12,118,4,0,0,3,1,114,13,92,9,Non-New York City
+Westchester,Tuckahoe Vg PD,2007,12,56,3,0,0,2,1,53,7,40,6,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2007,12,358,69,0,1,2,66,289,24,248,17,Non-New York City
+Westchester,Westchester County MTA,2007,12,92,14,0,0,5,9,78,1,75,2,Non-New York City
+Westchester,Westchester County Park PD,2007,12,9,0,0,0,0,0,9,2,7,0,Non-New York City
+Westchester,Westchester County (RR-CSX),2007,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Westchester,Westchester County State Police,2007,12,654,110,1,5,13,91,544,67,467,10,Non-New York City
+Westchester,White Plains City PD,2007,12,1222,114,0,4,27,83,1108,45,1025,38,Non-New York City
+Westchester,Yonkers City PD,2007,12,3890,878,10,44,424,400,3012,642,1994,376,Non-New York City
+Westchester,Yorktown Town PD,2007,12,454,30,0,1,8,21,424,53,369,2,Non-New York City
+Westchester,Ardsley Vg PD,2006,12,42,1,0,0,0,1,41,11,30,0,Non-New York City
+Westchester,Bedford Town PD,2006,12,156,7,0,0,2,5,149,17,125,7,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2006,12,53,2,0,0,0,2,51,8,37,6,Non-New York City
+Westchester,Bronxville Vg PD,2006,12,39,1,0,0,1,0,38,3,24,11,Non-New York City
+Westchester,Buchanan Vg PD,2006,12,22,1,0,0,1,0,21,0,19,2,Non-New York City
+Westchester,County Total,2006,,17678,2768,20,83,1364,1301,14910,2202,11621,1087,Non-New York City
+Westchester,Croton-Kensico PCT (NYC-DEPP),2006,12,23,0,0,0,0,0,23,0,23,0,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2006,12,93,2,0,0,2,0,91,15,69,7,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2006,12,147,11,0,0,5,6,136,22,109,5,Non-New York City
+Westchester,Eastchester Town PD,2006,12,210,11,0,0,7,4,199,20,170,9,Non-New York City
+Westchester,Elmsford Vg PD,2006,12,86,10,0,0,2,8,76,12,55,9,Non-New York City
+Westchester,Greenburgh Town PD,2006,12,818,36,0,0,19,17,782,80,655,47,Non-New York City
+Westchester,Harrison Town PD,2006,12,335,30,0,2,3,25,305,45,250,10,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2006,12,142,22,0,0,2,20,120,14,103,3,Non-New York City
+Westchester,Irvington Vg PD,2006,12,41,1,0,0,0,1,40,8,30,2,Non-New York City
+Westchester,Larchmont Vg PD,2006,12,105,3,0,0,0,3,102,13,85,4,Non-New York City
+Westchester,Lewisboro Town PD,2006,12,61,0,0,0,0,0,61,1,58,2,Non-New York City
+Westchester,Mamaroneck Town PD,2006,12,194,3,0,0,1,2,191,18,165,8,Non-New York City
+Westchester,Mamaroneck Vg PD,2006,12,317,19,0,0,5,14,298,31,256,11,Non-New York City
+Westchester,Mount Kisco Vg PD,2006,12,169,14,1,0,5,8,155,13,140,2,Non-New York City
+Westchester,Mount Pleasant Town PD,2006,12,187,9,0,0,4,5,178,29,140,9,Non-New York City
+Westchester,Mount Vernon City PD,2006,12,2436,719,2,14,398,305,1717,383,1124,210,Non-New York City
+Westchester,New Castle Town PD,2006,12,82,5,1,0,3,1,77,21,53,3,Non-New York City
+Westchester,New Rochelle City PD,2006,12,1870,242,4,4,168,66,1628,215,1314,99,Non-New York City
+Westchester,North Castle Town PD,2006,12,117,7,0,1,1,5,110,10,97,3,Non-New York City
+Westchester,Ossining Town PD,2006,12,59,3,0,0,1,2,56,11,45,0,Non-New York City
+Westchester,Ossining Vg PD,2006,12,357,67,1,2,42,22,290,58,218,14,Non-New York City
+Westchester,Peekskill City PD,2006,12,262,68,0,2,23,43,194,39,143,12,Non-New York City
+Westchester,Pelham Manor Vg PD,2006,12,112,5,0,1,4,0,107,10,85,12,Non-New York City
+Westchester,Pelham Vg PD,2006,12,165,19,0,0,7,12,146,12,118,16,Non-New York City
+Westchester,Pleasantville Vg PD,2006,12,1,1,0,0,0,1,0,0,0,0,Non-New York City
+Westchester,Port Chester Vg PD,2006,12,862,85,0,2,61,22,777,107,648,22,Non-New York City
+Westchester,Pound Ridge Town PD,2006,12,21,0,0,0,0,0,21,3,18,0,Non-New York City
+Westchester,Rye Brook Vg PD,2006,11,89,2,0,1,0,1,87,11,73,3,Non-New York City
+Westchester,Rye City PD,2006,12,238,9,0,0,2,7,229,16,202,11,Non-New York City
+Westchester,Scarsdale Vg PD,2006,12,168,5,0,0,4,1,163,21,135,7,Non-New York City
+Westchester,SUNY College at Purchase,2006,12,184,7,0,2,0,5,177,36,141,0,Non-New York City
+Westchester,Tarrytown Vg PD,2006,12,104,4,0,0,2,2,100,13,82,5,Non-New York City
+Westchester,Tuckahoe Vg PD,2006,12,39,6,0,1,1,4,33,1,31,1,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2006,12,380,75,0,4,12,59,305,18,281,6,Non-New York City
+Westchester,Westchester County MTA,2006,12,108,20,0,0,14,6,88,1,84,3,Non-New York City
+Westchester,Westchester County Park PD,2006,12,12,0,0,0,0,0,12,1,11,0,Non-New York City
+Westchester,Westchester County State Police,2006,12,523,85,2,9,10,64,438,89,331,18,Non-New York City
+Westchester,White Plains City PD,2006,12,1340,157,1,6,48,102,1183,69,1079,35,Non-New York City
+Westchester,Yonkers City PD,2006,12,4480,978,8,31,498,441,3502,651,2400,451,Non-New York City
+Westchester,Yorktown Town PD,2006,12,429,16,0,1,6,9,413,46,365,2,Non-New York City
+Westchester,Ardsley Vg PD,2005,11,76,3,0,0,2,1,73,5,66,2,Non-New York City
+Westchester,Bedford Town PD,2005,12,188,3,0,0,0,3,185,17,160,8,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2005,12,13,1,0,0,0,1,12,1,10,1,Non-New York City
+Westchester,Bronxville Vg PD,2005,12,29,1,0,0,0,1,28,8,18,2,Non-New York City
+Westchester,Buchanan Vg PD,2005,12,32,2,0,0,1,1,30,9,21,0,Non-New York City
+Westchester,County Total,2005,,17345,2648,23,77,1278,1270,14697,2088,11343,1266,Non-New York City
+Westchester,Croton-Kensico PCT (NYC-DEPP),2005,12,22,0,0,0,0,0,22,0,21,1,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2005,12,106,2,0,0,1,1,104,15,86,3,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2005,12,140,4,0,1,2,1,136,16,111,9,Non-New York City
+Westchester,Eastchester Town PD,2005,12,179,9,0,0,4,5,170,26,139,5,Non-New York City
+Westchester,Elmsford Vg PD,2005,12,103,11,1,2,3,5,92,8,66,18,Non-New York City
+Westchester,Greenburgh Town PD,2005,12,883,63,0,4,17,42,820,76,685,59,Non-New York City
+Westchester,Harrison Town PD,2005,12,298,16,0,2,5,9,282,37,231,14,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2005,11,140,14,0,0,2,12,126,10,112,4,Non-New York City
+Westchester,Irvington Vg PD,2005,12,8,0,0,0,0,0,8,4,3,1,Non-New York City
+Westchester,Larchmont Vg PD,2005,12,96,2,0,0,1,1,94,8,85,1,Non-New York City
+Westchester,Lewisboro Town PD,2005,12,105,2,0,0,0,2,103,3,100,0,Non-New York City
+Westchester,Mamaroneck Town PD,2005,12,125,2,0,0,0,2,123,12,99,12,Non-New York City
+Westchester,Mamaroneck Vg PD,2005,12,363,20,0,0,10,10,343,46,269,28,Non-New York City
+Westchester,Mount Kisco Vg PD,2005,12,94,17,0,2,2,13,77,13,60,4,Non-New York City
+Westchester,Mount Pleasant Town PD,2005,12,96,4,0,0,2,2,92,17,73,2,Non-New York City
+Westchester,Mount Vernon City PD,2005,12,2308,631,5,9,334,283,1677,344,1084,249,Non-New York City
+Westchester,New Castle Town PD,2005,12,108,5,0,0,0,5,103,11,87,5,Non-New York City
+Westchester,New Rochelle City PD,2005,12,1688,260,3,4,146,107,1428,177,1147,104,Non-New York City
+Westchester,North Castle Town PD,2005,12,95,8,0,0,0,8,87,10,75,2,Non-New York City
+Westchester,Ossining Town PD,2005,12,51,1,0,0,0,1,50,10,38,2,Non-New York City
+Westchester,Ossining Vg PD,2005,12,339,61,0,2,26,33,278,48,199,31,Non-New York City
+Westchester,Peekskill City PD,2005,12,246,48,0,1,26,21,198,45,148,5,Non-New York City
+Westchester,Pelham Manor Vg PD,2005,12,128,3,0,0,3,0,125,18,98,9,Non-New York City
+Westchester,Pelham Vg PD,2005,12,130,15,0,1,11,3,115,14,92,9,Non-New York City
+Westchester,Pleasantville Vg PD,2005,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Westchester,Port Chester Vg PD,2005,12,935,84,0,4,63,17,851,92,724,35,Non-New York City
+Westchester,Pound Ridge Town PD,2005,12,18,0,0,0,0,0,18,5,13,0,Non-New York City
+Westchester,Rye Brook Vg PD,2005,12,106,9,0,0,3,6,97,6,84,7,Non-New York City
+Westchester,Rye City PD,2005,12,220,5,0,0,0,5,215,17,183,15,Non-New York City
+Westchester,Scarsdale Vg PD,2005,12,166,3,0,0,1,2,163,24,133,6,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2005,11,1,1,1,0,0,0,0,0,0,0,Non-New York City
+Westchester,SUNY College at Purchase,2005,12,176,7,0,2,4,1,169,38,130,1,Non-New York City
+Westchester,Tarrytown Vg PD,2005,12,133,11,0,2,5,4,122,21,92,9,Non-New York City
+Westchester,Tuckahoe Vg PD,2005,12,26,5,0,0,1,4,21,4,12,5,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2005,12,326,57,1,2,6,48,269,17,238,14,Non-New York City
+Westchester,Westchester County MTA,2005,12,77,16,0,0,13,3,61,5,53,3,Non-New York City
+Westchester,Westchester County Park PD,2005,12,22,0,0,0,0,0,22,2,20,0,Non-New York City
+Westchester,Westchester County State Police,2005,12,553,81,2,8,17,54,472,84,357,31,Non-New York City
+Westchester,White Plains City PD,2005,12,1444,177,1,7,46,123,1267,70,1141,56,Non-New York City
+Westchester,Yonkers City PD,2005,12,4376,970,9,21,518,422,3406,641,2277,488,Non-New York City
+Westchester,Yorktown Town PD,2005,12,576,14,0,3,3,8,562,54,502,6,Non-New York City
+Westchester,Ardsley Vg PD,2004,12,61,3,0,0,1,2,58,6,51,1,Non-New York City
+Westchester,Bedford Town PD,2004,12,199,3,0,1,1,1,196,17,169,10,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2004,12,68,4,0,0,1,3,64,1,59,4,Non-New York City
+Westchester,Bronxville Vg PD,2004,12,51,3,0,0,1,2,48,7,37,4,Non-New York City
+Westchester,Buchanan Vg PD,2004,12,27,1,0,0,0,1,26,3,22,1,Non-New York City
+Westchester,County Total,2004,,18622,2601,29,105,1171,1296,16021,2300,12185,1536,Non-New York City
+Westchester,Croton-Kensico PCT (NYC-DEPP),2004,12,25,0,0,0,0,0,25,0,24,1,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2004,12,134,5,0,0,0,5,129,13,115,1,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2004,12,126,10,0,0,2,8,116,14,90,12,Non-New York City
+Westchester,Eastchester Town PD,2004,12,149,13,0,0,4,9,136,18,108,10,Non-New York City
+Westchester,Elmsford Vg PD,2004,12,116,11,0,0,4,7,105,15,80,10,Non-New York City
+Westchester,Greenburgh Town PD,2004,12,976,60,0,5,25,30,916,91,770,55,Non-New York City
+Westchester,Harrison Town PD,2004,12,358,18,2,4,5,7,340,30,302,8,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2004,12,120,16,0,2,0,14,104,7,96,1,Non-New York City
+Westchester,Irvington Vg PD,2004,12,15,0,0,0,0,0,15,3,11,1,Non-New York City
+Westchester,Larchmont Vg PD,2004,12,92,3,0,0,0,3,89,13,72,4,Non-New York City
+Westchester,Lewisboro Town PD,2004,12,231,3,0,0,1,2,228,14,212,2,Non-New York City
+Westchester,Mamaroneck Town PD,2004,12,141,8,0,0,4,4,133,22,100,11,Non-New York City
+Westchester,Mamaroneck Vg PD,2004,12,316,18,2,1,9,6,298,35,240,23,Non-New York City
+Westchester,Mount Kisco Vg PD,2004,12,200,22,1,1,8,12,178,24,146,8,Non-New York City
+Westchester,Mount Pleasant Town PD,2004,12,194,11,0,0,5,6,183,13,156,14,Non-New York City
+Westchester,Mount Vernon City PD,2004,12,2339,549,6,21,297,225,1790,467,1075,248,Non-New York City
+Westchester,New Castle Town PD,2004,12,104,6,0,0,0,6,98,8,84,6,Non-New York City
+Westchester,New Rochelle City PD,2004,12,1779,226,0,2,124,100,1553,186,1230,137,Non-New York City
+Westchester,North Castle Town PD,2004,12,152,12,0,1,5,6,140,17,119,4,Non-New York City
+Westchester,Ossining Town PD,2004,12,46,3,0,0,0,3,43,3,39,1,Non-New York City
+Westchester,Ossining Vg PD,2004,12,337,71,0,8,38,25,266,33,190,43,Non-New York City
+Westchester,Peekskill City PD,2004,12,324,53,1,3,18,31,271,46,207,18,Non-New York City
+Westchester,Pelham Manor Vg PD,2004,12,104,11,0,1,5,5,93,8,81,4,Non-New York City
+Westchester,Pelham Vg PD,2004,12,152,15,0,0,10,5,137,14,117,6,Non-New York City
+Westchester,Pleasantville Vg PD,2004,12,9,2,0,0,0,2,7,1,6,0,Non-New York City
+Westchester,Port Chester Vg PD,2004,12,681,53,1,5,33,14,628,114,477,37,Non-New York City
+Westchester,Pound Ridge Town PD,2004,12,32,0,0,0,0,0,32,5,27,0,Non-New York City
+Westchester,Rye Brook Vg PD,2004,12,105,3,0,2,1,0,102,7,94,1,Non-New York City
+Westchester,Rye City PD,2004,12,277,4,0,0,2,2,273,24,241,8,Non-New York City
+Westchester,Scarsdale Vg PD,2004,12,249,3,0,0,2,1,246,36,200,10,Non-New York City
+Westchester,SUNY College at Purchase,2004,12,151,2,0,2,0,0,149,14,135,0,Non-New York City
+Westchester,Tarrytown Vg PD,2004,12,138,15,0,1,10,4,123,18,92,13,Non-New York City
+Westchester,Tuckahoe Vg PD,2004,12,33,3,0,0,0,3,30,2,22,6,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2004,12,403,80,1,6,7,66,323,26,279,18,Non-New York City
+Westchester,Westchester County MTA,2004,12,94,8,0,0,5,3,86,3,77,6,Non-New York City
+Westchester,Westchester County Park PD,2004,12,12,0,0,0,0,0,12,0,11,1,Non-New York City
+Westchester,Westchester County (RR-CSX),2004,12,1,0,0,0,0,0,1,1,0,0,Non-New York City
+Westchester,Westchester County State Police,2004,12,516,78,0,8,8,62,438,72,329,37,Non-New York City
+Westchester,White Plains City PD,2004,12,1653,213,0,6,69,138,1440,86,1289,65,Non-New York City
+Westchester,Yonkers City PD,2004,12,4674,942,15,23,457,447,3732,713,2342,677,Non-New York City
+Westchester,Yorktown Town PD,2004,12,658,37,0,2,9,26,621,50,562,9,Non-New York City
+Westchester,Ardsley Vg PD,2003,12,60,8,0,0,4,4,52,7,44,1,Non-New York City
+Westchester,Bedford Town PD,2003,12,196,22,0,0,2,20,174,26,131,17,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2003,12,64,4,0,0,3,1,60,12,48,0,Non-New York City
+Westchester,Bronxville Vg PD,2003,12,77,4,0,0,3,1,73,9,57,7,Non-New York City
+Westchester,Buchanan Vg PD,2003,12,38,0,0,0,0,0,38,6,28,4,Non-New York City
+Westchester,County Total,2003,,19498,2616,21,89,1145,1361,16882,2606,12438,1838,Non-New York City
+Westchester,Croton-Kensico PCT (NYC-DEPP),2003,6,10,0,0,0,0,0,10,0,9,1,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2003,12,132,5,0,0,1,4,127,15,108,4,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2003,12,119,8,0,0,5,3,111,16,84,11,Non-New York City
+Westchester,Eastchester Town PD,2003,12,388,30,0,0,8,22,358,19,321,18,Non-New York City
+Westchester,Elmsford Vg PD,2003,11,87,7,0,0,1,6,80,9,59,12,Non-New York City
+Westchester,Greenburgh Town PD,2003,12,1060,51,0,0,28,23,1009,111,824,74,Non-New York City
+Westchester,Harrison Town PD,2003,12,354,10,0,3,0,7,344,38,299,7,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2003,12,110,7,0,0,2,5,103,10,85,8,Non-New York City
+Westchester,Irvington Vg PD,2003,12,46,6,0,0,0,6,40,10,24,6,Non-New York City
+Westchester,Larchmont Vg PD,2003,12,90,4,0,0,1,3,86,15,68,3,Non-New York City
+Westchester,Lewisboro Town PD,2003,12,202,8,0,0,0,8,194,4,190,0,Non-New York City
+Westchester,Mamaroneck Town PD,2003,12,175,5,0,0,3,2,170,25,131,14,Non-New York City
+Westchester,Mamaroneck Vg PD,2003,12,290,28,0,0,14,14,262,35,208,19,Non-New York City
+Westchester,Mount Kisco Vg PD,2003,12,278,39,0,0,12,27,239,32,200,7,Non-New York City
+Westchester,Mount Pleasant Town PD,2003,12,273,28,1,1,6,20,245,32,198,15,Non-New York City
+Westchester,Mount Vernon City PD,2003,12,2043,403,2,13,193,195,1640,417,924,299,Non-New York City
+Westchester,New Castle Town PD,2003,12,149,11,0,0,3,8,138,15,117,6,Non-New York City
+Westchester,New Rochelle City PD,2003,12,1899,255,1,7,141,106,1644,241,1224,179,Non-New York City
+Westchester,North Castle Town PD,2003,12,151,7,0,2,1,4,144,26,110,8,Non-New York City
+Westchester,Ossining Town PD,2003,12,72,7,0,0,0,7,65,10,53,2,Non-New York City
+Westchester,Ossining Vg PD,2003,12,442,102,0,6,32,64,340,41,255,44,Non-New York City
+Westchester,Peekskill City PD,2003,12,342,69,1,1,28,39,273,49,200,24,Non-New York City
+Westchester,Pelham Manor Vg PD,2003,12,92,10,0,0,8,2,82,10,67,5,Non-New York City
+Westchester,Pelham Vg PD,2003,12,149,7,0,1,3,3,142,25,112,5,Non-New York City
+Westchester,Pleasantville Vg PD,2003,12,54,12,0,0,1,11,42,8,28,6,Non-New York City
+Westchester,Port Chester Vg PD,2003,12,873,91,0,4,48,39,782,109,617,56,Non-New York City
+Westchester,Pound Ridge Town PD,2003,12,55,3,0,0,0,3,52,7,44,1,Non-New York City
+Westchester,Rye Brook Vg PD,2003,12,101,2,1,0,0,1,99,9,86,4,Non-New York City
+Westchester,Rye City PD,2003,12,231,1,0,0,0,1,230,20,206,4,Non-New York City
+Westchester,Scarsdale Vg PD,2003,12,232,5,0,0,5,0,227,28,189,10,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2003,12,1,0,0,0,0,0,1,0,0,1,Non-New York City
+Westchester,SUNY College at Purchase,2003,12,136,1,0,1,0,0,135,16,119,0,Non-New York City
+Westchester,Tarrytown Vg PD,2003,12,161,22,0,0,5,17,139,30,99,10,Non-New York City
+Westchester,Tuckahoe Vg PD,2003,12,80,16,0,0,4,12,64,13,44,7,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2003,12,320,50,0,2,4,44,270,32,224,14,Non-New York City
+Westchester,Westchester County MTA,2003,12,112,25,0,1,10,14,87,2,81,4,Non-New York City
+Westchester,Westchester County Park PD,2003,12,27,1,0,0,0,1,26,0,26,0,Non-New York City
+Westchester,Westchester County (RR-CSX),2003,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Westchester,Westchester County State Police,2003,12,520,88,0,10,17,61,432,72,330,30,Non-New York City
+Westchester,White Plains City PD,2003,12,1901,225,2,11,82,130,1676,134,1459,83,Non-New York City
+Westchester,Yonkers City PD,2003,12,4668,879,13,25,454,387,3789,816,2185,788,Non-New York City
+Westchester,Yorktown Town PD,2003,12,637,50,0,1,13,36,587,45,522,20,Non-New York City
+Westchester,Ardsley Vg PD,2002,12,45,4,0,0,2,2,41,7,31,3,Non-New York City
+Westchester,Bedford Town PD,2002,12,259,14,0,1,3,10,245,33,195,17,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2002,12,60,2,0,0,1,1,58,8,45,5,Non-New York City
+Westchester,Bronxville Vg PD,2002,12,75,4,0,0,2,2,71,14,45,12,Non-New York City
+Westchester,Buchanan Vg PD,2002,12,54,2,0,0,1,1,52,5,43,4,Non-New York City
+Westchester,County Total,2002,,19948,2575,33,78,1057,1407,17373,2747,12583,2043,Non-New York City
+Westchester,Croton-Kensico PCT (NYC-BWSP),2002,12,22,2,1,0,0,1,20,0,20,0,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2002,12,157,5,0,0,1,4,152,18,128,6,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2002,12,126,19,0,0,3,16,107,24,75,8,Non-New York City
+Westchester,Eastchester Town PD,2002,12,298,14,0,0,3,11,284,35,223,26,Non-New York City
+Westchester,Elmsford Vg PD,2002,12,96,16,0,0,6,10,80,8,68,4,Non-New York City
+Westchester,Greenburgh Town PD,2002,12,1115,57,0,3,27,27,1058,135,841,82,Non-New York City
+Westchester,Harrison Town PD,2002,12,354,12,0,4,2,6,342,65,267,10,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2002,12,85,3,0,0,1,2,82,5,71,6,Non-New York City
+Westchester,Irvington Vg PD,2002,12,50,3,0,0,0,3,47,19,23,5,Non-New York City
+Westchester,Larchmont Vg PD,2002,12,114,3,0,0,2,1,111,19,83,9,Non-New York City
+Westchester,Lewisboro Town PD,2002,12,138,1,0,0,0,1,137,12,124,1,Non-New York City
+Westchester,Mamaroneck Town PD,2002,12,143,7,0,0,2,5,136,23,98,15,Non-New York City
+Westchester,Mamaroneck Vg PD,2002,12,268,10,0,0,3,7,258,42,188,28,Non-New York City
+Westchester,Mount Kisco Vg PD,2002,12,295,38,0,0,13,25,257,24,213,20,Non-New York City
+Westchester,Mount Pleasant Town PD,2002,12,229,21,1,0,4,16,208,38,157,13,Non-New York City
+Westchester,Mount Vernon City PD,2002,12,2189,436,10,18,199,209,1753,407,1009,337,Non-New York City
+Westchester,New Castle Town PD,2002,12,148,6,0,0,0,6,142,23,112,7,Non-New York City
+Westchester,New Rochelle City PD,2002,12,1854,262,2,3,125,132,1592,218,1194,180,Non-New York City
+Westchester,North Castle Town PD,2002,12,142,7,0,2,3,2,135,32,96,7,Non-New York City
+Westchester,Ossining Town PD,2002,12,81,10,0,1,0,9,71,16,51,4,Non-New York City
+Westchester,Ossining Vg PD,2002,12,433,124,0,5,46,73,309,44,236,29,Non-New York City
+Westchester,Peekskill City PD,2002,12,268,55,1,4,17,33,213,47,154,12,Non-New York City
+Westchester,Pelham Manor Vg PD,2002,12,134,6,0,0,4,2,128,10,111,7,Non-New York City
+Westchester,Pelham Vg PD,2002,12,122,5,0,0,2,3,117,12,100,5,Non-New York City
+Westchester,Pleasantville Vg PD,2002,12,53,7,0,0,0,7,46,8,34,4,Non-New York City
+Westchester,Port Chester Vg PD,2002,12,883,106,0,3,61,42,777,88,607,82,Non-New York City
+Westchester,Pound Ridge Town PD,2002,12,79,13,0,0,0,13,66,18,45,3,Non-New York City
+Westchester,Rye Brook Vg PD,2002,12,141,4,0,2,1,1,137,12,111,14,Non-New York City
+Westchester,Rye City PD,2002,12,207,4,0,0,1,3,203,31,161,11,Non-New York City
+Westchester,Scarsdale Vg PD,2002,12,291,1,0,0,1,0,290,37,233,20,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2002,12,50,18,0,0,2,16,32,5,17,10,Non-New York City
+Westchester,SUNY College At Purchase,2002,12,123,1,0,0,0,1,122,11,111,0,Non-New York City
+Westchester,Tarrytown Vg PD,2002,12,197,20,0,6,2,12,177,41,115,21,Non-New York City
+Westchester,Tuckahoe Vg PD,2002,12,62,5,0,0,0,5,57,9,35,13,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2002,12,387,49,0,3,2,44,338,33,290,15,Non-New York City
+Westchester,Westchester County MTA,2002,12,84,8,0,0,5,3,76,2,71,3,Non-New York City
+Westchester,Westchester County Park PD,2002,12,11,0,0,0,0,0,11,0,11,0,Non-New York City
+Westchester,Westchester County (RR-CSX),2002,12,3,0,0,0,0,0,3,0,3,0,Non-New York City
+Westchester,Westchester County State Police,2002,12,654,60,2,3,10,45,594,128,424,42,Non-New York City
+Westchester,White Plains City PD,2002,12,2033,198,3,5,71,119,1835,158,1564,113,Non-New York City
+Westchester,Yonkers City PD,2002,12,4676,893,13,11,419,450,3783,746,2225,812,Non-New York City
+Westchester,Yorktown Town PD,2002,12,660,40,0,4,10,26,620,77,525,18,Non-New York City
+Westchester,Ardsley Vg PD,2001,,82,7,0,0,2,5,75,11,58,6,Non-New York City
+Westchester,Bedford Town PD,2001,,240,13,0,1,1,11,227,30,174,23,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2001,,104,6,0,0,2,4,98,12,77,9,Non-New York City
+Westchester,Bronxville Vg PD,2001,,72,6,0,0,1,5,66,13,40,13,Non-New York City
+Westchester,Buchanan Vg PD,2001,,35,2,0,0,0,2,33,8,25,0,Non-New York City
+Westchester,County Total,2001,,21591,2789,18,90,1136,1545,18802,2758,13729,2315,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2001,,123,5,0,0,1,4,118,29,84,5,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2001,,148,19,0,0,1,18,129,25,96,8,Non-New York City
+Westchester,Eastchester Town PD,2001,,308,15,0,0,6,9,293,19,260,14,Non-New York City
+Westchester,Elmsford Vg PD,2001,,132,6,0,1,0,5,126,16,102,8,Non-New York City
+Westchester,Greenburgh Town PD,2001,,1293,89,0,5,47,37,1204,140,977,87,Non-New York City
+Westchester,Harrison Town PD,2001,,350,9,0,1,1,7,341,45,286,10,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2001,,108,1,0,0,1,0,107,15,85,7,Non-New York City
+Westchester,Irvington Vg PD,2001,,53,9,0,0,1,8,44,11,25,8,Non-New York City
+Westchester,Larchmont Vg PD,2001,,127,9,0,0,1,8,118,29,72,17,Non-New York City
+Westchester,Lewisboro Town PD,2001,,105,0,0,0,0,0,105,2,103,0,Non-New York City
+Westchester,Mamaroneck Town PD,2001,,219,9,0,0,4,5,210,29,154,27,Non-New York City
+Westchester,Mamaroneck Vg PD,2001,,400,20,0,0,9,11,380,30,308,42,Non-New York City
+Westchester,Mount Kisco Vg PD,2001,,308,36,0,1,4,31,272,29,226,17,Non-New York City
+Westchester,Mount Pleasant Town PD,2001,,333,38,0,2,1,35,295,40,222,33,Non-New York City
+Westchester,Mount Vernon City PD,2001,,2310,484,6,13,196,269,1826,443,993,390,Non-New York City
+Westchester,New Castle Town PD,2001,,144,7,0,0,1,6,137,24,106,7,Non-New York City
+Westchester,New Rochelle City PD,2001,,1836,228,0,6,129,93,1608,208,1231,169,Non-New York City
+Westchester,North Castle Town PD,2001,,128,4,0,0,4,0,124,17,103,4,Non-New York City
+Westchester,Ossining Town PD,2001,,68,7,0,0,0,7,61,2,54,5,Non-New York City
+Westchester,Ossining Vg PD,2001,,505,136,0,9,34,93,369,65,259,45,Non-New York City
+Westchester,Peekskill City PD,2001,,408,60,1,7,23,29,348,49,282,17,Non-New York City
+Westchester,Pelham Manor Vg PD,2001,,178,7,0,0,3,4,171,10,157,4,Non-New York City
+Westchester,Pelham Vg PD,2001,,132,4,0,0,2,2,128,18,106,4,Non-New York City
+Westchester,Pleasantville Vg PD,2001,,79,17,0,0,1,16,62,10,43,9,Non-New York City
+Westchester,Port Chester Vg PD,2001,,1006,139,0,2,96,41,867,119,647,101,Non-New York City
+Westchester,Pound Ridge Town PD,2001,,7,1,0,0,0,1,6,0,5,1,Non-New York City
+Westchester,Rye Brook Vg PD,2001,,129,3,0,0,1,2,126,13,104,9,Non-New York City
+Westchester,Scarsdale Vg PD,2001,,253,12,0,0,3,9,241,41,172,28,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2001,,79,27,0,1,0,26,52,13,29,10,Non-New York City
+Westchester,SUNY College At Purchase,2001,,102,0,0,0,0,0,102,9,92,1,Non-New York City
+Westchester,Tarrytown Vg PD,2001,,199,26,1,2,5,18,173,42,113,18,Non-New York City
+Westchester,Tuckahoe Vg PD,2001,,66,9,0,0,0,9,57,14,35,8,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2001,,367,43,1,2,4,36,324,31,266,27,Non-New York City
+Westchester,Westchester County MTA,2001,,28,3,0,0,0,3,25,3,18,4,Non-New York City
+Westchester,Westchester County Park PD,2001,,13,0,0,0,0,0,13,0,13,0,Non-New York City
+Westchester,Westchester County State Police,2001,,620,96,1,5,5,85,524,83,377,64,Non-New York City
+Westchester,White Plains City PD,2001,,2375,214,1,13,67,133,2161,112,1915,134,Non-New York City
+Westchester,Yonkers City PD,2001,,5419,935,6,15,473,441,4484,837,2746,901,Non-New York City
+Westchester,Yorktown Town PD,2001,,600,28,1,4,6,17,572,62,489,21,Non-New York City
+Westchester,Ardsley Vg PD,2000,,50,4,0,0,2,2,46,6,34,6,Non-New York City
+Westchester,Bedford Town PD,2000,,262,22,0,2,3,17,240,40,186,14,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2000,,83,8,0,1,0,7,75,7,62,6,Non-New York City
+Westchester,Bronxville Vg PD,2000,,89,3,0,0,0,3,86,4,58,24,Non-New York City
+Westchester,Buchanan Vg PD,2000,,29,3,0,0,0,3,26,2,24,0,Non-New York City
+Westchester,County Total,2000,,22034,2624,31,99,1002,1492,19410,2854,13957,2599,Non-New York City
+Westchester,Croton-Kensico PCT (NYC-BWSP),2000,,36,1,0,1,0,0,35,0,35,0,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2000,,140,8,0,0,0,8,132,18,103,11,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2000,,175,23,0,3,4,16,152,46,97,9,Non-New York City
+Westchester,Eastchester Town PD,2000,,464,13,0,0,2,11,451,26,374,51,Non-New York City
+Westchester,Elmsford Vg PD,2000,,108,11,0,0,3,8,97,19,75,3,Non-New York City
+Westchester,Greenburgh Town PD,2000,,1342,80,0,7,28,45,1262,163,971,128,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2000,,94,5,0,0,4,1,89,10,74,5,Non-New York City
+Westchester,Irvington Vg PD,2000,,41,3,0,0,0,3,38,12,25,1,Non-New York City
+Westchester,Larchmont Vg PD,2000,,153,4,0,0,0,4,149,19,105,25,Non-New York City
+Westchester,Lewisboro Town PD,2000,,83,1,0,0,1,0,82,5,76,1,Non-New York City
+Westchester,Mamaroneck Town PD,2000,,220,6,0,0,3,3,214,35,138,41,Non-New York City
+Westchester,Mamaroneck Vg PD,2000,,433,40,0,2,24,14,393,37,290,66,Non-New York City
+Westchester,Mount Kisco Vg PD,2000,,243,34,0,0,10,24,209,22,170,17,Non-New York City
+Westchester,Mount Pleasant Town PD,2000,,360,25,0,0,3,22,335,33,277,25,Non-New York City
+Westchester,Mount Vernon City PD,2000,,2313,376,6,15,167,188,1937,455,1088,394,Non-New York City
+Westchester,New Castle Town PD,2000,,148,15,0,0,1,14,133,7,112,14,Non-New York City
+Westchester,New Rochelle City PD,2000,,1861,212,1,6,99,106,1649,223,1258,168,Non-New York City
+Westchester,North Castle Town PD,2000,,142,6,0,0,0,6,136,12,118,6,Non-New York City
+Westchester,Ossining Town PD,2000,,68,11,0,1,1,9,57,4,50,3,Non-New York City
+Westchester,Ossining Vg PD,2000,,516,104,1,2,11,90,412,71,295,46,Non-New York City
+Westchester,Peekskill City PD,2000,,415,54,0,2,20,32,361,68,266,27,Non-New York City
+Westchester,Pelham Manor Vg PD,2000,,179,3,0,0,2,1,176,9,162,5,Non-New York City
+Westchester,Pelham Vg PD,2000,,141,11,0,0,4,7,130,17,105,8,Non-New York City
+Westchester,Pleasantville Vg PD,2000,,84,11,0,0,2,9,73,8,54,11,Non-New York City
+Westchester,Port Chester Vg PD,2000,,867,72,2,1,37,32,795,93,600,102,Non-New York City
+Westchester,Rye Brook Vg PD,2000,,150,0,0,0,0,0,150,22,117,11,Non-New York City
+Westchester,Rye City PD,2000,,87,0,0,0,0,0,87,10,75,2,Non-New York City
+Westchester,Scarsdale Vg PD,2000,,227,0,0,0,0,0,227,26,158,43,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2000,,90,36,3,1,4,28,54,11,25,18,Non-New York City
+Westchester,SUNY College At Purchase,2000,,114,2,0,0,0,2,112,3,109,0,Non-New York City
+Westchester,Tarrytown Vg PD,2000,,188,20,0,0,4,16,168,34,118,16,Non-New York City
+Westchester,Tuckahoe Vg PD,2000,,94,16,0,0,0,16,78,12,41,25,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2000,,435,43,0,0,5,38,392,24,342,26,Non-New York City
+Westchester,Westchester County MTA,2000,,140,23,0,0,12,11,117,3,110,4,Non-New York City
+Westchester,Westchester County Park PD,2000,,14,5,0,0,1,4,9,0,8,1,Non-New York City
+Westchester,Westchester County State Police,2000,,571,101,0,5,4,92,470,93,338,39,Non-New York City
+Westchester,White Plains City PD,2000,,2381,193,1,8,67,117,2188,212,1855,121,Non-New York City
+Westchester,Yonkers City PD,2000,,5680,981,16,37,465,463,4699,860,2789,1050,Non-New York City
+Westchester,Yorktown Town PD,2000,,724,35,1,5,9,20,689,73,590,26,Non-New York City
+Westchester,Ardsley Vg PD,1999,,77,4,0,0,1,3,73,18,54,1,Non-New York City
+Westchester,Bedford Town PD,1999,,195,16,0,0,3,13,179,23,144,12,Non-New York City
+Westchester,Briarcliff Manor Vg PD,1999,,83,2,0,0,0,2,81,10,66,5,Non-New York City
+Westchester,Bronxville Vg PD,1999,,81,3,0,0,2,1,78,7,55,16,Non-New York City
+Westchester,Buchanan Vg PD,1999,,58,13,0,0,1,12,45,3,36,6,Non-New York City
+Westchester,County Total,1999,,22710,2740,13,80,1140,1507,19970,2783,14270,2917,Non-New York City
+Westchester,Croton-Kensico PCT (NYC-BWSP),1999,,44,1,0,0,0,1,43,0,42,1,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,1999,,143,8,0,0,1,7,135,22,107,6,Non-New York City
+Westchester,Dobbs Ferry Vg PD,1999,,141,17,1,0,4,12,124,15,92,17,Non-New York City
+Westchester,Eastchester Town PD,1999,,346,10,0,0,3,7,336,22,264,50,Non-New York City
+Westchester,Elmsford Vg PD,1999,,94,7,0,0,3,4,87,13,70,4,Non-New York City
+Westchester,Greenburgh Town PD,1999,,1258,64,0,4,32,28,1194,163,912,119,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,1999,,66,2,0,0,1,1,64,6,42,16,Non-New York City
+Westchester,Irvington Vg PD,1999,,50,10,0,0,0,10,40,10,27,3,Non-New York City
+Westchester,Larchmont Vg PD,1999,,8,1,0,1,0,0,7,0,7,0,Non-New York City
+Westchester,Lewisboro Town PD,1999,,1,1,0,0,1,0,0,0,0,0,Non-New York City
+Westchester,Mamaroneck Town PD,1999,,200,3,0,0,2,1,197,17,131,49,Non-New York City
+Westchester,Mamaroneck Vg PD,1999,,358,34,0,0,10,24,324,34,256,34,Non-New York City
+Westchester,Mount Kisco Vg PD,1999,,381,48,0,0,4,44,333,32,286,15,Non-New York City
+Westchester,Mount Pleasant Town PD,1999,,369,39,0,0,6,33,330,31,271,28,Non-New York City
+Westchester,Mount Vernon City PD,1999,,2867,558,3,12,255,288,2309,450,1392,467,Non-New York City
+Westchester,New Castle Town PD,1999,,145,4,0,0,0,4,141,14,117,10,Non-New York City
+Westchester,New Rochelle City PD,1999,,1818,191,2,5,78,106,1627,177,1225,225,Non-New York City
+Westchester,North Castle Town PD,1999,,146,4,0,0,1,3,142,26,109,7,Non-New York City
+Westchester,Ossining Town PD,1999,,74,8,0,0,1,7,66,9,55,2,Non-New York City
+Westchester,Ossining Vg PD,1999,,535,94,1,3,20,70,441,88,302,51,Non-New York City
+Westchester,Peekskill City PD,1999,,564,84,0,5,39,40,480,92,361,27,Non-New York City
+Westchester,Pelham Manor Vg PD,1999,,162,18,0,1,7,10,144,19,119,6,Non-New York City
+Westchester,Pelham Vg PD,1999,,150,7,0,0,7,0,143,13,122,8,Non-New York City
+Westchester,Pleasantville Vg PD,1999,,87,10,0,0,2,8,77,11,57,9,Non-New York City
+Westchester,Port Chester Vg PD,1999,,836,80,0,3,47,30,756,112,538,106,Non-New York City
+Westchester,Rye Brook Vg PD,1999,,174,4,0,0,0,4,170,20,134,16,Non-New York City
+Westchester,Rye City PD,1999,,193,2,0,1,0,1,191,20,137,34,Non-New York City
+Westchester,Scarsdale Vg PD,1999,,215,2,0,0,0,2,213,24,150,39,Non-New York City
+Westchester,Sleepy Hollow Vg PD,1999,,72,27,0,0,2,25,45,13,23,9,Non-New York City
+Westchester,SUNY College At Purchase,1999,,105,3,0,1,0,2,102,2,95,5,Non-New York City
+Westchester,Tarrytown Vg PD,1999,,217,21,0,1,5,15,196,43,139,14,Non-New York City
+Westchester,Tuckahoe Vg PD,1999,,67,16,0,0,0,16,51,5,38,8,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,1999,,424,64,0,1,7,56,360,28,304,28,Non-New York City
+Westchester,Westchester County Park PD,1999,,10,0,0,0,0,0,10,0,9,1,Non-New York City
+Westchester,Westchester County State Police,1999,,657,121,1,2,8,110,536,90,411,35,Non-New York City
+Westchester,White Plains City PD,1999,,2489,192,1,6,78,107,2297,83,2077,137,Non-New York City
+Westchester,Yonkers City PD,1999,,6033,915,4,33,500,378,5118,939,2905,1274,Non-New York City
+Westchester,Yorktown Town PD,1999,,717,32,0,1,9,22,685,79,589,17,Non-New York City
+Westchester,Ardsley Vg PD,1998,,63,11,0,0,2,9,52,8,40,4,Non-New York City
+Westchester,Bedford Town PD,1998,,253,11,0,0,0,11,242,23,213,6,Non-New York City
+Westchester,Briarcliff Manor Vg PD,1998,,106,3,0,0,1,2,103,11,91,1,Non-New York City
+Westchester,Bronxville Vg PD,1998,,130,6,0,0,4,2,124,10,71,43,Non-New York City
+Westchester,Buchanan Vg PD,1998,,61,4,0,0,0,4,57,11,45,1,Non-New York City
+Westchester,Cortlandt Town PD,1998,,113,13,0,0,2,11,100,17,74,9,Non-New York City
+Westchester,County Total,1998,,25977,2994,25,109,1328,1532,22983,3446,16329,3208,Non-New York City
+Westchester,Croton-Kensico PCT (NYC-BWSP),1998,,46,0,0,0,0,0,46,0,46,0,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,1998,,154,13,0,0,0,13,141,19,114,8,Non-New York City
+Westchester,Dobbs Ferry Vg PD,1998,,165,21,0,2,1,18,144,29,97,18,Non-New York City
+Westchester,Eastchester Town PD,1998,,361,17,0,0,5,12,344,29,256,59,Non-New York City
+Westchester,Elmsford Vg PD,1998,,163,8,0,0,5,3,155,14,137,4,Non-New York City
+Westchester,Greenburgh Town PD,1998,,1454,61,1,4,33,23,1393,179,1211,3,Non-New York City
+Westchester,Harrison Town PD,1998,,455,14,0,1,6,7,441,51,312,78,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,1998,,80,4,1,0,2,1,76,7,63,6,Non-New York City
+Westchester,Irvington Vg PD,1998,,57,6,0,0,1,5,51,15,34,2,Non-New York City
+Westchester,Larchmont Vg PD,1998,,64,6,0,0,0,6,58,5,42,11,Non-New York City
+Westchester,Mamaroneck Town PD,1998,,270,7,0,0,5,2,263,32,177,54,Non-New York City
+Westchester,Mamaroneck Vg PD,1998,,399,14,0,0,5,9,385,37,269,79,Non-New York City
+Westchester,Mount Kisco Vg PD,1998,,398,39,0,1,5,33,359,33,304,22,Non-New York City
+Westchester,Mount Pleasant Town PD,1998,,413,59,0,1,4,54,354,43,286,25,Non-New York City
+Westchester,Mount Vernon City PD,1998,,3117,742,6,30,342,364,2375,540,1226,609,Non-New York City
+Westchester,New Castle Town PD,1998,,176,9,0,0,0,9,167,14,147,6,Non-New York City
+Westchester,New Rochelle City PD,1998,,2159,163,1,11,104,47,1996,269,1511,216,Non-New York City
+Westchester,North Castle Town PD,1998,,166,8,0,0,3,5,158,16,129,13,Non-New York City
+Westchester,Ossining Town PD,1998,,72,13,0,2,3,8,59,5,49,5,Non-New York City
+Westchester,Ossining Vg PD,1998,,656,114,1,4,47,62,542,122,387,33,Non-New York City
+Westchester,Peekskill City PD,1998,,533,100,1,4,32,63,433,120,267,46,Non-New York City
+Westchester,Pelham Manor Vg PD,1998,,160,11,0,1,8,2,149,16,118,15,Non-New York City
+Westchester,Pelham Vg PD,1998,,135,8,0,1,5,2,127,12,97,18,Non-New York City
+Westchester,Pleasantville Vg PD,1998,,120,12,0,0,1,11,108,16,86,6,Non-New York City
+Westchester,Port Chester Vg PD,1998,,971,98,0,1,44,53,873,101,689,83,Non-New York City
+Westchester,Rye Brook Vg PD,1998,,177,1,0,0,1,0,176,23,134,19,Non-New York City
+Westchester,Rye City PD,1998,,183,5,0,0,4,1,178,18,126,34,Non-New York City
+Westchester,Scarsdale Vg PD,1998,,268,5,0,1,2,2,263,23,187,53,Non-New York City
+Westchester,Sleepy Hollow Vg PD,1998,,55,17,1,0,3,13,38,10,19,9,Non-New York City
+Westchester,SUNY College At Purchase,1998,,137,5,0,0,1,4,132,8,120,4,Non-New York City
+Westchester,Tarrytown Vg PD,1998,,267,25,2,1,9,13,242,39,173,30,Non-New York City
+Westchester,Tuckahoe Vg PD,1998,,77,10,0,0,1,9,67,9,46,12,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,1998,,373,19,0,0,6,13,354,22,301,31,Non-New York City
+Westchester,Westchester County MTA,1998,,172,9,0,0,8,1,163,10,150,3,Non-New York City
+Westchester,Westchester County Park PD,1998,,16,1,0,0,0,1,15,0,15,0,Non-New York City
+Westchester,Westchester County State Police,1998,,547,117,0,1,9,107,430,131,265,34,Non-New York City
+Westchester,White Plains City PD,1998,,2282,154,1,9,49,95,2128,109,1862,157,Non-New York City
+Westchester,Yonkers City PD,1998,,7185,1012,10,31,561,410,6173,1170,3682,1321,Non-New York City
+Westchester,Yorktown Town PD,1998,,768,19,0,3,4,12,749,70,661,18,Non-New York City
+Westchester,Ardsley Vg PD,1997,,57,5,0,0,2,3,52,7,41,4,Non-New York City
+Westchester,Bedford Town PD,1997,,241,5,0,0,0,5,236,42,180,14,Non-New York City
+Westchester,Briarcliff Manor Vg PD,1997,,102,12,0,0,2,10,90,9,75,6,Non-New York City
+Westchester,Bronxville Vg PD,1997,,191,8,0,0,4,4,183,25,119,39,Non-New York City
+Westchester,Buchanan Vg PD,1997,,51,1,0,0,0,1,50,12,35,3,Non-New York City
+Westchester,Cortlandt Town PD,1997,,183,25,1,0,2,22,158,38,115,5,Non-New York City
+Westchester,County Total,1997,,28601,3146,31,107,1433,1575,25455,4370,16955,4130,Non-New York City
+Westchester,Croton-Kensico PCT (NYC-BWSP),1997,,42,0,0,0,0,0,42,2,40,0,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,1997,,120,15,0,1,2,12,105,17,81,7,Non-New York City
+Westchester,Dobbs Ferry Vg PD,1997,,152,20,0,0,1,19,132,27,92,13,Non-New York City
+Westchester,Eastchester Town PD,1997,,265,19,0,0,10,9,246,19,155,72,Non-New York City
+Westchester,Elmsford Vg PD,1997,,168,18,0,0,5,13,150,18,124,8,Non-New York City
+Westchester,Greenburgh Town PD,1997,,1524,74,0,3,40,31,1450,188,1075,187,Non-New York City
+Westchester,Harrison Town PD,1997,,500,18,0,0,7,11,482,76,321,85,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,1997,,73,6,0,0,2,4,67,11,52,4,Non-New York City
+Westchester,Irvington Vg PD,1997,,93,8,0,0,1,7,85,14,63,8,Non-New York City
+Westchester,Larchmont Vg PD,1997,,121,3,0,0,1,2,118,11,84,23,Non-New York City
+Westchester,Mamaroneck Town PD,1997,,298,2,0,0,1,1,296,48,167,81,Non-New York City
+Westchester,Mamaroneck Vg PD,1997,,530,28,0,0,9,19,502,60,342,100,Non-New York City
+Westchester,Mount Kisco Vg PD,1997,,361,39,0,4,2,33,322,39,259,24,Non-New York City
+Westchester,Mount Pleasant Town PD,1997,,488,41,1,1,4,35,447,60,342,45,Non-New York City
+Westchester,Mount Vernon City PD,1997,,3291,799,3,31,397,368,2492,697,1116,679,Non-New York City
+Westchester,New Castle Town PD,1997,,183,8,0,0,0,8,175,31,140,4,Non-New York City
+Westchester,New Rochelle City PD,1997,,2382,158,2,4,88,64,2224,365,1556,303,Non-New York City
+Westchester,North Castle Town PD,1997,,179,6,0,0,4,2,173,48,110,15,Non-New York City
+Westchester,Ossining Town PD,1997,,72,7,0,0,0,7,65,12,50,3,Non-New York City
+Westchester,Ossining Vg PD,1997,,685,98,1,6,35,56,587,155,384,48,Non-New York City
+Westchester,Peekskill City PD,1997,,754,104,2,3,54,45,650,121,477,52,Non-New York City
+Westchester,Pelham Manor Vg PD,1997,,289,11,1,0,9,1,278,55,173,50,Non-New York City
+Westchester,Pelham Vg PD,1997,,206,11,0,0,8,3,195,36,123,36,Non-New York City
+Westchester,Pleasantville Vg PD,1997,,135,33,0,0,3,30,102,11,87,4,Non-New York City
+Westchester,Port Chester Vg PD,1997,,831,98,0,3,31,64,733,129,526,78,Non-New York City
+Westchester,Rye Brook Vg PD,1997,,228,3,0,1,0,2,225,29,174,22,Non-New York City
+Westchester,Rye City PD,1997,,272,1,0,0,1,0,271,43,201,27,Non-New York City
+Westchester,Scarsdale Vg PD,1997,,286,4,0,0,0,4,282,36,197,49,Non-New York City
+Westchester,Sleepy Hollow Vg PD,1997,,55,21,0,2,7,12,34,6,20,8,Non-New York City
+Westchester,SUNY College At Purchase,1997,,120,3,0,2,1,0,117,5,97,15,Non-New York City
+Westchester,Tarrytown Vg PD,1997,,239,21,0,1,6,14,218,34,159,25,Non-New York City
+Westchester,Tuckahoe Vg PD,1997,,96,10,0,0,1,9,86,6,58,22,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,1997,,460,43,0,1,11,31,417,35,356,26,Non-New York City
+Westchester,Westchester County Park PD,1997,,24,2,0,0,0,2,22,2,18,2,Non-New York City
+Westchester,Westchester County (RR-MN),1997,,166,13,0,2,11,0,153,5,146,2,Non-New York City
+Westchester,Westchester County State Police,1997,,573,119,3,3,9,104,454,121,303,30,Non-New York City
+Westchester,White Plains City PD,1997,,2608,175,1,6,67,101,2433,134,2082,217,Non-New York City
+Westchester,Yonkers City PD,1997,,8178,1027,16,33,586,392,7151,1467,4020,1664,Non-New York City
+Westchester,Yorktown Town PD,1997,,729,24,0,0,9,15,705,64,620,21,Non-New York City
+Westchester,Ardsley Vg PD,1996,,61,6,0,0,0,6,55,12,37,6,Non-New York City
+Westchester,Bedford Town PD,1996,,251,3,0,0,2,1,248,52,178,18,Non-New York City
+Westchester,Briarcliff Manor Vg PD,1996,,78,3,0,0,1,2,75,15,56,4,Non-New York City
+Westchester,Bronxville Vg PD,1996,,170,6,0,0,2,4,164,26,117,21,Non-New York City
+Westchester,Buchanan Vg PD,1996,,42,11,0,0,0,11,31,9,20,2,Non-New York City
+Westchester,Cortlandt Town PD,1996,,267,36,0,0,4,32,231,54,172,5,Non-New York City
+Westchester,County Total,1996,,29486,3227,42,105,1541,1539,26259,4503,17809,3947,Non-New York City
+Westchester,Croton-Kensico PCT (NYC-BWSP),1996,,34,0,0,0,0,0,34,1,33,0,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,1996,,127,14,0,0,0,14,113,23,80,10,Non-New York City
+Westchester,Dobbs Ferry Vg PD,1996,,153,18,1,0,2,15,135,17,101,17,Non-New York City
+Westchester,Eastchester Town PD,1996,,355,21,4,1,8,8,334,35,230,69,Non-New York City
+Westchester,Elmsford Vg PD,1996,,156,8,0,0,2,6,148,15,125,8,Non-New York City
+Westchester,Greenburgh Town PD,1996,,1409,75,2,4,39,30,1334,171,982,181,Non-New York City
+Westchester,Harrison Town PD,1996,,452,11,0,3,5,3,441,57,307,77,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,1996,,101,6,0,0,4,2,95,23,66,6,Non-New York City
+Westchester,Irvington Vg PD,1996,,69,8,0,0,1,7,61,11,44,6,Non-New York City
+Westchester,Larchmont Vg PD,1996,,172,5,0,0,1,4,167,24,119,24,Non-New York City
+Westchester,Mamaroneck Town PD,1996,,239,6,0,0,4,2,233,28,159,46,Non-New York City
+Westchester,Mamaroneck Vg PD,1996,,642,51,0,2,7,42,591,97,380,114,Non-New York City
+Westchester,Mount Kisco Vg PD,1996,,335,58,1,0,17,40,277,32,228,17,Non-New York City
+Westchester,Mount Pleasant Town PD,1996,,444,45,2,4,6,33,399,63,280,56,Non-New York City
+Westchester,Mount Vernon City PD,1996,,3715,783,9,22,430,322,2932,893,1410,629,Non-New York City
+Westchester,New Castle Town PD,1996,,173,6,1,0,0,5,167,28,128,11,Non-New York City
+Westchester,New Rochelle City PD,1996,,2677,199,2,10,103,84,2478,398,1754,326,Non-New York City
+Westchester,North Castle Town PD,1996,,178,4,0,0,2,2,174,33,131,10,Non-New York City
+Westchester,Ossining Town PD,1996,,62,5,0,0,0,5,57,11,43,3,Non-New York City
+Westchester,Ossining Vg PD,1996,,810,83,0,6,32,45,727,179,487,61,Non-New York City
+Westchester,Peekskill City PD,1996,,696,107,0,2,46,59,589,125,418,46,Non-New York City
+Westchester,Pelham Manor Vg PD,1996,,287,16,1,1,11,3,271,24,194,53,Non-New York City
+Westchester,Pelham Vg PD,1996,,228,10,0,0,8,2,218,31,162,25,Non-New York City
+Westchester,Pleasantville Vg PD,1996,,138,24,0,0,3,21,114,14,90,10,Non-New York City
+Westchester,Port Chester Vg PD,1996,,697,80,0,0,31,49,617,101,462,54,Non-New York City
+Westchester,Rye Brook Vg PD,1996,,255,5,0,0,2,3,250,6,221,23,Non-New York City
+Westchester,Rye City PD,1996,,273,5,0,0,2,3,268,27,220,21,Non-New York City
+Westchester,Scarsdale Vg PD,1996,,287,4,0,0,3,1,283,31,218,34,Non-New York City
+Westchester,Sleepy Hollow Vg PD,1996,,67,14,1,0,3,10,53,19,30,4,Non-New York City
+Westchester,SUNY College At Purchase,1996,,157,2,0,1,0,1,155,11,132,12,Non-New York City
+Westchester,Tarrytown Vg PD,1996,,264,19,0,1,5,13,245,53,164,28,Non-New York City
+Westchester,Tuckahoe Vg PD,1996,,112,10,0,0,1,9,102,13,70,19,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,1996,,485,70,2,3,13,52,415,33,349,33,Non-New York City
+Westchester,Westchester County Park PD,1996,,24,2,0,0,0,2,22,0,22,0,Non-New York City
+Westchester,Westchester County (RR-MN),1996,,198,17,0,0,17,0,181,7,174,0,Non-New York City
+Westchester,Westchester County State Police,1996,,598,108,1,3,11,93,490,109,337,44,Non-New York City
+Westchester,White Plains City PD,1996,,2602,137,1,7,65,64,2465,138,2132,195,Non-New York City
+Westchester,Yonkers City PD,1996,,8211,1105,14,34,639,418,7106,1381,4125,1600,Non-New York City
+Westchester,Yorktown Town PD,1996,,735,21,0,1,9,11,714,73,622,19,Non-New York City
+Westchester,Ardsley Vg PD,1995,,102,8,0,0,4,4,94,26,62,6,Non-New York City
+Westchester,Bedford Town PD,1995,,263,2,0,0,0,2,261,39,207,15,Non-New York City
+Westchester,Briarcliff Manor Vg PD,1995,,108,4,0,0,1,3,104,12,88,4,Non-New York City
+Westchester,Bronxville Vg PD,1995,,135,6,0,0,2,4,129,11,88,30,Non-New York City
+Westchester,Buchanan Vg PD,1995,,43,5,0,0,0,5,38,14,23,1,Non-New York City
+Westchester,Cortlandt Town PD,1995,,295,44,1,0,3,40,251,49,191,11,Non-New York City
+Westchester,County Total,1995,,31001,3572,29,95,1757,1691,27429,4559,18796,4074,Non-New York City
+Westchester,Croton-Kensico PCT (NYC-BWSP),1995,,36,0,0,0,0,0,36,0,36,0,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,1995,,115,8,0,0,0,8,107,26,76,5,Non-New York City
+Westchester,Dobbs Ferry Vg PD,1995,,238,36,0,0,6,30,202,21,160,21,Non-New York City
+Westchester,Eastchester Town PD,1995,,405,18,0,1,6,11,387,20,304,63,Non-New York City
+Westchester,Elmsford Vg PD,1995,,201,11,1,1,7,2,190,19,146,25,Non-New York City
+Westchester,Greenburgh Town PD,1995,,1646,90,1,2,48,39,1556,211,1101,244,Non-New York City
+Westchester,Harrison Town PD,1995,,595,11,0,1,7,3,584,90,426,68,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,1995,,85,7,0,0,4,3,78,6,61,11,Non-New York City
+Westchester,Irvington Vg PD,1995,,106,5,0,1,1,3,101,30,65,6,Non-New York City
+Westchester,Larchmont Vg PD,1995,,206,3,0,0,0,3,203,44,139,20,Non-New York City
+Westchester,Mamaroneck Town PD,1995,,279,10,0,2,4,4,269,26,187,56,Non-New York City
+Westchester,Mamaroneck Vg PD,1995,,566,36,0,0,20,16,530,88,370,72,Non-New York City
+Westchester,Mount Kisco Vg PD,1995,,412,52,0,0,7,45,360,42,284,34,Non-New York City
+Westchester,Mount Pleasant Town PD,1995,,482,36,0,4,2,30,446,78,336,32,Non-New York City
+Westchester,Mount Vernon City PD,1995,,3981,905,6,21,493,385,3076,766,1557,753,Non-New York City
+Westchester,New Castle Town PD,1995,,176,5,0,0,2,3,171,25,130,16,Non-New York City
+Westchester,New Rochelle City PD,1995,,2431,203,2,8,110,83,2228,340,1629,259,Non-New York City
+Westchester,North Castle Town PD,1995,,192,5,0,0,3,2,187,45,132,10,Non-New York City
+Westchester,Ossining Town PD,1995,,85,7,0,0,3,4,78,20,57,1,Non-New York City
+Westchester,Ossining Vg PD,1995,,672,112,2,6,51,53,560,145,386,29,Non-New York City
+Westchester,Peekskill City PD,1995,,997,144,0,6,54,84,853,238,576,39,Non-New York City
+Westchester,Pelham Manor Vg PD,1995,,306,15,1,0,11,3,291,23,210,58,Non-New York City
+Westchester,Pelham Vg PD,1995,,282,11,0,0,7,4,271,48,198,25,Non-New York City
+Westchester,Pleasantville Vg PD,1995,,162,14,0,1,0,13,148,32,112,4,Non-New York City
+Westchester,Port Chester Vg PD,1995,,725,79,0,2,31,46,646,55,522,69,Non-New York City
+Westchester,Rye Brook Vg PD,1995,,257,4,0,0,2,2,253,23,213,17,Non-New York City
+Westchester,Rye City PD,1995,,372,10,0,1,1,8,362,48,284,30,Non-New York City
+Westchester,Scarsdale Vg PD,1995,,300,8,0,0,6,2,292,28,236,28,Non-New York City
+Westchester,Sleepy Hollow Vg PD,1995,,74,12,0,0,8,4,62,12,45,5,Non-New York City
+Westchester,SUNY College At Purchase,1995,,177,2,0,0,1,1,175,14,153,8,Non-New York City
+Westchester,Tarrytown Vg PD,1995,,334,42,1,2,6,33,292,39,209,44,Non-New York City
+Westchester,Tuckahoe Vg PD,1995,,126,16,0,1,2,13,110,10,86,14,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,1995,,495,40,0,2,12,26,455,32,393,30,Non-New York City
+Westchester,Westchester County Park PD,1995,,27,1,0,0,0,1,26,3,23,0,Non-New York City
+Westchester,Westchester County (RR-MN),1995,,349,171,0,0,23,148,178,10,166,2,Non-New York City
+Westchester,Westchester County State Police,1995,,625,92,3,4,9,76,533,107,381,45,Non-New York City
+Westchester,White Plains City PD,1995,,2507,137,2,2,69,64,2370,153,2058,159,Non-New York City
+Westchester,Yonkers City PD,1995,,8364,1137,9,25,730,373,7227,1400,4140,1687,Non-New York City
+Westchester,Yorktown Town PD,1995,,667,8,0,2,1,5,659,91,550,18,Non-New York City
+Westchester,Ardsley Vg PD,1994,,87,10,0,1,0,9,77,21,48,8,Non-New York City
+Westchester,Bedford Town PD,1994,,269,1,0,0,0,1,268,42,216,10,Non-New York City
+Westchester,Briarcliff Manor Vg PD,1994,,101,2,0,0,0,2,99,20,76,3,Non-New York City
+Westchester,Bronxville Vg PD,1994,,133,9,1,0,3,5,124,24,70,30,Non-New York City
+Westchester,Buchanan Vg PD,1994,,43,7,0,0,0,7,36,7,27,2,Non-New York City
+Westchester,Cortlandt Town PD,1994,,304,45,0,0,5,40,259,58,192,9,Non-New York City
+Westchester,County Total,1994,,31166,3632,28,129,1832,1643,27534,5037,17747,4750,Non-New York City
+Westchester,Croton-Kensico PCT (NYC-BWSP),1994,,33,0,0,0,0,0,33,0,33,0,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,1994,,126,10,0,0,0,10,116,16,89,11,Non-New York City
+Westchester,Dobbs Ferry Vg PD,1994,,231,24,1,0,2,21,207,33,166,8,Non-New York City
+Westchester,Eastchester Town PD,1994,,411,16,0,1,7,8,395,37,291,67,Non-New York City
+Westchester,Elmsford Vg PD,1994,,157,21,0,1,11,9,136,11,109,16,Non-New York City
+Westchester,Greenburgh Town PD,1994,,1507,77,1,6,39,31,1430,187,1025,218,Non-New York City
+Westchester,Harrison Town PD,1994,,497,11,0,2,4,5,486,90,321,75,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,1994,,122,10,0,0,7,3,112,18,79,15,Non-New York City
+Westchester,Irvington Vg PD,1994,,96,5,0,0,0,5,91,31,50,10,Non-New York City
+Westchester,Larchmont Vg PD,1994,,272,10,0,0,1,9,262,54,169,39,Non-New York City
+Westchester,Mamaroneck Town PD,1994,,338,5,0,0,3,2,333,44,208,81,Non-New York City
+Westchester,Mamaroneck Vg PD,1994,,598,24,0,0,17,7,574,80,405,89,Non-New York City
+Westchester,Mount Kisco Vg PD,1994,,312,57,0,3,9,45,255,31,210,14,Non-New York City
+Westchester,Mount Pleasant Town PD,1994,,391,21,1,0,4,16,370,73,251,46,Non-New York City
+Westchester,Mount Vernon City PD,1994,,4105,850,6,25,439,380,3255,885,1453,917,Non-New York City
+Westchester,New Castle Town PD,1994,,147,3,0,0,1,2,144,26,101,17,Non-New York City
+Westchester,New Rochelle City PD,1994,,2841,231,0,15,132,84,2610,476,1727,407,Non-New York City
+Westchester,North Castle Town PD,1994,,160,8,0,0,4,4,152,25,121,6,Non-New York City
+Westchester,Ossining Town PD,1994,,96,6,0,0,1,5,90,15,70,5,Non-New York City
+Westchester,Ossining Vg PD,1994,,688,111,0,10,43,58,577,149,397,31,Non-New York City
+Westchester,Peekskill City PD,1994,,887,201,0,2,32,167,686,138,491,57,Non-New York City
+Westchester,Pelham Manor Vg PD,1994,,260,9,0,0,9,0,251,25,169,57,Non-New York City
+Westchester,Pelham Vg PD,1994,,207,8,0,0,6,2,199,43,142,14,Non-New York City
+Westchester,Pleasantville Vg PD,1994,,109,24,0,1,6,17,85,14,63,8,Non-New York City
+Westchester,Port Chester Vg PD,1994,,1080,105,0,1,51,53,975,114,760,101,Non-New York City
+Westchester,Rye Brook Vg PD,1994,,226,8,0,1,2,5,218,24,175,19,Non-New York City
+Westchester,Rye City PD,1994,,298,3,0,0,2,1,295,42,215,38,Non-New York City
+Westchester,Scarsdale Vg PD,1994,,237,1,0,0,0,1,236,46,163,27,Non-New York City
+Westchester,Sleepy Hollow Vg PD,1994,,70,12,0,0,9,3,58,10,43,5,Non-New York City
+Westchester,SUNY College At Purchase,1994,,149,2,0,1,1,0,147,4,134,9,Non-New York City
+Westchester,Tarrytown Vg PD,1994,,315,21,1,0,7,13,294,41,219,34,Non-New York City
+Westchester,Tuckahoe Vg PD,1994,,113,15,0,3,1,11,98,5,79,14,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,1994,,412,46,0,8,9,29,366,23,312,31,Non-New York City
+Westchester,Westchester County Park PD,1994,,29,0,0,0,0,0,29,2,27,0,Non-New York City
+Westchester,Westchester County (RR-MN),1994,,142,24,0,0,24,0,118,21,97,0,Non-New York City
+Westchester,Westchester County State Police,1994,,649,86,1,3,8,74,563,142,353,68,Non-New York City
+Westchester,White Plains City PD,1994,,2535,133,2,3,61,67,2402,192,1973,237,Non-New York City
+Westchester,Yonkers City PD,1994,,8724,1350,14,41,868,427,7374,1624,3871,1879,Non-New York City
+Westchester,Yorktown Town PD,1994,,659,10,0,1,4,5,649,74,557,18,Non-New York City
+Westchester,Ardsley Vg PD,1993,,107,15,0,0,6,9,92,33,52,7,Non-New York City
+Westchester,Bedford Town PD,1993,,298,3,0,1,1,1,295,43,232,20,Non-New York City
+Westchester,Briarcliff Manor Vg PD,1993,,120,5,0,0,1,4,115,18,91,6,Non-New York City
+Westchester,Bronxville Vg PD,1993,,151,10,0,0,4,6,141,25,87,29,Non-New York City
+Westchester,Buchanan Vg PD,1993,,43,1,0,0,0,1,42,6,35,1,Non-New York City
+Westchester,Cortlandt Town PD,1993,,401,59,0,2,12,45,342,64,266,12,Non-New York City
+Westchester,County Total,1993,,32727,3840,34,123,1870,1813,28887,5451,18627,4809,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,1993,,137,9,0,0,1,8,128,21,92,15,Non-New York City
+Westchester,Dobbs Ferry Vg PD,1993,,311,36,0,2,3,31,275,47,216,12,Non-New York City
+Westchester,Eastchester Town PD,1993,,411,16,1,1,4,10,395,46,281,68,Non-New York City
+Westchester,Elmsford Vg PD,1993,,230,21,0,0,10,11,209,24,166,19,Non-New York City
+Westchester,Greenburgh Town PD,1993,,1640,96,0,2,48,46,1544,188,1135,221,Non-New York City
+Westchester,Harrison Town PD,1993,,531,9,0,3,4,2,522,86,359,77,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,1993,,139,6,0,1,3,2,133,15,104,14,Non-New York City
+Westchester,Irvington Vg PD,1993,,94,3,0,0,0,3,91,39,49,3,Non-New York City
+Westchester,Larchmont Vg PD,1993,,180,11,0,0,0,11,169,28,127,14,Non-New York City
+Westchester,Mamaroneck Town PD,1993,,255,2,0,0,2,0,253,50,145,58,Non-New York City
+Westchester,Mamaroneck Vg PD,1993,,560,15,0,1,10,4,545,63,398,84,Non-New York City
+Westchester,Mount Kisco Vg PD,1993,,365,55,0,0,11,44,310,42,245,23,Non-New York City
+Westchester,Mount Pleasant Town PD,1993,,427,13,1,2,4,6,414,74,311,29,Non-New York City
+Westchester,Mount Vernon City PD,1993,,4462,951,5,31,436,479,3511,961,1628,922,Non-New York City
+Westchester,New Castle Town PD,1993,,180,1,1,0,0,0,179,38,128,13,Non-New York City
+Westchester,New Rochelle City PD,1993,,2022,249,3,9,145,92,1773,568,869,336,Non-New York City
+Westchester,North Castle Town PD,1993,,195,11,0,0,2,9,184,44,132,8,Non-New York City
+Westchester,Ossining Town PD,1993,,77,8,0,1,1,6,69,14,46,9,Non-New York City
+Westchester,Ossining Vg PD,1993,,672,78,0,2,62,14,594,148,409,37,Non-New York City
+Westchester,Peekskill City PD,1993,,877,155,1,5,33,116,722,141,508,73,Non-New York City
+Westchester,Pelham Manor Vg PD,1993,,384,9,0,0,9,0,375,12,281,82,Non-New York City
+Westchester,Pelham Vg PD,1993,,215,13,0,0,6,7,202,53,125,24,Non-New York City
+Westchester,Pleasantville Vg PD,1993,,120,25,0,0,2,23,95,25,59,11,Non-New York City
+Westchester,Port Chester Vg PD,1993,,1123,102,1,3,55,43,1021,138,758,125,Non-New York City
+Westchester,Rye Brook Vg PD,1993,,231,15,0,0,4,11,216,37,166,13,Non-New York City
+Westchester,Rye City PD,1993,,298,4,1,0,2,1,294,55,207,32,Non-New York City
+Westchester,Scarsdale Vg PD,1993,,249,2,0,0,1,1,247,56,174,17,Non-New York City
+Westchester,Sleepy Hollow Vg PD,1993,,207,30,0,0,8,22,177,36,125,16,Non-New York City
+Westchester,SUNY College At Purchase,1993,,141,1,0,0,1,0,140,2,133,5,Non-New York City
+Westchester,Tarrytown Vg PD,1993,,299,24,0,0,4,20,275,50,189,36,Non-New York City
+Westchester,Tuckahoe Vg PD,1993,,123,11,0,0,2,9,112,9,85,18,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,1993,,604,113,0,11,18,84,491,22,395,74,Non-New York City
+Westchester,Westchester County Park PD,1993,,27,1,0,0,0,1,26,0,26,0,Non-New York City
+Westchester,Westchester County (RR-MN),1993,,18,3,0,1,0,2,15,4,11,0,Non-New York City
+Westchester,Westchester County State Police,1993,,644,103,1,4,14,84,541,127,349,65,Non-New York City
+Westchester,White Plains City PD,1993,,2866,182,0,7,84,91,2684,205,2201,278,Non-New York City
+Westchester,Yonkers City PD,1993,,9494,1351,19,34,852,446,8143,1682,4593,1868,Non-New York City
+Westchester,Yorktown Town PD,1993,,799,13,0,0,5,8,786,112,639,35,Non-New York City
+Westchester,Ardsley Vg PD,1992,,106,17,0,0,5,12,89,20,57,12,Non-New York City
+Westchester,Bedford Town PD,1992,,423,5,0,1,1,3,418,68,324,26,Non-New York City
+Westchester,Briarcliff Manor Vg PD,1992,,119,2,0,0,1,1,117,17,95,5,Non-New York City
+Westchester,Bronxville Vg PD,1992,,194,8,0,0,5,3,186,33,128,25,Non-New York City
+Westchester,Buchanan Vg PD,1992,,50,5,0,1,0,4,45,1,38,6,Non-New York City
+Westchester,Cortlandt Town PD,1992,,420,64,0,5,4,55,356,88,254,14,Non-New York City
+Westchester,County Total,1992,,34275,3722,32,133,1780,1777,30553,6118,19526,4909,Non-New York City
+Westchester,Croton-Kensico PCT (NYC-BWSP),1992,,21,0,0,0,0,0,21,0,21,0,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,1992,,192,13,0,0,1,12,179,53,104,22,Non-New York City
+Westchester,Dobbs Ferry Vg PD,1992,,290,22,0,0,5,17,268,52,190,26,Non-New York City
+Westchester,Eastchester Town PD,1992,,459,26,0,0,11,15,433,64,314,55,Non-New York City
+Westchester,Elmsford Vg PD,1992,,230,15,0,1,6,8,215,39,147,29,Non-New York City
+Westchester,Greenburgh Town PD,1992,,1725,141,0,9,65,67,1584,215,1149,220,Non-New York City
+Westchester,Harrison Town PD,1992,,655,13,0,1,6,6,642,153,432,57,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,1992,,128,3,0,1,0,2,125,37,74,14,Non-New York City
+Westchester,Irvington Vg PD,1992,,99,3,0,0,0,3,96,28,64,4,Non-New York City
+Westchester,Larchmont Vg PD,1992,,203,6,2,0,0,4,197,33,129,35,Non-New York City
+Westchester,Mamaroneck Town PD,1992,,324,3,0,0,3,0,321,88,172,61,Non-New York City
+Westchester,Mamaroneck Vg PD,1992,,723,22,1,1,12,8,701,179,432,90,Non-New York City
+Westchester,Mount Kisco Vg PD,1992,,343,20,0,1,11,8,323,54,247,22,Non-New York City
+Westchester,Mount Pleasant Town PD,1992,,432,10,1,0,5,4,422,88,309,25,Non-New York City
+Westchester,Mount Vernon City PD,1992,,4380,843,8,33,399,403,3537,887,1581,1069,Non-New York City
+Westchester,New Castle Town PD,1992,,207,4,0,0,0,4,203,26,164,13,Non-New York City
+Westchester,New Rochelle City PD,1992,,2377,373,3,6,176,188,2004,594,1021,389,Non-New York City
+Westchester,North Castle Town PD,1992,,236,6,1,0,3,2,230,69,152,9,Non-New York City
+Westchester,Ossining Town PD,1992,,103,2,0,0,0,2,101,12,79,10,Non-New York City
+Westchester,Ossining Vg PD,1992,,628,59,0,1,47,11,569,145,392,32,Non-New York City
+Westchester,Peekskill City PD,1992,,877,171,1,12,36,122,706,158,477,71,Non-New York City
+Westchester,Pelham Manor Vg PD,1992,,529,15,0,0,13,2,514,45,397,72,Non-New York City
+Westchester,Pelham Vg PD,1992,,216,15,0,1,9,5,201,35,148,18,Non-New York City
+Westchester,Pleasantville Vg PD,1992,,154,16,0,3,1,12,138,22,104,12,Non-New York City
+Westchester,Port Chester Vg PD,1992,,1198,97,0,3,61,33,1101,180,789,132,Non-New York City
+Westchester,Rye Brook Vg PD,1992,,303,9,0,0,3,6,294,33,218,43,Non-New York City
+Westchester,Rye City PD,1992,,418,6,0,1,1,4,412,86,279,47,Non-New York City
+Westchester,Scarsdale Vg PD,1992,,397,8,0,0,3,5,389,133,232,24,Non-New York City
+Westchester,Sleepy Hollow Vg PD,1992,,262,48,0,2,7,39,214,54,140,20,Non-New York City
+Westchester,SUNY College At Purchase,1992,,166,3,0,3,0,0,163,6,152,5,Non-New York City
+Westchester,Tarrytown Vg PD,1992,,394,22,0,1,7,14,372,60,266,46,Non-New York City
+Westchester,Tuckahoe Vg PD,1992,,159,15,0,1,4,10,144,18,115,11,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,1992,,570,130,0,1,12,117,440,19,369,52,Non-New York City
+Westchester,Westchester County Park PD,1992,,18,0,0,0,0,0,18,2,16,0,Non-New York City
+Westchester,Westchester County (RR-MN),1992,,191,21,0,0,13,8,170,18,151,1,Non-New York City
+Westchester,Westchester County State Police,1992,,647,93,0,2,13,78,554,156,329,69,Non-New York City
+Westchester,White Plains City PD,1992,,2750,182,0,4,78,100,2568,199,2153,216,Non-New York City
+Westchester,Yonkers City PD,1992,,9087,1171,14,38,751,368,7916,1723,4417,1776,Non-New York City
+Westchester,Yorktown Town PD,1992,,872,15,1,0,2,12,857,128,705,24,Non-New York City
+Westchester,Ardsley Vg PD,1991,,99,16,0,1,4,11,83,13,66,4,Non-New York City
+Westchester,Bedford Town PD,1991,,452,17,0,2,1,14,435,78,316,41,Non-New York City
+Westchester,Briarcliff Manor Vg PD,1991,,102,6,0,0,2,4,96,13,75,8,Non-New York City
+Westchester,Bronxville Vg PD,1991,,150,8,0,0,5,3,142,28,91,23,Non-New York City
+Westchester,Buchanan Vg PD,1991,,51,4,0,0,0,4,47,10,31,6,Non-New York City
+Westchester,Cortlandt Town PD,1991,,402,33,0,0,3,30,369,88,270,11,Non-New York City
+Westchester,County Total,1991,,37118,3933,36,120,2037,1740,33185,6365,20513,6307,Non-New York City
+Westchester,Croton-Kensico PCT (NYC-BWSP),1991,,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,1991,,177,14,0,0,5,9,163,29,105,29,Non-New York City
+Westchester,Dobbs Ferry Vg PD,1991,,230,14,0,0,3,11,216,24,163,29,Non-New York City
+Westchester,Eastchester Town PD,1991,,414,23,0,0,9,14,391,53,282,56,Non-New York City
+Westchester,Elmsford Vg PD,1991,,303,28,1,0,9,18,275,50,199,26,Non-New York City
+Westchester,Greenburgh Town PD,1991,,2073,147,0,6,69,72,1926,307,1305,314,Non-New York City
+Westchester,Harrison Town PD,1991,,607,18,2,0,9,7,589,115,409,65,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,1991,,218,6,0,1,4,1,212,46,132,34,Non-New York City
+Westchester,Irvington Vg PD,1991,,80,3,0,0,1,2,77,21,46,10,Non-New York City
+Westchester,Larchmont Vg PD,1991,,254,7,0,2,3,2,247,45,161,41,Non-New York City
+Westchester,Mamaroneck Town PD,1991,,282,13,0,0,7,6,269,44,163,62,Non-New York City
+Westchester,Mamaroneck Vg PD,1991,,632,33,0,1,16,16,599,107,385,107,Non-New York City
+Westchester,Mount Kisco Vg PD,1991,,377,12,0,0,8,4,365,60,268,37,Non-New York City
+Westchester,Mount Pleasant Town PD,1991,,414,10,1,0,5,4,404,68,289,47,Non-New York City
+Westchester,Mount Vernon City PD,1991,,4948,948,11,18,446,473,4000,1042,1709,1249,Non-New York City
+Westchester,New Castle Town PD,1991,,188,8,0,2,0,6,180,21,140,19,Non-New York City
+Westchester,New Rochelle City PD,1991,,2236,301,3,8,185,105,1935,506,956,473,Non-New York City
+Westchester,North Castle Town PD,1991,,229,9,0,0,1,8,220,47,162,11,Non-New York City
+Westchester,Ossining Town PD,1991,,100,7,0,0,0,7,93,15,67,11,Non-New York City
+Westchester,Ossining Vg PD,1991,,632,61,0,4,37,20,571,159,369,43,Non-New York City
+Westchester,Peekskill City PD,1991,,852,96,2,8,29,57,756,180,448,128,Non-New York City
+Westchester,Pelham Manor Vg PD,1991,,521,15,0,0,14,1,506,36,381,89,Non-New York City
+Westchester,Pelham Vg PD,1991,,267,18,0,0,17,1,249,47,165,37,Non-New York City
+Westchester,Pleasantville Vg PD,1991,,209,3,0,0,0,3,206,24,159,23,Non-New York City
+Westchester,Port Chester Vg PD,1991,,1284,122,3,6,47,66,1162,171,857,134,Non-New York City
+Westchester,Rye Brook Vg PD,1991,,239,7,0,2,0,5,232,28,174,30,Non-New York City
+Westchester,Rye City PD,1991,,350,3,0,0,3,0,347,58,256,33,Non-New York City
+Westchester,Scarsdale Vg PD,1991,,377,15,0,0,3,12,362,35,283,44,Non-New York City
+Westchester,Sleepy Hollow Vg PD,1991,,155,28,0,1,10,17,127,23,82,22,Non-New York City
+Westchester,SUNY College At Purchase,1991,,189,1,0,1,0,0,188,8,165,15,Non-New York City
+Westchester,Tarrytown Vg PD,1991,,365,10,1,0,5,4,355,62,249,44,Non-New York City
+Westchester,Tuckahoe Vg PD,1991,,124,15,0,0,3,12,109,23,69,17,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,1991,,643,128,1,2,31,94,515,19,428,68,Non-New York City
+Westchester,Westchester County Park PD,1991,,12,1,0,0,1,0,11,1,10,0,Non-New York City
+Westchester,Westchester County (RR-MN),1991,,150,22,0,0,13,9,128,23,105,0,Non-New York City
+Westchester,Westchester County (RR-RC),1991,,2,0,0,0,0,0,2,0,2,0,Non-New York City
+Westchester,Westchester County State Police,1991,,706,136,0,3,8,125,570,182,322,66,Non-New York City
+Westchester,White Plains City PD,1991,,3248,234,1,2,117,114,3014,231,2520,263,Non-New York City
+Westchester,Yonkers City PD,1991,,10927,1318,9,48,901,360,9609,2115,4992,2502,Non-New York City
+Westchester,Yorktown Town PD,1991,,847,15,1,2,3,9,832,110,686,36,Non-New York City
+Westchester,Ardsley Vg PD,1990,,100,13,0,0,4,9,87,16,68,3,Non-New York City
+Westchester,Bedford Town PD,1990,,383,16,0,1,1,14,367,66,267,34,Non-New York City
+Westchester,Briarcliff Manor Vg PD,1990,,98,3,0,0,0,3,95,18,68,9,Non-New York City
+Westchester,Bronxville Vg PD,1990,,213,11,0,0,3,8,202,14,159,29,Non-New York City
+Westchester,Buchanan Vg PD,1990,,48,6,0,0,1,5,42,3,37,2,Non-New York City
+Westchester,Cortlandt Town PD,1990,,385,20,0,1,4,15,365,40,310,15,Non-New York City
+Westchester,County Total,1990,,38145,3871,50,128,1927,1766,34274,6465,21564,6245,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,1990,,192,9,0,0,1,8,183,34,126,23,Non-New York City
+Westchester,Dobbs Ferry Vg PD,1990,,292,21,0,0,2,19,271,34,206,31,Non-New York City
+Westchester,Eastchester Town PD,1990,,462,15,0,0,9,6,447,38,346,63,Non-New York City
+Westchester,Elmsford Vg PD,1990,,325,35,0,2,12,21,290,77,187,26,Non-New York City
+Westchester,Greenburgh Town PD,1990,,1883,125,1,6,58,60,1758,270,1274,214,Non-New York City
+Westchester,Harrison Town PD,1990,,613,9,0,0,2,7,604,79,447,78,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,1990,,212,10,0,1,3,6,202,66,120,16,Non-New York City
+Westchester,Irvington Vg PD,1990,,120,3,0,0,1,2,117,21,85,11,Non-New York City
+Westchester,Larchmont Vg PD,1990,,284,10,0,0,5,5,274,44,183,47,Non-New York City
+Westchester,Mamaroneck Town PD,1990,,345,12,2,0,5,5,333,68,208,57,Non-New York City
+Westchester,Mamaroneck Vg PD,1990,,636,28,0,0,15,13,608,123,393,92,Non-New York City
+Westchester,Mount Kisco Vg PD,1990,,481,22,0,1,10,11,459,91,340,28,Non-New York City
+Westchester,Mount Pleasant Town PD,1990,,510,18,0,0,5,13,492,108,335,49,Non-New York City
+Westchester,Mount Vernon City PD,1990,,5057,1004,14,28,429,533,4053,1026,1684,1343,Non-New York City
+Westchester,New Castle Town PD,1990,,217,12,0,0,0,12,205,43,148,14,Non-New York City
+Westchester,New Rochelle City PD,1990,,2734,312,1,15,189,107,2422,576,1348,498,Non-New York City
+Westchester,North Castle Town PD,1990,,235,24,0,0,0,24,211,34,166,11,Non-New York City
+Westchester,Ossining Town PD,1990,,116,5,0,0,0,5,111,11,93,7,Non-New York City
+Westchester,Ossining Vg PD,1990,,777,91,0,3,44,44,686,163,470,53,Non-New York City
+Westchester,Peekskill City PD,1990,,912,96,1,9,41,45,816,244,514,58,Non-New York City
+Westchester,Pelham Manor Vg PD,1990,,583,20,0,0,20,0,563,57,415,91,Non-New York City
+Westchester,Pelham Vg PD,1990,,293,13,0,0,13,0,280,50,194,36,Non-New York City
+Westchester,Pleasantville Vg PD,1990,,155,19,0,0,1,18,136,24,94,18,Non-New York City
+Westchester,Port Chester Vg PD,1990,,1272,105,5,4,45,51,1167,172,835,160,Non-New York City
+Westchester,Rye Brook Vg PD,1990,,181,1,0,0,1,0,180,14,143,23,Non-New York City
+Westchester,Rye City PD,1990,,376,4,0,0,3,1,372,60,271,41,Non-New York City
+Westchester,Scarsdale Vg PD,1990,,352,4,0,0,2,2,348,63,275,10,Non-New York City
+Westchester,Sleepy Hollow Vg PD,1990,,128,13,0,1,5,7,115,23,67,25,Non-New York City
+Westchester,SUNY College At Purchase,1990,,153,3,0,0,1,2,150,6,138,6,Non-New York City
+Westchester,Tarrytown Vg PD,1990,,298,11,0,1,3,7,287,38,221,28,Non-New York City
+Westchester,Tuckahoe Vg PD,1990,,132,9,0,0,3,6,123,14,91,18,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,1990,,581,46,1,4,18,23,535,27,430,78,Non-New York City
+Westchester,Westchester County Park PD,1990,,21,0,0,0,0,0,21,2,19,0,Non-New York City
+Westchester,Westchester County (RR-MN),1990,,165,35,1,0,18,16,130,32,98,0,Non-New York City
+Westchester,Westchester County State Police,1990,,790,145,2,3,9,131,645,172,379,94,Non-New York City
+Westchester,White Plains City PD,1990,,3577,226,4,2,109,111,3351,324,2764,263,Non-New York City
+Westchester,Yonkers City PD,1990,,10644,1263,18,43,829,373,9381,1980,4895,2506,Non-New York City
+Westchester,Yorktown Town PD,1990,,814,24,0,3,3,18,790,100,653,37,Non-New York City

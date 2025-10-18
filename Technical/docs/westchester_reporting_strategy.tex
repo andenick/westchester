@@ -1,0 +1,336 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{longtable}
+
+% Header and footer setup
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{\textbf{Westchester County Data Platform}}
+\rhead{Reporting Strategy}
+\renewcommand{\headrulewidth}{0.4pt}
+
+\title{\textbf{Westchester County Data Platform}\\Reporting Strategy \& Output Catalog}
+\author{Arcanum Research Initiative}
+\date{October 2025}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+\newpage
+
+\section{Overview}
+
+This document catalogs all outputs from the Westchester County Data Platform project and provides guidance on accessing, using, and maintaining the various deliverables. The platform follows Druck organizational standards with a two-folder structure (Output/ and Technical/) ensuring clear separation between user-facing deliverables and implementation details.
+
+\section{Output Structure}
+
+\subsection{Directory Organization}
+\begin{verbatim}
+Westchester/
+├── Output/                    # User-facing deliverables
+│   ├── Data/
+│   │   ├── Results/          # Processed Excel files
+│   │   ├── Source/           # Original data documentation
+│   │   └── Robin/            # Robin database integration
+│   ├── PDFs/                 # LaTeX-generated reports
+│   ├── Charts/               # Static visualizations
+│   └── Documentation/        # Analysis guides
+└── Technical/                 # Implementation files
+    ├── src/                  # Source code
+    ├── data/                 # Raw and processed data
+    ├── notebooks/            # Jupyter analysis
+    ├── docs/                 # LaTeX sources
+    └── scripts/              # Automation scripts
+\end{verbatim}
+
+\section{Excel Data Files}
+
+\subsection{Druck Compliance Standards}
+All Excel files follow mandatory Druck standards:
+\begin{itemize}
+    \item \textbf{ONE sheet per file} (no multi-tab workbooks)
+    \item Machine-readable column names
+    \item Professional black \& white formatting
+    \item Timestamped filenames: \texttt{[YYYY.MM.DD] description.xlsx}
+\end{itemize}
+
+\subsection{Excel File Catalog}
+
+\begin{longtable}{p{7cm}p{8cm}}
+\toprule
+\textbf{File Name} & \textbf{Description} \\
+\midrule
+\endhead
+
+\texttt{[2025.10.13] westchester\_county\_demographics.xlsx} & 
+County-level demographic statistics from 2022 ACS 5-Year Estimates. Includes population, income, housing, and employment data. \\
+
+\texttt{[2025.10.13] westchester\_census\_tracts.xlsx} & 
+Demographic data for all 241 census tracts in Westchester County. Tract-level population, income, and housing metrics. \\
+
+\texttt{[2025.10.13] westchester\_metro\_north\_stations.xlsx} & 
+Directory of 56 Metro-North Railroad stations in Westchester County with coordinates and accessibility information. \\
+
+\texttt{[2025.10.13] westchester\_transit\_accessibility.xlsx} & 
+Transit accessibility analysis including station counts, ADA compliance rates, and coverage metrics. \\
+
+\bottomrule
+\caption{Excel Data Files Inventory}
+\end{longtable}
+
+\subsection{How to Use Excel Files}
+\begin{enumerate}
+    \item Navigate to \texttt{Output/Data/Results/}
+    \item Open files in Excel, Google Sheets, or any spreadsheet application
+    \item Each file contains exactly ONE sheet with all data
+    \item Column headers are self-explanatory and machine-readable
+    \item All files are timestamped for version control
+\end{enumerate}
+
+\section{PDF Reports}
+
+\subsection{Report Catalog}
+
+\begin{longtable}{p{6cm}p{9cm}}
+\toprule
+\textbf{Report} & \textbf{Content} \\
+\midrule
+\endhead
+
+\texttt{westchester\_methodology\_report.pdf} & 
+Comprehensive documentation of data sources, processing methods, analytical framework, and technical implementation details. \\
+
+\texttt{westchester\_executive\_summary.pdf} & 
+High-level overview of key findings, deliverables, and applications. Non-technical summary for stakeholders and decision-makers. \\
+
+\texttt{westchester\_reporting\_strategy.pdf} & 
+This document. Complete catalog of all outputs with usage instructions and maintenance guidelines. \\
+
+\bottomrule
+\caption{PDF Reports Inventory}
+\end{longtable}
+
+\subsection{Compiling LaTeX Reports}
+To regenerate PDF reports from source:
+\begin{verbatim}
+cd Technical/docs/
+pdflatex westchester_methodology_report.tex
+pdflatex westchester_executive_summary.tex
+pdflatex westchester_reporting_strategy.tex
+
+# Move PDFs to Output/PDFs/
+mv *.pdf ../../Output/PDFs/
+\end{verbatim}
+
+\section{Web Platform}
+
+\subsection{Starting the Platform}
+
+\textbf{Quick Start:}
+\begin{verbatim}
+# Backend API
+cd Technical/src/api
+python main.py
+# Runs on http://localhost:8000
+
+# Frontend Application
+cd Technical/src/frontend
+npm run dev
+# Runs on http://localhost:5173
+\end{verbatim}
+
+\subsection{Dashboard Catalog}
+
+\begin{longtable}{p{5cm}p{10cm}}
+\toprule
+\textbf{Dashboard} & \textbf{URL \& Features} \\
+\midrule
+\endhead
+
+Overview Dashboard & 
+\texttt{/dashboards/overview} \\
+& High-level county metrics, data availability status, interactive map \\
+
+Demographics Dashboard & 
+\texttt{/dashboards/demographics} \\
+& Population charts, income distribution, race/ethnicity breakdown, housing statistics \\
+
+Transit Dashboard & 
+\texttt{/dashboards/transit} \\
+& Station directory, accessibility analysis, coverage maps, 1-mile radius visualization \\
+
+Property Tax Dashboard & 
+\texttt{/dashboards/property-tax} \\
+& Assessment trends, tax rates, geographic distribution by municipality \\
+
+Budget Dashboard & 
+\texttt{/dashboards/budget} \\
+& County spending by department, multi-year budget trends, spending priorities \\
+
+Municipal Services Dashboard & 
+\texttt{/dashboards/services} \\
+& Police, fire, library coverage; emergency response times; facility inventory \\
+
+Municipality Comparison & 
+\texttt{/dashboards/comparison} \\
+& Side-by-side comparison of demographics, income, and housing across municipalities \\
+
+\bottomrule
+\caption{Web Dashboard Catalog}
+\end{longtable}
+
+\section{API Endpoints}
+
+\subsection{API Documentation}
+Interactive API documentation available at: \texttt{http://localhost:8000/docs}
+
+\subsection{Endpoint Catalog}
+
+\begin{longtable}{p{5cm}p{10cm}}
+\toprule
+\textbf{Endpoint} & \textbf{Description} \\
+\midrule
+\endhead
+
+\texttt{GET /} & 
+API root with welcome message and status \\
+
+\texttt{GET /api/stats} & 
+Platform statistics and data availability \\
+
+\texttt{GET /api/municipalities} & 
+List of Westchester County municipalities \\
+
+\texttt{GET /api/transit/stations} & 
+Metro-North station data with coordinates \\
+
+\texttt{GET /api/demographics/county} & 
+County-level demographics (2022 ACS) \\
+
+\texttt{GET /api/demographics/tracts} & 
+Census tract demographics (241 tracts) \\
+
+\texttt{GET /api/demographics/municipalities} & 
+Municipality-level demographics \\
+
+\bottomrule
+\caption{API Endpoints}
+\end{longtable}
+
+\section{Data Update Schedule}
+
+\subsection{Recommended Update Frequency}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lll}
+\toprule
+\textbf{Data Source} & \textbf{Update Frequency} & \textbf{Command} \\
+\midrule
+Census Demographics & Annually & \texttt{python scripts/download\_all\_data.py} \\
+Metro-North GTFS & Monthly & \texttt{python scripts/download\_all\_data.py} \\
+NY State Data & Quarterly & \texttt{python scripts/download\_all\_data.py} \\
+Excel Files & After data updates & \texttt{python src/processors/generate\_all\_excel.py} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Update Process}
+\begin{enumerate}
+    \item Run data download script
+    \item Verify data quality
+    \item Regenerate Excel files
+    \item Validate Druck compliance
+    \item Update documentation if needed
+    \item Restart web platform
+\end{enumerate}
+
+\section{Quality Assurance}
+
+\subsection{Validation Procedures}
+
+\textbf{Excel Validation:}
+\begin{verbatim}
+python Technical/scripts/validate_excel.py
+\end{verbatim}
+Checks for ONE sheet per file, validates column names, verifies formatting
+
+\textbf{API Testing:}
+\begin{verbatim}
+# Access API documentation
+http://localhost:8000/docs
+
+# Test each endpoint interactively
+\end{verbatim}
+
+\subsection{Compliance Checklist}
+\begin{itemize}
+    \item[$\square$] All Excel files have exactly ONE sheet
+    \item[$\square$] Filenames include timestamp [YYYY.MM.DD]
+    \item[$\square$] Column names are machine-readable
+    \item[$\square$] All PDFs generated from LaTeX sources
+    \item[$\square$] API endpoints return valid JSON
+    \item[$\square$] Frontend dashboards load without errors
+    \item[$\square$] Documentation is up to date
+\end{itemize}
+
+\section{User Support}
+
+\subsection{Documentation Resources}
+\begin{itemize}
+    \item \textbf{Project README:} \texttt{Projects/Westchester/README.md}
+    \item \textbf{Technical Guide:} \texttt{Projects/Westchester/Technical/README.md}
+    \item \textbf{Methodology Report:} \texttt{Output/PDFs/westchester\_methodology\_report.pdf}
+    \item \textbf{API Docs:} \texttt{http://localhost:8000/docs}
+\end{itemize}
+
+\subsection{Common Tasks}
+
+\textbf{Accessing Data:}
+\begin{itemize}
+    \item Excel files: \texttt{Output/Data/Results/}
+    \item PDF reports: \texttt{Output/PDFs/}
+    \item Raw data: \texttt{Technical/data/raw/}
+\end{itemize}
+
+\textbf{Running Analysis:}
+\begin{itemize}
+    \item Jupyter notebooks: \texttt{Technical/notebooks/}
+    \item Python scripts: \texttt{Technical/scripts/}
+    \item API queries: Use interactive docs at \texttt{/docs}
+\end{itemize}
+
+\section{Maintenance}
+
+\subsection{Regular Maintenance Tasks}
+\begin{enumerate}
+    \item \textbf{Monthly:} Update Metro-North GTFS data
+    \item \textbf{Quarterly:} Refresh NY State Open Data
+    \item \textbf{Annually:} Update Census ACS data when new year is released
+    \item \textbf{As Needed:} Add new data sources, expand dashboards
+\end{enumerate}
+
+\subsection{Version Control}
+\begin{itemize}
+    \item All Excel files are timestamped
+    \item Git repository tracks all code changes
+    \item Documentation updated with each major release
+\end{itemize}
+
+\section{Contact Information}
+
+For questions, issues, or requests for additional analysis:
+\begin{itemize}
+    \item \textbf{Project:} Westchester County Data Platform
+    \item \textbf{Organization:} Arcanum Research Initiative
+    \item \textbf{Documentation:} See HANDOFF\_DOCUMENTATION.md
+\end{itemize}
+
+\end{document}
+

@@ -1,0 +1,90 @@
+{
+  "year": "2025",
+  "file": "westchester_county_2025_operating_budget.pdf",
+  "pages_found": [
+    233,
+    234,
+    235
+  ],
+  "text_content": [
+    {
+      "page": 233,
+      "text": "Department Of Planning (19)\nCommissioner of\nOther County Boards County Planning Board\nPlanning\nADMINISTRATION COMMUNITY DEVELOPMENT DESIGN ENVIRONMENT\nHOUSING TRANSPORTATION\nThe Commissioner of Planning and the members of the Planning Board, Soil and Water Conservation Board, Housing Opportunity Commission\nand Historic Preservation Advisory Committee and half of the members of the Stormwater Advisory Board are appointed by the County\nExecutive, subject to confirmation by the Board of Legislators. Members of the Urban County Council and the Community Development\nAdvisory Group are appointed by the local municipalities. Members of the Agriculture & Farmland Board and half of the members of the\nStormwater Advisory Board are appointed by the Board of Legislators. The Commissioner of Planning also serves as an ex officio on\nthe following boards: Airport Advisory, Transportation, and Parks, Recreation, and Conservation.\nDepartment Of Planning (19)\nC-183"
+    },
+    {
+      "page": 234,
+      "text": "Department Of Planning (19)\nMission Statement\nThe mission of the Department of Planning is to shape and influence growth and development in Westchester County in order to improve quality of life and\nprotect the environment, resulting in more livable, sustainable and resilient communities.\n2024 2025\nPOSITIONS\nOperating 29 29\nGrants 13 13\n42 42\nOPERATING BUDGET EXPENDITURES\nPersonal Services 3,002,407 3,209,454\nEquipment 0 0\nMaterial & Supplies 92,142 27,000\nExpenses 6,390,810 1,790,332\nInterdepartmental Charges 836,226 958,576\nTOTAL EXPENDITURES 10,321,585 5,985,362\nOPERATING BUDGET REVENUES\nInterdepartmental\nDepartmental 292,378 307,138\nState and Federal Aid 2,385,000 325,000\nTOTAL REVENUES 2,677,378 632,138\nDEPARTMENT TAX LEVY 7,644,207 5,353,224\nEstimated Share of Miscellaneous Budget Items:\nRetirement Systems 649,693 704,532\nHealth Insurance and Benefits 1,022,266 1,062,358\nDEPARTMENT TOTAL 9,316,166 7,120,114\nThe Appropriated 2024 figures in the supporting detail include all budget amendments through August 31, 2024\nand Appropriations Assigned for Purchases on Order (\"roll forwards\") of $409,766.\nC-184"
+    },
+    {
+      "page": 235,
+      "text": "Department Of Planning (19)\nThe Department of Planning, as staff to the County Planning Board, must prepare an annual report with recommendations on capital projects\nproposed to be undertaken by County departments and prepares reports on land use matters referred to the County Planning Board by\nmunicipalities. Also, as staff to the County Planning Board, the Department reviews certain land use applications that may impact County or\nState properties. The Department of Planning oversees the preparation of all environmental reviews for County actions including legislation,\nreal estate transactions, capital projects, and building and site improvements in compliance with the New York State Environmental Quality\nReview Act (SEQRA) and National Environmental Protection Act (NEPA). The Department of Planning represents the County in federally\nmandated transportation planning activities in order to maintain the County's eligibility for federal transit and federal highway funds, in addition\nto supporting system ridership and demographic data and analysis. The Department of Planning performs these activities reviews under the\nfollowing New York State Laws and State Codes, Rules and Regulations:\nPrograms and Services State Law or Regulations\nReview any action referred to the County Planning Board by a Chapter 617, Laws of New York 1937, Article 12B, Section 239 I,\nmunicipality and report back recommendations accompanied by a m, n\nstatement of reasons for such recommendations.\nPrepare and submit annually a County Planning Board Report on Chapter 617, Laws of New York 1937, Article 12B, Section 239 c\nthe physical aspects of proposed capital projects.\nThe preparation and administration of all environmental reviews 6 NYCRR Part 617, State Environmental Quality Review Act\nfor County capital projects, County building and site improvements\nand actions before the Board of Legislators and Board of\nAcquisition and Contract.\nReview of environmental impact for projects receiving federal Section 106 of the National Historic Preservation Act, the National\nfunding Environmental Protection Act and applicable federal agency NEPA\nregulations\nTransportation Data Collection and Statistical Demographics -Code of Federal Regulations, Title 49, (Subtitle III) Chapter 53,\nSection 5335\nSection 15, Data Collection Program\nMass Transit Capital Projects Administration -Code of Federal Regulations, Title 49, (Subtitle III) Chapter 53,\nSection 5327\nC-185"
+    }
+  ],
+  "tables": [
+    {
+      "page": 234,
+      "table_number": 1,
+      "data": [
+        [
+          "TOTAL EXPENDITURES",
+          "",
+          "10,321,585",
+          "",
+          "5,985,362"
+        ]
+      ]
+    },
+    {
+      "page": 234,
+      "table_number": 2,
+      "data": [
+        [
+          "TOTAL REVENUES",
+          "",
+          "2,677,378",
+          "",
+          "632,138"
+        ]
+      ]
+    },
+    {
+      "page": 234,
+      "table_number": 3,
+      "data": [
+        [
+          "DEPARTMENT TAX LEVY",
+          "",
+          "7,644,207",
+          "",
+          "5,353,224"
+        ]
+      ]
+    },
+    {
+      "page": 234,
+      "table_number": 4,
+      "data": [
+        [
+          "DEPARTMENT TOTAL",
+          "",
+          "9,316,166",
+          "",
+          "7,120,114"
+        ]
+      ]
+    }
+  ],
+  "budget_summary": {
+    "appropriations": [
+      {
+        "page": 234,
+        "line": "and Appropriations Assigned for Purchases on Order (\"roll forwards\") of $409,766.",
+        "amounts": [
+          "$409,766"
+        ]
+      }
+    ],
+    "revenues": [],
+    "personnel": []
+  }
+}

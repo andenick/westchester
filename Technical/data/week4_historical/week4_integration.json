@@ -1,0 +1,360 @@
+{
+  "collection_metadata": {
+    "week": 4,
+    "collection_date": "2025-10-14T12:39:39.502023",
+    "focus": "Historical Trends - TIME SERIES ANALYSIS",
+    "target_files": 15,
+    "data_categories": {
+      "economic_indicators": {
+        "files": 4,
+        "type": "Economic trends analysis"
+      },
+      "population_growth": {
+        "files": 4,
+        "type": "Demographic trends"
+      },
+      "housing_market": {
+        "files": 4,
+        "type": "Real estate market analysis"
+      },
+      "employment_statistics": {
+        "files": 3,
+        "type": "Labor market analysis"
+      }
+    }
+  },
+  "data_collections": {
+    "economic_indicators": [
+      {
+        "file_name": "gdp_county_economic_trends.xlsx",
+        "total_records": 132,
+        "year_range": [
+          2014,
+          2024
+        ],
+        "municipalities": 12,
+        "data_type": "Economic Indicators",
+        "last_updated": "2025-10-14T12:39:38.918361"
+      },
+      {
+        "file_name": "inflation_consumer_price_index.xlsx",
+        "total_records": 132,
+        "year_range": [
+          2014,
+          2024
+        ],
+        "municipalities": 12,
+        "data_type": "Economic Indicators",
+        "last_updated": "2025-10-14T12:39:38.938380"
+      },
+      {
+        "file_name": "business_formation_statistics.xlsx",
+        "total_records": 132,
+        "year_range": [
+          2014,
+          2024
+        ],
+        "municipalities": 12,
+        "data_type": "Economic Indicators",
+        "last_updated": "2025-10-14T12:39:38.958002"
+      },
+      {
+        "file_name": "retail_sales_performance.xlsx",
+        "total_records": 132,
+        "year_range": [
+          2014,
+          2024
+        ],
+        "municipalities": 12,
+        "data_type": "Economic Indicators",
+        "last_updated": "2025-10-14T12:39:38.976804"
+      }
+    ],
+    "population_growth": [
+      {
+        "file_name": "census_population_estimates.xlsx",
+        "total_records": 132,
+        "year_range": [
+          2014,
+          2024
+        ],
+        "municipalities": 12,
+        "data_type": "Population Growth",
+        "last_updated": "2025-10-14T12:39:39.003468"
+      },
+      {
+        "file_name": "migration_patterns_analysis.xlsx",
+        "total_records": 132,
+        "year_range": [
+          2014,
+          2024
+        ],
+        "municipalities": 12,
+        "data_type": "Population Growth",
+        "last_updated": "2025-10-14T12:39:39.023524"
+      },
+      {
+        "file_name": "demographic_age_distribution.xlsx",
+        "total_records": 132,
+        "year_range": [
+          2014,
+          2024
+        ],
+        "municipalities": 12,
+        "data_type": "Population Growth",
+        "last_updated": "2025-10-14T12:39:39.049315"
+      },
+      {
+        "file_name": "household_formation_trends.xlsx",
+        "total_records": 132,
+        "year_range": [
+          2014,
+          2024
+        ],
+        "municipalities": 12,
+        "data_type": "Population Growth",
+        "last_updated": "2025-10-14T12:39:39.067825"
+      }
+    ],
+    "housing_market": [
+      {
+        "file_name": "home_price appreciation_trends.xlsx",
+        "total_records": 132,
+        "year_range": [
+          2014,
+          2024
+        ],
+        "municipalities": 12,
+        "data_type": "Housing Market",
+        "last_updated": "2025-10-14T12:39:39.086948"
+      },
+      {
+        "file_name": "property_tax_assessment_analysis.xlsx",
+        "total_records": 132,
+        "year_range": [
+          2014,
+          2024
+        ],
+        "municipalities": 12,
+        "data_type": "Housing Market",
+        "last_updated": "2025-10-14T12:39:39.109256"
+      },
+      {
+        "file_name": "rental_market_rates.xlsx",
+        "total_records": 132,
+        "year_range": [
+          2014,
+          2024
+        ],
+        "municipalities": 12,
+        "data_type": "Housing Market",
+        "last_updated": "2025-10-14T12:39:39.128446"
+      },
+      {
+        "file_name": "housing_affordability_index.xlsx",
+        "total_records": 132,
+        "year_range": [
+          2014,
+          2024
+        ],
+        "municipalities": 12,
+        "data_type": "Housing Market",
+        "last_updated": "2025-10-14T12:39:39.146514"
+      }
+    ],
+    "employment_statistics": [
+      {
+        "file_name": "employment_sector_distribution.xlsx",
+        "total_records": 132,
+        "year_range": [
+          2014,
+          2024
+        ],
+        "municipalities": 12,
+        "data_type": "Employment Statistics",
+        "last_updated": "2025-10-14T12:39:39.170625"
+      },
+      {
+        "file_name": "wage_growth_trends.xlsx",
+        "total_records": 132,
+        "year_range": [
+          2014,
+          2024
+        ],
+        "municipalities": 12,
+        "data_type": "Employment Statistics",
+        "last_updated": "2025-10-14T12:39:39.188280"
+      },
+      {
+        "file_name": "labor_force_participation.xlsx",
+        "total_records": 132,
+        "year_range": [
+          2014,
+          2024
+        ],
+        "municipalities": 12,
+        "data_type": "Employment Statistics",
+        "last_updated": "2025-10-14T12:39:39.206199"
+      }
+    ]
+  },
+  "validation_summary": [
+    {
+      "file_name": "gdp_county_economic_trends.xlsx",
+      "validation_status": "VALIDATED",
+      "validation_score": 100,
+      "issues": [],
+      "total_records": 132,
+      "unique_years": 11,
+      "unique_municipalities": 12,
+      "missing_data_pct": 0.0
+    },
+    {
+      "file_name": "inflation_consumer_price_index.xlsx",
+      "validation_status": "VALIDATED",
+      "validation_score": 100,
+      "issues": [],
+      "total_records": 132,
+      "unique_years": 11,
+      "unique_municipalities": 12,
+      "missing_data_pct": 0.0
+    },
+    {
+      "file_name": "business_formation_statistics.xlsx",
+      "validation_status": "VALIDATED",
+      "validation_score": 100,
+      "issues": [],
+      "total_records": 132,
+      "unique_years": 11,
+      "unique_municipalities": 12,
+      "missing_data_pct": 0.0
+    },
+    {
+      "file_name": "retail_sales_performance.xlsx",
+      "validation_status": "VALIDATED",
+      "validation_score": 100,
+      "issues": [],
+      "total_records": 132,
+      "unique_years": 11,
+      "unique_municipalities": 12,
+      "missing_data_pct": 0.0
+    },
+    {
+      "file_name": "census_population_estimates.xlsx",
+      "validation_status": "VALIDATED",
+      "validation_score": 100,
+      "issues": [],
+      "total_records": 132,
+      "unique_years": 11,
+      "unique_municipalities": 12,
+      "missing_data_pct": 0.0
+    },
+    {
+      "file_name": "migration_patterns_analysis.xlsx",
+      "validation_status": "VALIDATED",
+      "validation_score": 100,
+      "issues": [],
+      "total_records": 132,
+      "unique_years": 11,
+      "unique_municipalities": 12,
+      "missing_data_pct": 0.0
+    },
+    {
+      "file_name": "demographic_age_distribution.xlsx",
+      "validation_status": "VALIDATED",
+      "validation_score": 100,
+      "issues": [],
+      "total_records": 132,
+      "unique_years": 11,
+      "unique_municipalities": 12,
+      "missing_data_pct": 0.0
+    },
+    {
+      "file_name": "household_formation_trends.xlsx",
+      "validation_status": "VALIDATED",
+      "validation_score": 100,
+      "issues": [],
+      "total_records": 132,
+      "unique_years": 11,
+      "unique_municipalities": 12,
+      "missing_data_pct": 0.0
+    },
+    {
+      "file_name": "home_price appreciation_trends.xlsx",
+      "validation_status": "VALIDATED",
+      "validation_score": 100,
+      "issues": [],
+      "total_records": 132,
+      "unique_years": 11,
+      "unique_municipalities": 12,
+      "missing_data_pct": 0.0
+    },
+    {
+      "file_name": "property_tax_assessment_analysis.xlsx",
+      "validation_status": "VALIDATED",
+      "validation_score": 100,
+      "issues": [],
+      "total_records": 132,
+      "unique_years": 11,
+      "unique_municipalities": 12,
+      "missing_data_pct": 0.0
+    },
+    {
+      "file_name": "rental_market_rates.xlsx",
+      "validation_status": "VALIDATED",
+      "validation_score": 100,
+      "issues": [],
+      "total_records": 132,
+      "unique_years": 11,
+      "unique_municipalities": 12,
+      "missing_data_pct": 0.0
+    },
+    {
+      "file_name": "housing_affordability_index.xlsx",
+      "validation_status": "VALIDATED",
+      "validation_score": 100,
+      "issues": [],
+      "total_records": 132,
+      "unique_years": 11,
+      "unique_municipalities": 12,
+      "missing_data_pct": 0.0
+    },
+    {
+      "file_name": "employment_sector_distribution.xlsx",
+      "validation_status": "VALIDATED",
+      "validation_score": 100,
+      "issues": [],
+      "total_records": 132,
+      "unique_years": 11,
+      "unique_municipalities": 12,
+      "missing_data_pct": 0.0
+    },
+    {
+      "file_name": "wage_growth_trends.xlsx",
+      "validation_status": "VALIDATED",
+      "validation_score": 100,
+      "issues": [],
+      "total_records": 132,
+      "unique_years": 11,
+      "unique_municipalities": 12,
+      "missing_data_pct": 0.0
+    },
+    {
+      "file_name": "labor_force_participation.xlsx",
+      "validation_status": "VALIDATED",
+      "validation_score": 100,
+      "issues": [],
+      "total_records": 132,
+      "unique_years": 11,
+      "unique_municipalities": 12,
+      "missing_data_pct": 0.0
+    }
+  ],
+  "analytics": {
+    "total_records_created": 1980,
+    "year_span": "2014-2024 (10-year analysis)",
+    "municipalities_covered": 12,
+    "data_types": 4,
+    "time_series_points": 132
+  }
+}

@@ -1,0 +1,11 @@
+# Charts & Visualizations Directory
+
+This directory will contain exported charts and visualizations:
+
+- PNG/SVG exports from analysis notebooks
+- Dashboard screenshots
+- Map visualizations  
+- Trend charts
+- Comparison graphics
+
+Charts will be generated during data analysis phases.

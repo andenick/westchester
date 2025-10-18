@@ -1,0 +1,62 @@
+{
+  "2022": {
+    "file": "westchester_county_2022_operating_budget.pdf",
+    "pages_found": [
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      246,
+      247,
+      248,
+      249,
+      250
+    ],
+    "total_pages": 24,
+    "total_tables": 8,
+    "total_budget_items": 0
+  },
+  "2023": {
+    "file": "westchester_county_2023_operating_budget.pdf",
+    "pages_found": [
+      215,
+      216,
+      217,
+      218,
+      219,
+      220
+    ],
+    "total_pages": 6,
+    "total_tables": 0,
+    "total_budget_items": 0
+  },
+  "2025": {
+    "file": "westchester_county_2025_operating_budget.pdf",
+    "pages_found": [
+      214,
+      215,
+      216,
+      217,
+      218,
+      219
+    ],
+    "total_pages": 6,
+    "total_tables": 0,
+    "total_budget_items": 0
+  }
+}

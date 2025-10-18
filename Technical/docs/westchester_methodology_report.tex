@@ -1,0 +1,230 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+
+% Header and footer setup
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{\textbf{Westchester County Data Platform} - Methodology Report}
+\rhead{Page \thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+
+% Title formatting
+\titleformat{\section}{\Large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}{}
+
+% Document metadata
+\title{\textbf{Westchester County Data Platform}\\Methodology Report}
+\author{Arcanum Research Initiative}
+\date{October 2025}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+\newpage
+
+\section{Executive Summary}
+
+\textbf{Project Purpose:} The Westchester County Data Platform provides comprehensive analysis of demographic, economic, transit, and municipal data for Westchester County, New York through integrated open data sources, interactive mapping, and professional-grade dashboards.
+
+\textbf{Methodology Overview:} Multi-source data collection from U.S. Census Bureau, Metro-North Railroad GTFS feeds, and NY State Open Data portal, processed into Druck-compliant Excel files and interactive web visualizations.
+
+\textbf{Key Findings:} Successfully integrated 56 Metro-North stations, 241 census tracts, and county-level demographics for comprehensive geographic and statistical analysis.
+
+\textbf{Deliverables:} 4 Excel datasets, interactive React/TypeScript web platform, FastAPI backend, and comprehensive documentation.
+
+\section{Research Objectives}
+
+\subsection{Primary Research Questions}
+\begin{itemize}
+    \item What are the current demographic characteristics of Westchester County?
+    \item How accessible is public transit (Metro-North) across the county?
+    \item What geographic and economic patterns exist across municipalities?
+    \item How can open data sources be integrated for evidence-based policy analysis?
+\end{itemize}
+
+\subsection{Success Criteria}
+\begin{itemize}
+    \item Complete data collection from all primary sources (Census, GTFS, NY State)
+    \item Generation of Druck-compliant Excel files (ONE sheet per file)
+    \item Operational web platform with interactive dashboards
+    \item Professional documentation suitable for government stakeholders
+\end{itemize}
+
+\section{Methodology}
+
+\subsection{Data Sources}
+
+\begin{itemize}
+    \item \textbf{U.S. Census Bureau API:} American Community Survey (ACS) 5-Year Estimates (2022)
+    \begin{itemize}
+        \item County-level demographics (population, income, housing, employment)
+        \item Census tract-level data (241 tracts)
+        \item Municipality-level aggregations (1,285 places in NY State, filtered to Westchester)
+        \item API endpoint: \texttt{https://api.census.gov/data/2022/acs/acs5}
+        \item No API key required (recommended for higher rate limits)
+    \end{itemize}
+    
+    \item \textbf{Metro-North Railroad GTFS:} General Transit Feed Specification
+    \begin{itemize}
+        \item Station locations, routes, and accessibility data
+        \item Downloaded from: \texttt{http://web.mta.info/developers/data/mnr/google\_transit.zip}
+        \item Geographic filtering: Lat 40.9-41.4, Lon -74.0 to -73.5
+        \item Result: 56 stations in Westchester County
+    \end{itemize}
+    
+    \item \textbf{NY State Open Data (Socrata):} data.ny.gov platform
+    \begin{itemize}
+        \item Crime statistics (1,611 records for Westchester)
+        \item Health facilities (330 facilities)
+        \item Property assessment data (pending integration)
+        \item App token recommended for API access
+    \end{itemize}
+\end{itemize}
+
+\subsection{Analytical Framework}
+
+\textbf{Core Approach:} Geographic Information Systems (GIS) analysis combined with statistical demographic analysis.
+
+\textbf{Transit Accessibility Model:}
+\begin{equation}
+    \text{Coverage Area} = \pi r^2 \times N_{stations}
+\end{equation}
+where $r = 1$ mile (walkable radius) and $N_{stations} = 56$
+
+\textbf{Implementation Steps:}
+\begin{enumerate}
+    \item Data Collection: Automated API requests to Census, GTFS download, Socrata queries
+    \item Geographic Filtering: Bounding box filter for Westchester County coordinates
+    \item Data Transformation: JSON/CSV conversion, column standardization
+    \item Excel Generation: Druck-compliant formatting (one sheet per file)
+    \item Visualization: React/TypeScript dashboards with Recharts and Leaflet mapping
+\end{enumerate}
+
+\subsection{Quality Assurance}
+
+\textbf{Validation Procedures:}
+\begin{itemize}
+    \item Automated Excel validation (ONE sheet per file requirement)
+    \item Geographic coordinate verification (within Westchester bounds)
+    \item Data completeness checks (non-null critical fields)
+    \item Cross-reference with official county statistics
+\end{itemize}
+
+\textbf{Accuracy Metrics:} 100\% compliance with Druck standards, 0 critical violations in Excel validation.
+
+\section{Implementation Details}
+
+\subsection{Software and Tools}
+\begin{itemize}
+    \item \textbf{Primary Analysis:} Python 3.11+ with pandas, geopandas, requests
+    \item \textbf{Data Processing:} Custom processors for demographics and transit
+    \item \textbf{Excel Generation:} openpyxl with Druck formatting standards
+    \item \textbf{Backend API:} FastAPI with 8 operational endpoints
+    \item \textbf{Frontend:} React 18, TypeScript, Vite, Tailwind CSS
+    \item \textbf{Mapping:} Leaflet for interactive geographic visualization
+    \item \textbf{Charts:} Recharts for statistical visualizations
+\end{itemize}
+
+\subsection{Technical Architecture}
+\begin{itemize}
+    \item \textbf{Data Layer:} Raw data in \texttt{Technical/data/raw/}, processed in \texttt{Technical/data/processed/}
+    \item \textbf{API Layer:} FastAPI REST endpoints serving JSON data
+    \item \textbf{Frontend Layer:} React SPA with client-side routing
+    \item \textbf{Output Layer:} Excel files in \texttt{Output/Data/Results/}, PDFs in \texttt{Output/PDFs/}
+\end{itemize}
+
+\section{Data Processing Pipeline}
+
+\subsection{Step 1: Data Acquisition}
+\begin{verbatim}
+python Technical/scripts/download_all_data.py
+\end{verbatim}
+Downloads all data sources, handles API authentication, geographic filtering
+
+\subsection{Step 2: Excel Generation}
+\begin{verbatim}
+python Technical/src/processors/generate_all_excel.py
+\end{verbatim}
+Processes raw data into Druck-compliant Excel files with proper formatting
+
+\subsection{Step 3: Validation}
+\begin{verbatim}
+python Technical/scripts/validate_excel.py
+\end{verbatim}
+Verifies ONE sheet per file, validates column names, checks file integrity
+
+\section{Limitations and Future Work}
+
+\subsection{Current Limitations}
+\begin{itemize}
+    \item Municipality filtering requires refinement (captured 1,285 NY places, needs Westchester-specific list)
+    \item Property tax data partially integrated (parcel-level analysis pending)
+    \item Historical trend analysis limited to single-year snapshot (2022)
+    \item Transit ridership data not included in current GTFS import
+\end{itemize}
+
+\subsection{Future Enhancements}
+\begin{itemize}
+    \item Multi-year time series analysis
+    \item Advanced transit coverage heat mapping
+    \item Integration with county budget systems
+    \item Real-time data updates via scheduled jobs
+    \item PostgreSQL + PostGIS for spatial queries
+\end{itemize}
+
+\section{References}
+
+\begin{itemize}
+    \item U.S. Census Bureau. (2022). \textit{American Community Survey 5-Year Estimates}. Retrieved from https://www.census.gov/programs-surveys/acs
+    \item Metropolitan Transportation Authority. (2025). \textit{Metro-North Railroad GTFS Data}. Retrieved from http://web.mta.info/developers/
+    \item New York State. (2025). \textit{Open Data Portal}. Retrieved from https://data.ny.gov
+    \item Westchester County GIS. (2025). \textit{Tax Parcel Data}. Retrieved from Westchester County Open Data
+\end{itemize}
+
+\section{Appendices}
+
+\subsection{Appendix A: API Endpoints}
+\begin{itemize}
+    \item \texttt{GET /api/municipalities} - List of county municipalities
+    \item \texttt{GET /api/transit/stations} - Metro-North station data
+    \item \texttt{GET /api/demographics/county} - County-level demographics
+    \item \texttt{GET /api/demographics/tracts} - Census tract data
+    \item \texttt{GET /api/demographics/municipalities} - Municipality demographics
+    \item \texttt{GET /api/stats} - Platform statistics and data availability
+\end{itemize}
+
+\subsection{Appendix B: Excel File Inventory}
+\begin{enumerate}
+    \item \texttt{[2025.10.13] westchester\_county\_demographics.xlsx}
+    \item \texttt{[2025.10.13] westchester\_census\_tracts.xlsx}
+    \item \texttt{[2025.10.13] westchester\_metro\_north\_stations.xlsx}
+    \item \texttt{[2025.10.13] westchester\_transit\_accessibility.xlsx}
+\end{enumerate}
+
+\subsection{Appendix C: Census Variables}
+\begin{table}[h]
+\centering
+\begin{tabular}{ll}
+\toprule
+\textbf{Variable Code} & \textbf{Description} \\
+\midrule
+B01003\_001E & Total Population \\
+B01002\_001E & Median Age \\
+B19013\_001E & Median Household Income \\
+B25077\_001E & Median Home Value \\
+B23025\_005E & Unemployed Population \\
+\bottomrule
+\end{tabular}
+\caption{Key Census ACS Variables Used}
+\end{table}
+
+\end{document}
+

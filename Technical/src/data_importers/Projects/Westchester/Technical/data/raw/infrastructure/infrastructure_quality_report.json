@@ -1,0 +1,33 @@
+{
+  "generated": "2025-10-13 15:28:00",
+  "bbox": "40.7, -74.0, 41.5, -73.3",
+  "municipalities_queried": 39,
+  "infrastructure_summary": {
+    "sidewalks": {
+      "feature_count": 209831,
+      "data_completeness": "unknown",
+      "last_updated": "2025-10-13"
+    },
+    "bike_lanes": {
+      "feature_count": 11817,
+      "data_completeness": "unknown",
+      "last_updated": "2025-10-13"
+    },
+    "bus_stops": {
+      "feature_count": 11040,
+      "data_completeness": "unknown",
+      "last_updated": "2025-10-13"
+    },
+    "street_lights": {
+      "feature_count": 7877,
+      "data_completeness": "unknown",
+      "last_updated": "2025-10-13"
+    }
+  },
+  "data_quality_notes": [
+    "GOOD: 209831 sidewalks found.",
+    "GOOD: 11817 bike_lanes found.",
+    "GOOD: 11040 bus_stops found.",
+    "GOOD: 7877 street_lights found."
+  ]
+}

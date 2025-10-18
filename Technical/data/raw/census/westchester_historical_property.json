@@ -1,0 +1,122 @@
+{
+  "2015": {
+    "year": 2015,
+    "source": "NY State Property Data (Sample)",
+    "geography": "Westchester County, NY",
+    "data": {
+      "median_assessment": 425000,
+      "median_tax_bill": 8500,
+      "tax_rate_per_1000": 20.0,
+      "total_assessments": 320000000000,
+      "total_tax_levy": 6400000000
+    }
+  },
+  "2016": {
+    "year": 2016,
+    "source": "NY State Property Data (Sample)",
+    "geography": "Westchester County, NY",
+    "data": {
+      "median_assessment": 435000,
+      "median_tax_bill": 8700,
+      "tax_rate_per_1000": 20.0,
+      "total_assessments": 330000000000,
+      "total_tax_levy": 6600000000
+    }
+  },
+  "2017": {
+    "year": 2017,
+    "source": "NY State Property Data (Sample)",
+    "geography": "Westchester County, NY",
+    "data": {
+      "median_assessment": 445000,
+      "median_tax_bill": 8900,
+      "tax_rate_per_1000": 20.0,
+      "total_assessments": 340000000000,
+      "total_tax_levy": 6800000000
+    }
+  },
+  "2018": {
+    "year": 2018,
+    "source": "NY State Property Data (Sample)",
+    "geography": "Westchester County, NY",
+    "data": {
+      "median_assessment": 455000,
+      "median_tax_bill": 9100,
+      "tax_rate_per_1000": 20.0,
+      "total_assessments": 350000000000,
+      "total_tax_levy": 7000000000
+    }
+  },
+  "2019": {
+    "year": 2019,
+    "source": "NY State Property Data (Sample)",
+    "geography": "Westchester County, NY",
+    "data": {
+      "median_assessment": 465000,
+      "median_tax_bill": 9300,
+      "tax_rate_per_1000": 20.0,
+      "total_assessments": 360000000000,
+      "total_tax_levy": 7200000000
+    }
+  },
+  "2020": {
+    "year": 2020,
+    "source": "NY State Property Data (Sample)",
+    "geography": "Westchester County, NY",
+    "data": {
+      "median_assessment": 475000,
+      "median_tax_bill": 9500,
+      "tax_rate_per_1000": 20.0,
+      "total_assessments": 370000000000,
+      "total_tax_levy": 7400000000
+    }
+  },
+  "2021": {
+    "year": 2021,
+    "source": "NY State Property Data (Sample)",
+    "geography": "Westchester County, NY",
+    "data": {
+      "median_assessment": 485000,
+      "median_tax_bill": 9700,
+      "tax_rate_per_1000": 20.0,
+      "total_assessments": 380000000000,
+      "total_tax_levy": 7600000000
+    }
+  },
+  "2022": {
+    "year": 2022,
+    "source": "NY State Property Data (Sample)",
+    "geography": "Westchester County, NY",
+    "data": {
+      "median_assessment": 495000,
+      "median_tax_bill": 9900,
+      "tax_rate_per_1000": 20.0,
+      "total_assessments": 390000000000,
+      "total_tax_levy": 7800000000
+    }
+  },
+  "2023": {
+    "year": 2023,
+    "source": "NY State Property Data (Sample)",
+    "geography": "Westchester County, NY",
+    "data": {
+      "median_assessment": 505000,
+      "median_tax_bill": 10100,
+      "tax_rate_per_1000": 20.0,
+      "total_assessments": 400000000000,
+      "total_tax_levy": 8000000000
+    }
+  },
+  "2024": {
+    "year": 2024,
+    "source": "NY State Property Data (Sample)",
+    "geography": "Westchester County, NY",
+    "data": {
+      "median_assessment": 515000,
+      "median_tax_bill": 10300,
+      "tax_rate_per_1000": 20.0,
+      "total_assessments": 410000000000,
+      "total_tax_levy": 8200000000
+    }
+  }
+}

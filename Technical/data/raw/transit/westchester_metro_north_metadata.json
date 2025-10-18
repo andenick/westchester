@@ -1,0 +1,18 @@
+{
+  "source": "Metro-North Railroad GTFS",
+  "source_url": "http://web.mta.info/developers/data/mnr/google_transit.zip",
+  "download_date": "2025-10-13T11:21:05.104948",
+  "county": "Westchester County, NY",
+  "station_count": 56,
+  "bounds": {
+    "min_lat": 40.9,
+    "max_lat": 41.4,
+    "min_lon": -74.0,
+    "max_lon": -73.5
+  },
+  "files": {
+    "json": "westchester_metro_north_stations.json",
+    "geojson": "westchester_metro_north_stations.geojson",
+    "gtfs_zip": "metro_north_gtfs.zip"
+  }
+}

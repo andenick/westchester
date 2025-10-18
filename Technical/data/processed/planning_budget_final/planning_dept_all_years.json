@@ -1,0 +1,21 @@
+{
+  "2022": {
+    "pages": [],
+    "total_pages": 0,
+    "total_tables": 0
+  },
+  "2023": {
+    "pages": [],
+    "total_pages": 0,
+    "total_tables": 0
+  },
+  "2025": {
+    "pages": [
+      233,
+      234,
+      235
+    ],
+    "total_pages": 3,
+    "total_tables": 4
+  }
+}

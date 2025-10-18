@@ -1,0 +1,72 @@
+{
+  "start_time": "2025-10-15T20:41:35.396924",
+  "collection_type": "quick_collection",
+  "description": "Essential data only (15-30 minutes)",
+  "results": {},
+  "phases": [
+    {
+      "phase_name": "Core Demographics & Infrastructure",
+      "description": "Essential Census and infrastructure data",
+      "collectors_run": [
+        "municipal_services",
+        "comprehensive_census"
+      ],
+      "successful_collectors": 0,
+      "failed_collectors": 2,
+      "execution_time": 0.0016140937805175781,
+      "results": {
+        "municipal_services": {
+          "success": false,
+          "error": "Collector municipal_services failed: MunicipalServicesImporter.__init__() got an unexpected keyword argument 'output_dir'",
+          "execution_time": 0.00012564659118652344,
+          "collector_name": "municipal_services"
+        },
+        "comprehensive_census": {
+          "success": false,
+          "error": "No result returned"
+        }
+      }
+    },
+    {
+      "phase_name": "Geographic & Spatial Data",
+      "description": "GIS datasets and geospatial information",
+      "collectors_run": [
+        "westchester_gis"
+      ],
+      "successful_collectors": 1,
+      "failed_collectors": 0,
+      "execution_time": 10.536566257476807,
+      "results": {
+        "westchester_gis": {
+          "total_datasets": 10,
+          "successful_downloads": 0,
+          "failed_downloads": 10,
+          "total_features": 0,
+          "datasets": [],
+          "download_time": "2025-10-15T20:41:36.291285",
+          "execution_time": 10.53520655632019,
+          "collector_name": "westchester_gis",
+          "success": true
+        }
+      }
+    }
+  ],
+  "summary": {
+    "total_collectors": 3,
+    "successful_collectors": 1,
+    "failed_collectors": 2,
+    "total_records": 0,
+    "total_files_created": 0,
+    "total_execution_time": 10.538579225540161
+  },
+  "errors": [
+    "Collector municipal_services failed: MunicipalServicesImporter.__init__() got an unexpected keyword argument 'output_dir'"
+  ],
+  "warnings": [],
+  "environment": {
+    "python_version": "3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]",
+    "working_directory": "D:\\Arcanum\\Projects\\Westchester\\Technical\\src\\data_importers",
+    "data_directory": "data\\raw\\enhanced_collection"
+  },
+  "end_time": "2025-10-15T20:41:45.935516"
+}

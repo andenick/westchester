@@ -1,0 +1,77 @@
+{
+    "primary_sources": {
+        "metro_north_gtfs": {
+            "name": "Metro-North Railroad GTFS",
+            "url": "http://web.mta.info/developers/data/mnr/google_transit.zip",
+            "type": "GTFS",
+            "description": "Transit schedules and station data",
+            "update_frequency": "Weekly",
+            "authentication": false,
+            "status": "ready",
+            "importer": "gtfs_importer.py"
+        },
+        "census_api": {
+            "name": "U.S. Census Bureau API",
+            "url": "https://api.census.gov/data/2022/acs/acs5",
+            "type": "REST API",
+            "description": "American Community Survey demographics",
+            "update_frequency": "Annual",
+            "authentication": true,
+            "api_key_required": true,
+            "status": "ready",
+            "importer": "census_api.py"
+        },
+        "ny_state_open_data": {
+            "name": "NY State Open Data",
+            "url": "https://data.ny.gov/resource",
+            "type": "Socrata API",
+            "description": "Government records and statistics",
+            "update_frequency": "Variable",
+            "authentication": false,
+            "app_token_recommended": true,
+            "status": "ready",
+            "importer": "ny_state_data.py"
+        }
+    },
+    "secondary_sources": {
+        "westchester_gis": {
+            "name": "Westchester County GIS",
+            "url": "https://giswww.westchestergov.com/",
+            "type": "GIS Services",
+            "description": "Geographic boundaries and mapping data",
+            "status": "researched"
+        },
+        "westchester_open_data": {
+            "name": "Westchester County Open Data",
+            "url": "https://data.westchestergov.com/",
+            "type": "Socrata API",
+            "description": "County government data portal",
+            "status": "researched"
+        }
+    },
+    "data_collection_plan": {
+        "phase_1_priority": [
+            "metro_north_gtfs",
+            "census_api"
+        ],
+        "phase_2_expansion": [
+            "ny_state_open_data",
+            "westchester_gis"
+        ],
+        "phase_3_comprehensive": [
+            "westchester_open_data"
+        ]
+    },
+    "geographic_scope": {
+        "state": "New York",
+        "state_fips": "36",
+        "county": "Westchester County",
+        "county_fips": "119",
+        "bounds": {
+            "north": 41.4,
+            "south": 40.9,
+            "east": -73.5,
+            "west": -74.0
+        }
+    }
+}

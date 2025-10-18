@@ -1,0 +1,41 @@
+{
+  "comparison_date": "2025-10-13 14:34:01",
+  "best_source": "census_tiger",
+  "sources_compared": 3,
+  "results": {
+    "census_tiger": {
+      "vertex_count": 46,
+      "area_sq_mi": 430,
+      "bounds": "(-73.933, 40.900) to (-73.383, 41.367)",
+      "quality_score": 9,
+      "issues": [
+        "Longitude out of expected range"
+      ]
+    },
+    "osm": {
+      "vertex_count": 5,
+      "area_sq_mi": 430,
+      "bounds": "(-73.823, 40.883) to (-73.793, 40.891)",
+      "quality_score": 5.5,
+      "issues": [
+        "Low vertex count",
+        "Latitude out of expected range"
+      ]
+    },
+    "ny_state": {
+      "vertex_count": 46,
+      "area_sq_mi": 430,
+      "bounds": "(-73.933, 40.900) to (-73.383, 41.367)",
+      "quality_score": 8,
+      "issues": [
+        "Longitude out of expected range"
+      ]
+    }
+  },
+  "summary": {
+    "total_sources": 3,
+    "best_quality_score": 9,
+    "best_vertex_count": 46,
+    "best_area": 430
+  }
+}

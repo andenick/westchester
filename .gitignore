@@ -1,0 +1,116 @@
+# Westchester County Data Platform - Git Ignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+*.key
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Node / Frontend
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+dist/
+build/
+*.tsbuildinfo
+
+# Data Files (large files - don't commit to git)
+Technical/data/raw/*.csv
+Technical/data/raw/*.zip
+Technical/data/raw/*.json
+Technical/data/raw/**/*.geojson
+Technical/data/raw/**/*.shp
+Technical/data/raw/**/*.dbf
+Technical/data/raw/**/*.shx
+Technical/data/raw/**/*.prj
+Technical/data/processed/*.csv
+Technical/data/processed/*.json
+Technical/data/processed/**/*.geojson
+Technical/data/cache/
+
+# Large HTML map files
+Output/MAPPING_DELIVERABLES/Interactive_Maps/*.html
+Technical/src/frontend/public/MAPPING_DELIVERABLES/Interactive_Maps/*.html
+
+# Large shapefiles from inputs
+Inputs/TaylorFiles/**/*.shp
+
+# Large infrastructure data files
+Technical/src/data_importers/Projects/Westchester/Technical/data/raw/infrastructure/*.geojson
+
+# But keep README files
+!**/README.md
+!**/.gitkeep
+
+# LaTeX intermediate files
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Test coverage
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+

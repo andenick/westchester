@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "generated": "2025-10-15 23:06:39",
+    "purpose": "Municipality selector and comparison tool",
+    "year": 2022
+  },
+  "municipalities": [
+    {
+      "name": "Yonkers",
+      "type": "City",
+      "place_code": "84000",
+      "population": 209780,
+      "median_income": 78208,
+      "median_home_value": 456500,
+      "median_age": null,
+      "white_pct": 42.9,
+      "hispanic_pct": 41.6,
+      "bachelors_pct": 13.6
+    },
+    {
+      "name": "Mount Vernon",
+      "type": "City",
+      "place_code": "49121",
+      "population": 72817,
+      "median_income": 75511,
+      "median_home_value": 446400,
+      "median_age": null,
+      "white_pct": 17.5,
+      "hispanic_pct": 17.2,
+      "bachelors_pct": 14.1
+    },
+    {
+      "name": "Scarsdale",
+      "type": "Village",
+      "place_code": "65508",
+      "population": 68476,
+      "median_income": 54650,
+      "median_home_value": 140000,
+      "median_age": null,
+      "white_pct": 52.0,
+      "hispanic_pct": 12.6,
+      "bachelors_pct": 9.1
+    },
+    {
+      "name": "White Plains",
+      "type": "City",
+      "place_code": "81677",
+      "population": 59421,
+      "median_income": 109551,
+      "median_home_value": 612800,
+      "median_age": null,
+      "white_pct": 52.8,
+      "hispanic_pct": 31.3,
+      "bachelors_pct": 18.2
+    },
+    {
+      "name": "New Rochelle",
+      "type": "City",
+      "place_code": "50034",
+      "population": 28751,
+      "median_income": 48555,
+      "median_home_value": 190800,
+      "median_age": null,
+      "white_pct": 33.1,
+      "hispanic_pct": 48.7,
+      "bachelors_pct": 8.4
+    },
+    {
+      "name": "Elmsford",
+      "type": "Village",
+      "place_code": "24075",
+      "population": 188,
+      "median_income": 62083,
+      "median_home_value": 160000,
+      "median_age": null,
+      "white_pct": 93.6,
+      "hispanic_pct": 0.0,
+      "bachelors_pct": 9.0
+    }
+  ]
+}

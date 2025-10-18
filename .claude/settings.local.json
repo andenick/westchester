@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(pip:*)",
+      "Bash(npm:*)",
+      "Bash(node:*)",
+      "Bash(ls:*)",
+      "Bash(dir:*)",
+      "Bash(mkdir:*)",
+      "Bash(cd:*)",
+      "Bash(Get-Content:*)",
+      "Bash(Get-ChildItem:*)",
+      "Read(//d/Arcanum/**)",
+      "Write(//d/Arcanum/Projects/Westchester/**)",
+      "WebSearch",
+      "WebFetch(domain:api.census.gov)",
+      "WebFetch(domain:data.ny.gov)",
+      "WebFetch(domain:transit.land)"
+    ],
+    "deny": [],
+    "ask": [
+      "Bash(Remove-Item:*)",
+      "Bash(rm:*)",
+      "Bash(del:*)"
+    ]
+  }
+}

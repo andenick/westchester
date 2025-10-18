@@ -1,0 +1,78 @@
+# Render Configuration for Westchester County Data Platform
+# Backend API deployment configuration
+
+services:
+  # FastAPI Backend Service
+  - type: web
+    name: westchester-api
+    env: python
+    region: oregon  # Choose region closest to your users (oregon, ohio, frankfurt, singapore)
+    plan: free  # Options: free, starter, standard, pro
+    buildCommand: pip install -r Technical/requirements.txt
+    startCommand: cd Technical/src/api && uvicorn main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health
+
+    envVars:
+      # Python version
+      - key: PYTHON_VERSION
+        value: 3.11.5
+
+      # Environment mode
+      - key: ENVIRONMENT
+        value: production
+
+      # FastAPI settings
+      - key: DEBUG
+        value: false
+
+      # CORS origins (update with your Netlify domain)
+      - key: CORS_ORIGINS
+        value: https://your-frontend-domain.netlify.app,https://www.your-custom-domain.com
+
+      # API configuration
+      - key: API_TITLE
+        value: Westchester County Data Platform API
+
+      - key: API_VERSION
+        value: 1.0.0
+
+    # Disk storage for large GeoJSON files (538+ MB)
+    # Free tier: 512 MB, Paid tiers: up to 10 GB
+    disk:
+      name: westchester-data
+      mountPath: /opt/render/project/src/Technical/data
+      sizeGB: 1  # Adjust based on your data size needs
+
+    # Auto-deploy from Git (if using GitHub/GitLab integration)
+    # autoDeploy: true
+    # branch: main
+
+    # Scaling configuration (paid plans only)
+    # numInstances: 1
+    # maxShutdownDelaySeconds: 30
+
+# Optional: Background worker for data processing tasks
+# - type: worker
+#   name: westchester-worker
+#   env: python
+#   buildCommand: pip install -r Technical/requirements.txt
+#   startCommand: python Technical/src/workers/data_processor.py
+#   envVars:
+#     - key: WORKER_TYPE
+#       value: data_processor
+
+# Optional: Cron job for scheduled data updates
+# - type: cron
+#   name: westchester-data-updater
+#   env: python
+#   schedule: "0 2 * * *"  # Run daily at 2 AM
+#   buildCommand: pip install -r Technical/requirements.txt
+#   startCommand: python Technical/src/scripts/update_data.py
+
+# Database configuration (if needed in the future)
+# databases:
+#   - name: westchester-db
+#     plan: free  # Options: free, starter, standard, pro
+#     databaseName: westchester
+#     user: westchester_user
+#     ipAllowList: []  # Empty array allows all IPs

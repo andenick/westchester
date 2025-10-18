@@ -1,0 +1,75 @@
+{
+  "total_roads": 4386,
+  "total_road_area_acres": 15514.07,
+  "coverage_counts": {
+    "no_coverage": 3245,
+    "one_side": 620,
+    "both_sides": 521
+  },
+  "coverage_percentages": {
+    "no_coverage_pct": 74.0,
+    "one_side_pct": 14.1,
+    "both_sides_pct": 11.9,
+    "any_coverage_pct": 26.0
+  },
+  "coverage_areas": {
+    "no_coverage_acres": 4239.46,
+    "one_side_acres": 10753.85,
+    "both_sides_acres": 520.77
+  },
+  "area_percentages": {
+    "no_coverage_pct": 27.3,
+    "one_side_pct": 69.3,
+    "both_sides_pct": 3.4
+  },
+  "by_road_type": [
+    {
+      "road_type": "UNPAVED_ROAD",
+      "total_count": 1330,
+      "no_coverage_count": 1277,
+      "one_side_count": 50,
+      "both_sides_count": 3,
+      "coverage_pct": 3.984962406015038
+    },
+    {
+      "road_type": "ELEVATED_ROAD",
+      "total_count": 1262,
+      "no_coverage_count": 878,
+      "one_side_count": 189,
+      "both_sides_count": 195,
+      "coverage_pct": 30.427892234548338
+    },
+    {
+      "road_type": "PAVED_ROAD",
+      "total_count": 937,
+      "no_coverage_count": 671,
+      "one_side_count": 208,
+      "both_sides_count": 58,
+      "coverage_pct": 28.388473852721454
+    },
+    {
+      "road_type": "HIDDEN_ROAD",
+      "total_count": 816,
+      "no_coverage_count": 396,
+      "one_side_count": 158,
+      "both_sides_count": 262,
+      "coverage_pct": 51.470588235294116
+    },
+    {
+      "road_type": "MAJOR_PAVED_ALLEY",
+      "total_count": 28,
+      "no_coverage_count": 12,
+      "one_side_count": 15,
+      "both_sides_count": 1,
+      "coverage_pct": 57.14285714285714
+    },
+    {
+      "road_type": "ELEVATED_HIDDEN_ROAD",
+      "total_count": 13,
+      "no_coverage_count": 11,
+      "one_side_count": 0,
+      "both_sides_count": 2,
+      "coverage_pct": 15.384615384615385
+    }
+  ]
+}

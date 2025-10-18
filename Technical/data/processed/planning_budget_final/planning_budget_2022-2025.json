@@ -1,0 +1,185 @@
+{
+  "department": {
+    "name": "Department of Planning",
+    "number": 19,
+    "mission": "To shape and influence growth and development in Westchester County in order to improve quality of life and protect the environment, resulting in more livable, sustainable and resilient communities."
+  },
+  "budget_years": {
+    "2022": {
+      "fiscal_year": 2022,
+      "staffing": {
+        "operating_positions": 30,
+        "grant_positions": 12,
+        "total_positions": 42
+      },
+      "expenditures": {
+        "personal_services": 2957192,
+        "equipment": 80000,
+        "material_supplies": 91150,
+        "expenses": 16957045,
+        "interdepartmental_charges": 1439114,
+        "total_expenditures": 21524501
+      },
+      "revenues": {
+        "departmental": 318002,
+        "state_federal_aid": 12043087,
+        "total_revenues": 12361089
+      },
+      "budget_impact": {
+        "department_tax_levy": 9163412,
+        "retirement_systems": 704005,
+        "health_insurance_benefits": 961948,
+        "department_total": 10829365
+      },
+      "source_pages": [226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240],
+      "source_file": "westchester_county_2022_operating_budget.pdf"
+    },
+    "2023": {
+      "fiscal_year": 2023,
+      "staffing": {
+        "operating_positions": 29,
+        "grant_positions": 13,
+        "total_positions": 42
+      },
+      "expenditures": {
+        "personal_services": 3193457,
+        "equipment": 0,
+        "material_supplies": 94500,
+        "expenses": 11678745,
+        "interdepartmental_charges": 1085992,
+        "total_expenditures": 16052694
+      },
+      "revenues": {
+        "departmental": 355740,
+        "state_federal_aid": 9339000,
+        "total_revenues": 9694740
+      },
+      "budget_impact": {
+        "department_tax_levy": 6357954,
+        "retirement_systems": 681548,
+        "health_insurance_benefits": 1023805,
+        "department_total": 8063307
+      },
+      "source_pages": [229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243],
+      "source_file": "westchester_county_2023_operating_budget.pdf"
+    },
+    "2025": {
+      "fiscal_year": 2025,
+      "staffing": {
+        "operating_positions": 29,
+        "grant_positions": 13,
+        "total_positions": 42
+      },
+      "expenditures": {
+        "personal_services": 3209454,
+        "equipment": 0,
+        "material_supplies": 27000,
+        "expenses": 1790332,
+        "interdepartmental_charges": 958576,
+        "total_expenditures": 5985362
+      },
+      "revenues": {
+        "departmental": 307138,
+        "state_federal_aid": 325000,
+        "total_revenues": 632138
+      },
+      "budget_impact": {
+        "department_tax_levy": 5353224,
+        "retirement_systems": 704532,
+        "health_insurance_benefits": 1062358,
+        "department_total": 7120114
+      },
+      "source_pages": [233, 234, 235],
+      "source_file": "westchester_county_2025_operating_budget.pdf"
+    }
+  },
+  "trends": {
+    "expenditures_change_2022_to_2025": {
+      "total_expenditures": {
+        "amount": -15539139,
+        "percent": -72.2
+      },
+      "personal_services": {
+        "amount": 252262,
+        "percent": 8.5
+      },
+      "expenses": {
+        "amount": -15166713,
+        "percent": -89.5
+      }
+    },
+    "revenues_change_2022_to_2025": {
+      "total_revenues": {
+        "amount": -11728951,
+        "percent": -94.9
+      },
+      "state_federal_aid": {
+        "amount": -11718087,
+        "percent": -97.3
+      }
+    },
+    "tax_levy_change_2022_to_2025": {
+      "amount": -3810188,
+      "percent": -41.7
+    }
+  },
+  "key_programs": {
+    "cdbg": {
+      "name": "Community Development Block Grant",
+      "funding_2023": 4164264,
+      "source": "US Dept. of Housing & Urban Development",
+      "participants": "County + 30 municipalities",
+      "positions": 8
+    },
+    "home": {
+      "name": "HOME Program",
+      "funding_2023": 1201419,
+      "source": "US Dept. of Housing & Urban Development",
+      "purpose": "Affordable housing construction/rehabilitation"
+    },
+    "lead_paint": {
+      "name": "Lead-Based Paint Hazard Reduction Grant",
+      "funding_2023": 4100000,
+      "source": "US Dept. of Housing & Urban Development",
+      "target_units": 240,
+      "term": "10/01/22 - 05/30/26"
+    },
+    "transportation": {
+      "name": "Subregional Transportation Planning Grant",
+      "funding_2023": 1969198,
+      "source": "FTA and FHWA",
+      "positions": 5
+    }
+  },
+  "service_indicators_2023": {
+    "municipal_referrals": 450,
+    "seqr_reviews": 450,
+    "nepa_reviews": 600,
+    "capital_project_reviews": 100,
+    "cdbg_projects": 19,
+    "new_housing_units": 910,
+    "housing_rehabilitation": 150,
+    "lead_safe_homes": 20,
+    "housing_monitoring_units": 3508,
+    "bus_passengers": 20285000,
+    "bus_routes_total": 59
+  },
+  "metadata": {
+    "extraction_date": "2025-10-15",
+    "extractor": "Robert PDF extraction script",
+    "output_location": "D:\\Arcanum\\Projects\\Westchester\\Technical\\data\\processed\\planning_budget_final",
+    "files_generated": {
+      "transcripts": [
+        "2022/planning_dept_2022_transcript.txt",
+        "2023/planning_dept_2023_transcript.txt",
+        "2025/planning_dept_2025_transcript.txt"
+      ],
+      "json_data": [
+        "2022/planning_dept_2022_complete.json",
+        "2023/planning_dept_2023_complete.json",
+        "2025/planning_dept_2025_complete.json"
+      ],
+      "summary": "PLANNING_DEPARTMENT_BUDGET_SUMMARY_2022-2025.md"
+    }
+  }
+}

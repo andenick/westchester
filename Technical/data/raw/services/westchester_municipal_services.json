@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "source": "OpenStreetMap",
+    "generated": "Real data from OSM",
+    "note": "Counts based on OSM tagging. May be incomplete if not all facilities are mapped."
+  },
+  "services": {
+    "police_departments": {
+      "count": 0,
+      "coverage": "Partial",
+      "facilities": []
+    },
+    "fire_stations": {
+      "count": 0,
+      "coverage": "Partial",
+      "facilities": []
+    },
+    "libraries": {
+      "count": 33,
+      "coverage": "Partial",
+      "facilities": [
+        {
+          "name": "New City Library",
+          "coordinates": [
+            -73.9879764,
+            41.1582663
+          ]
+        },
+        {
+          "name": "Francis M Harrison Memorial Library",
+          "coordinates": [
+            -73.5629018,
+            41.0595413
+          ]
+        },
+        {
+          "name": "Greenwich Hospital Library",
+          "coordinates": [
+            -73.6301266,
+            41.0339861
+          ]
+        },
+        {
+          "name": "Greenwich Library",
+          "coordinates": [
+            -73.6247596,
+            41.0294893
+          ]
+        },
+        {
+          "name": "Stamford Catholic Library",
+          "coordinates": [
+            -73.5217891,
+            41.0639858
+          ]
+        },
+        {
+          "name": "South End Community Center Branch Stamford Public Library",
+          "coordinates": [
+            -73.5389175,
+            41.0444079
+          ]
+        },
+        {
+          "name": "Weed Memorial Branch Library Stamford Public Library",
+          "coordinates": [
+            -73.5198151,
+            41.0974632
+          ]
+        },
+        {
+          "name": "Stamford Historical Society Library",
+          "coordinates": [
+            -73.5458565,
+            41.1231024
+          ]
+        },
+        {
+          "name": "Stamford Hospital Health Sciences Library",
+          "coordinates": [
+            -73.5522951,
+            41.053841
+          ]
+        },
+        {
+          "name": "Bartlett Arboretum Library",
+          "coordinates": [
+            -73.5519666,
+            41.1335964
+          ]
+        }
+      ]
+    },
+    "parks": {
+      "count": 1110,
+      "coverage": "100%",
+      "note": "From dedicated parks dataset"
+    },
+    "hospitals_health": {
+      "count": 0,
+      "facilities": []
+    },
+    "schools": {
+      "count": 0,
+      "facilities": []
+    }
+  },
+  "other_amenities": {
+    "community_centre": 10,
+    "parking": 103
+  }
+}

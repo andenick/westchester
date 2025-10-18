@@ -1,0 +1,12 @@
+# Westchester County Real Estate Summary
+
+The real estate market in Westchester County, NY, is characterized by high demand and low inventory, making it a seller's market.
+
+Here's a summary of the current trends:
+
+*   **Median Sale Price:** In August 2025, the median sale price of a home in Westchester County was around $875,000, showing a 2.3% increase compared to the previous year. Other sources indicate a median listing home price of $710,000 in August 2025, trending up 1.6% year-over-year, with a median sold home price of $855,000. The average home value was reported as $829,861, up 4.1% over the past year. For single-family homes, the median sales price surged to $1,075,000 in Q2 2025, an 11.0% increase from the prior year, climbing to $1,150,000 by July.
+*   **Days on Market:** Homes in Westchester County are selling relatively quickly. In August 2025, homes sold on average after 26 days on the market, compared to 23 days last year. Another report states a median of 54 days on the market in August 2025. For single-family homes, the median time to go into contract in July was just 21 days.
+*   **Market Dynamics:** The market is highly competitive, with properties often selling for over their asking price due to bidding wars. The sale-to-list price ratio was approximately 100.89% in August 2025, meaning homes sold for around their asking price on average. Some areas have seen homes sell for 10% to 15% over the asking price.
+*   **Inventory:** Inventory remains very tight, which is a significant factor driving price appreciation and quick sales. The months' supply of inventory for single-family homes in Q2 2025 was just 2.4 months, indicating a strong seller's market (less than five months is generally considered a seller's market).
+*   **Rental Market:** The average rent in Westchester County was around $3,038 in September 2025, showing a 4.9% year-over-year change.
+*   **Price Variation by Town:** Home prices vary significantly across different towns within Westchester County. For example, North Castle has a median listing home price of $2.7 million, while Bronxville is more affordable with a median listing home price of $390,000. In June 2024, Yonkers had an estimated median price of $490,000, while Rye was around $1.1 million and Scarsdale close to $2.3 million.

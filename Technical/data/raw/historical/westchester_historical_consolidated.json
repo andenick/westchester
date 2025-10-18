@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "county": "Westchester",
+    "state": "New York",
+    "fips": "36119",
+    "years_covered": "1990-2024",
+    "data_sources": "US Census Bureau (Decennial + ACS)",
+    "consolidation_date": "2025-10-13 14:36:30"
+  },
+  "demographics": {
+    "total_population": [
+      {
+        "year": 1990,
+        "value": 874866,
+        "source": "Sample Data (API Failed)"
+      },
+      {
+        "year": 2000,
+        "value": 923459,
+        "source": "US Census Bureau"
+      },
+      {
+        "year": 2005,
+        "value": 925000,
+        "source": "Sample Data (API Failed)"
+      },
+      {
+        "year": 2005,
+        "value": 915916,
+        "source": "US Census Bureau ACS"
+      },
+      {
+        "year": 2006,
+        "value": 930000,
+        "source": "Sample Data (API Failed)"
+      },
+      {
+        "year": 2006,
+        "value": 949355,
+        "source": "US Census Bureau ACS"
+      },
+      {
+        "year": 2007,
+        "value": 935000,
+        "source": "Sample Data (API Failed)"
+      },
+      {
+        "year": 2007,
+        "value": 951325,
+        "source": "US Census Bureau ACS"
+      },
+      {
+        "year": 2008,
+        "value": 940000,
+        "source": "Sample Data (API Failed)"
+      },
+      {
+        "year": 2008,
+        "value": 953943,
+        "source": "US Census Bureau ACS"
+      },
+      {
+        "year": 2009,
+        "value": 945000,
+        "source": "Sample Data (API Failed)"
+      },
+      {
+        "year": 2009,
+        "value": 955962,
+        "source": "US Census Bureau ACS"
+      },
+      {
+        "year": 2010,
+        "value": 949113,
+        "source": "US Census Bureau"
+      },
+      {
+        "year": 2010,
+        "value": 950000,
+        "source": "Sample Data (API Failed)"
+      },
+      {
+        "year": 2010,
+        "value": 950541,
+        "source": "US Census Bureau ACS"
+      },
+      {
+        "year": 2011,
+        "value": 955000,
+        "source": "Sample Data (API Failed)"
+      },
+      {
+        "year": 2011,
+        "value": 955899,
+        "source": "US Census Bureau ACS"
+      },
+      {
+        "year": 2012,
+        "value": 960000,
+        "source": "Sample Data (API Failed)"
+      },
+      {
+        "year": 2012,
+        "value": 961670,
+        "source": "US Census Bureau ACS"
+      },
+      {
+        "year": 2013,
+        "value": 965000,
+        "source": "Sample Data (API Failed)"
+      },
+      {
+        "year": 2013,
+        "value": 968802,
+        "source": "US Census Bureau ACS"
+      },
+      {
+        "year": 2014,
+        "value": 970000,
+        "source": "Sample Data (API Failed)"
+      },
+      {
+        "year": 2014,
+        "value": 972634,
+        "source": "US Census Bureau ACS"
+      },
+      {
+        "year": 2015,
+        "value": 975000,
+        "source": "Sample Data (API Failed)"
+      },
+      {
+        "year": 2015,
+        "value": 976396,
+        "source": "US Census Bureau ACS"
+      },
+      {
+        "year": 2016,
+        "value": 980000,
+        "source": "Sample Data (API Failed)"
+      },
+      {
+        "year": 2016,
+        "value": 974542,
+        "source": "US Census Bureau ACS"
+      },
+      {
+        "year": 2017,
+        "value": 985000,
+        "source": "Sample Data (API Failed)"
+      },
+      {
+        "year": 2017,
+        "value": 980244,
+        "source": "US Census Bureau ACS"
+      },
+      {
+        "year": 2018,
+        "value": 990000,
+        "source": "Sample Data (API Failed)"
+      },
+      {
+        "year": 2018,
+        "value": 967612,
+        "source": "US Census Bureau ACS"
+      },
+      {
+        "year": 2019,
+        "value": 995000,
+        "source": "Sample Data (API Failed)"
+      },
+      {
+        "year": 2019,
+        "value": 967506,
+        "source": "US Census Bureau ACS"
+      },
+      {
+        "year": 2020,
+        "value": 1004457,
+        "source": "US Census Bureau"
+      },
+      {
+        "year": 2020,
+        "value": 1000000,
+        "source": "Sample Data (API Failed)"
+      },
+      {
+        "year": 2020,
+        "value": 1000000,
+        "source": "Sample Data (API Failed)"
+      },
+      {
+        "year": 2021,
+        "value": 1005000,
+        "source": "Sample Data (API Failed)"
+      },
+      {
+        "year": 2021,
+        "value": 997895,
+        "source": "US Census Bureau ACS"
+      },
+      {
+        "year": 2022,
+        "value": 1010000,
+        "source": "Sample Data (API Failed)"
+      },
+      {
+        "year": 2022,
+        "value": 990427,
+        "source": "US Census Bureau ACS"
+      },
+      {
+        "year": 2023,
+        "value": 1015000,
+        "source": "Sample Data (API Failed)"
+      },
+      {
+        "year": 2023,
+        "value": 990817,
+        "source": "US Census Bureau ACS"
+      },
+      {
+        "year": 2024,
+        "value": 1006447,
+        "source": "US Census Bureau ACS"
+      }
+    ],
+    "population_by_race": [],
+    "population_by_age": [],
+    "population_by_sex": []
+  },
+  "economics": {
+    "median_household_income": [],
+    "median_home_value": [],
+    "median_gross_rent": [],
+    "poverty_rate": []
+  },
+  "housing": {
+    "total_housing_units": [],
+    "occupied_housing_units": [],
+    "vacant_housing_units": [],
+    "owner_occupied_rate": [],
+    "renter_occupied_rate": []
+  },
+  "employment": {
+    "labor_force_participation": [],
+    "unemployment_rate": [],
+    "commute_time": [],
+    "work_from_home_rate": []
+  }
+}

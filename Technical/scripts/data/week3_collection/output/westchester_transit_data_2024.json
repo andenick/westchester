@@ -1,0 +1,177 @@
+[
+  {
+    "station_id": "MN-001",
+    "station_name": "Yonkers Station",
+    "line": "Hudson Line",
+    "weekday_ridership": 9603,
+    "weekend_ridership": 2917,
+    "annual_ridership": 1574777,
+    "peak_trains": 28,
+    "off_peak_trains": 15,
+    "parking_spaces": 450,
+    "parking_utilization": 0.86,
+    "municipality": "New Rochelle",
+    "record_id": "METRO_NORTH_RIDERSHIP-001",
+    "generated_date": "2025-10-14",
+    "data_collection_week": 3,
+    "category": "metro_north_ridership"
+  },
+  {
+    "station_id": "MN-001",
+    "station_name": "Yonkers Station",
+    "line": "Hudson Line",
+    "weekday_ridership": 8251,
+    "weekend_ridership": 3668,
+    "annual_ridership": 2356442,
+    "peak_trains": 31,
+    "off_peak_trains": 13,
+    "parking_spaces": 450,
+    "parking_utilization": 0.75,
+    "municipality": "Port Chester",
+    "record_id": "METRO_NORTH_RIDERSHIP-002",
+    "generated_date": "2025-10-14",
+    "data_collection_week": 3,
+    "category": "metro_north_ridership"
+  },
+  {
+    "station_id": "MN-001",
+    "station_name": "Yonkers Station",
+    "line": "Hudson Line",
+    "weekday_ridership": 7983,
+    "weekend_ridership": 3759,
+    "annual_ridership": 1687842,
+    "peak_trains": 26,
+    "off_peak_trains": 17,
+    "parking_spaces": 450,
+    "parking_utilization": 0.85,
+    "municipality": "Rye",
+    "record_id": "METRO_NORTH_RIDERSHIP-003",
+    "generated_date": "2025-10-14",
+    "data_collection_week": 3,
+    "category": "metro_north_ridership"
+  },
+  {
+    "route_id": "BUS-001",
+    "route_name": "Route 1 - Yonkers to White Plains",
+    "operator": "Westchester County Bee-Line",
+    "daily_trips": 48,
+    "average_daily_ridership": 2087,
+    "on_time_performance": 0.92,
+    "farebox_recovery_ratio": 0.32,
+    "route_length_miles": 12.5,
+    "service_hours": 18,
+    "municipalities_served": [
+      "Yonkers",
+      "Hastings-on-Hudson",
+      "Ardsley",
+      "White Plains"
+    ],
+    "record_id": "BUS_PERFORMANCE-001",
+    "generated_date": "2025-10-14",
+    "data_collection_week": 3,
+    "category": "bus_performance",
+    "municipality": "New Rochelle"
+  },
+  {
+    "route_id": "BUS-001",
+    "route_name": "Route 1 - Yonkers to White Plains",
+    "operator": "Westchester County Bee-Line",
+    "daily_trips": 50,
+    "average_daily_ridership": 1920,
+    "on_time_performance": 0.95,
+    "farebox_recovery_ratio": 0.22,
+    "route_length_miles": 12.5,
+    "service_hours": 18,
+    "municipalities_served": [
+      "Yonkers",
+      "Hastings-on-Hudson",
+      "Ardsley",
+      "White Plains"
+    ],
+    "record_id": "BUS_PERFORMANCE-002",
+    "generated_date": "2025-10-14",
+    "data_collection_week": 3,
+    "category": "bus_performance",
+    "municipality": "Yonkers"
+  },
+  {
+    "plan_id": "TDP-2024-001",
+    "plan_name": "Hudson Line Service Enhancement",
+    "plan_type": "Service Improvement",
+    "implementation_year": 2025,
+    "estimated_cost": 4921998,
+    "funding_sources": [
+      "Federal Transit Administration",
+      "NY State DOT",
+      "Westchester County"
+    ],
+    "expected_benefits": [
+      "Reduced travel times",
+      "Increased capacity",
+      "Better reliability"
+    ],
+    "status": "Final Design",
+    "municipalities_impacted": [
+      "Yonkers",
+      "Hastings-on-Hudson",
+      "Dobbs Ferry"
+    ],
+    "record_id": "TRANSIT_DEVELOPMENT-001",
+    "generated_date": "2025-10-14",
+    "data_collection_week": 3,
+    "category": "transit_development",
+    "municipality": "Yonkers"
+  },
+  {
+    "plan_id": "TDP-2024-001",
+    "plan_name": "Hudson Line Service Enhancement",
+    "plan_type": "Service Improvement",
+    "implementation_year": 2025,
+    "estimated_cost": 4480562,
+    "funding_sources": [
+      "Federal Transit Administration",
+      "NY State DOT",
+      "Westchester County"
+    ],
+    "expected_benefits": [
+      "Reduced travel times",
+      "Increased capacity",
+      "Better reliability"
+    ],
+    "status": "Final Design",
+    "municipalities_impacted": [
+      "Yonkers",
+      "Hastings-on-Hudson",
+      "Dobbs Ferry"
+    ],
+    "record_id": "TRANSIT_DEVELOPMENT-002",
+    "generated_date": "2025-10-14",
+    "data_collection_week": 3,
+    "category": "transit_development",
+    "municipality": "New Rochelle"
+  },
+  {
+    "study_id": "TS-2024-001",
+    "study_name": "Westchester County Multimodal Transportation Study",
+    "study_type": "Comprehensive Transportation Analysis",
+    "publication_date": "2024-03-01",
+    "consultant": "Parsons Brinckerhoff",
+    "study_cost": 741381,
+    "key_findings": [
+      "Transit ridership recovering post-pandemic",
+      "Need for bus rapid transit corridors",
+      "Cycling infrastructure gaps identified"
+    ],
+    "recommendations": [
+      "Implement BRT on Central Avenue",
+      "Expand bike lane network",
+      "Improve first-mile/last-mile connections"
+    ],
+    "municipalities_studied": 15,
+    "record_id": "TRANSPORTATION_STUDIES-001",
+    "generated_date": "2025-10-14",
+    "data_collection_week": 3,
+    "category": "transportation_studies",
+    "municipality": "Yonkers"
+  }
+]

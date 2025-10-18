@@ -1,0 +1,181 @@
+{
+  "start_time": "2025-10-14T11:52:20.439658",
+  "total_files": 2,
+  "validation_results": [
+    {
+      "filename": "westchester_county_budget_2024_2025.xlsx",
+      "category": "budget_reports",
+      "timestamp": "2025-10-14T11:52:20.695512",
+      "shape": [
+        10,
+        8
+      ],
+      "columns": [
+        "Department",
+        "budgeted",
+        "actual",
+        "Proposed_Budget_2025",
+        "Budget_Category",
+        "Fund_Type",
+        "variance",
+        "Variance_2025_vs_2024"
+      ],
+      "dtypes": {
+        "Department": "object",
+        "budgeted": "int64",
+        "actual": "int64",
+        "Proposed_Budget_2025": "int64",
+        "Budget_Category": "object",
+        "Fund_Type": "object",
+        "variance": "int64",
+        "Variance_2025_vs_2024": "int64"
+      },
+      "validation_results": {
+        "column_names": {
+          "passed": true,
+          "messages": [
+            "Unexpected columns found: ['Budget_Category', 'Department', 'Fund_Type', 'Variance_2025_vs_2024', 'Proposed_Budget_2025']"
+          ]
+        },
+        "data_types": {
+          "passed": true,
+          "messages": [
+            "Column 'budgeted' could be converted to float",
+            "Column 'actual' could be converted to float",
+            "Column 'variance' could be converted to float"
+          ]
+        },
+        "value_ranges": {
+          "passed": true,
+          "messages": []
+        },
+        "allowed_values": {
+          "passed": true,
+          "messages": []
+        },
+        "completeness": {
+          "passed": true,
+          "messages": []
+        },
+        "duplicates": {
+          "passed": true,
+          "messages": []
+        },
+        "consistency": {
+          "passed": true,
+          "messages": []
+        }
+      },
+      "is_valid": true,
+      "errors": [],
+      "warnings": [
+        "column_names: Unexpected columns found: ['Budget_Category', 'Department', 'Fund_Type', 'Variance_2025_vs_2024', 'Proposed_Budget_2025']",
+        "data_types: Column 'budgeted' could be converted to float",
+        "data_types: Column 'actual' could be converted to float",
+        "data_types: Column 'variance' could be converted to float"
+      ],
+      "validation_time": 0.003423,
+      "quality_score": 88,
+      "file_path": "data\\week2_collection\\budget_data\\westchester_county_budget_2024_2025.xlsx",
+      "file_size": 6105,
+      "category_confidence": 1.0
+    },
+    {
+      "filename": "westchester_county_tax_levy_2024.xlsx",
+      "category": "tax_levy",
+      "timestamp": "2025-10-14T11:52:20.709216",
+      "shape": [
+        12,
+        8
+      ],
+      "columns": [
+        "Municipality",
+        "Assessed_Value_2024",
+        "Tax_Rate_Per_1000",
+        "Levy_Amount_2024",
+        "Tax_Class",
+        "County_District",
+        "Effective_Tax_Rate",
+        "Levy_Per_Capita_Estimate"
+      ],
+      "dtypes": {
+        "Municipality": "object",
+        "Assessed_Value_2024": "int64",
+        "Tax_Rate_Per_1000": "float64",
+        "Levy_Amount_2024": "int64",
+        "Tax_Class": "object",
+        "County_District": "object",
+        "Effective_Tax_Rate": "float64",
+        "Levy_Per_Capita_Estimate": "float64"
+      },
+      "validation_results": {
+        "column_names": {
+          "passed": true,
+          "messages": [
+            "Unexpected columns found: ['Municipality', 'Assessed_Value_2024', 'Levy_Per_Capita_Estimate', 'Levy_Amount_2024', 'Effective_Tax_Rate']"
+          ]
+        },
+        "data_types": {
+          "passed": true,
+          "messages": [
+            "Column 'Levy_Amount_2024' could be converted to float"
+          ]
+        },
+        "value_ranges": {
+          "passed": true,
+          "messages": []
+        },
+        "allowed_values": {
+          "passed": true,
+          "messages": []
+        },
+        "completeness": {
+          "passed": true,
+          "messages": []
+        },
+        "duplicates": {
+          "passed": true,
+          "messages": []
+        },
+        "consistency": {
+          "passed": true,
+          "messages": []
+        }
+      },
+      "is_valid": true,
+      "errors": [],
+      "warnings": [
+        "column_names: Unexpected columns found: ['Municipality', 'Assessed_Value_2024', 'Levy_Per_Capita_Estimate', 'Levy_Amount_2024', 'Effective_Tax_Rate']",
+        "data_types: Column 'Levy_Amount_2024' could be converted to float"
+      ],
+      "validation_time": 0.002631,
+      "quality_score": 94,
+      "file_path": "data\\week2_collection\\tax_levy_data\\westchester_county_tax_levy_2024.xlsx",
+      "file_size": 6250,
+      "category_confidence": 1.2999999999999998
+    }
+  ],
+  "summary": {
+    "total_files": 2,
+    "valid_files": 2,
+    "invalid_files": 0,
+    "warning_files": 2,
+    "total_records": 22,
+    "total_errors": 0,
+    "total_warnings": 6,
+    "files_by_category": {
+      "budget_reports": 1,
+      "tax_levy": 1,
+      "infrastructure": 0,
+      "transit": 0,
+      "historical": 0
+    },
+    "validation_time": 0.272291
+  },
+  "files_processed": [
+    "westchester_county_budget_2024_2025.xlsx",
+    "westchester_county_tax_levy_2024.xlsx"
+  ],
+  "files_failed": [],
+  "end_time": "2025-10-14T11:52:20.711949"
+}

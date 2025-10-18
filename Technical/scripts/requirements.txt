@@ -1,0 +1,29 @@
+# Westchester Data Platform - Automation Dependencies
+# Core automation framework
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# PDF extraction
+tabula-py>=2.8.0
+pdfplumber>=0.9.0
+camelot-py[cv]>=0.10.1
+
+# Web scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+selenium>=4.15.0
+
+# Excel handling
+openpyxl>=3.1.0
+
+# Logging and utilities
+python-dateutil>=2.8.0
+
+# Optional: Enhanced PDF processing
+# ghostscript>=0.7  # Required for some PDF processing features
+# poppler-utils     # System dependency for better PDF handling
+
+# Optional: Web browser automation
+# chromedriver-autoinstaller>=0.6.0  # Auto-install Chrome driver for Selenium

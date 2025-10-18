@@ -1,0 +1,11 @@
+# Tests Directory
+
+This directory will contain test files:
+
+- Unit tests for data importers
+- Tests for data processors  
+- API endpoint tests
+- Frontend component tests
+- Integration tests
+
+Tests will be implemented during Phase 7: Polish & Deployment.
