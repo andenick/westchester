@@ -9,9 +9,10 @@
 
 ## Production URLs
 
-**Frontend (Netlify)**: _To be filled after deployment_
-**Backend API (Render)**: _To be filled after deployment_
-**API Documentation**: _To be filled after deployment_
+**Frontend (Netlify)**: https://westchester-county-data.netlify.app
+**Backend API (Render)**: https://westchester-api.onrender.com
+**API Documentation**: https://westchester-api.onrender.com/docs
+**API Health Check**: https://westchester-api.onrender.com/api/health
 
 ---
 
@@ -24,12 +25,14 @@
 
 **Render**:
 - Account: Connected to YouTube account
-- Service Name: _To be filled_
+- Service Name: westchester-api
+- Service URL: https://westchester-api.onrender.com
 - Plan: Free Tier ($0/month)
 
 **Netlify**:
-- Account: _To be configured_
-- Site Name: _To be filled_
+- Account: andenick's team
+- Site Name: westchester-county-data
+- Site URL: https://westchester-county-data.netlify.app
 - Plan: Free Tier ($0/month)
 
 ---
@@ -82,7 +85,8 @@ VITE_APP_ENVIRONMENT=production
 
 ## Current Status
 
-**Deployment Stage**: Ready for deployment
+**Deployment Stage**: ✅ DEPLOYED TO PRODUCTION
+**Deployment Date**: October 18, 2025
 **Data Completeness**: Partial
 - ✅ Small data files included in repo
 - ❌ Large GeoJSON files excluded (742 MB total)
@@ -168,7 +172,11 @@ Large GeoJSON files not deployed on free tier:
 | Date | Action | Details |
 |------|--------|---------|
 | 2025-10-17 | Initial setup | Repository created, guides prepared |
-| _TBD_ | First deploy | Backend to Render, Frontend to Netlify |
+| 2025-10-18 | First deploy | Code pushed to GitHub |
+| 2025-10-18 | Backend deployed | Render service live at westchester-api.onrender.com |
+| 2025-10-18 | Frontend deployed | Netlify site live at westchester-county-data.netlify.app |
+| 2025-10-18 | CORS configured | Frontend/backend connected successfully |
+| 2025-10-18 | Phase 7 fixes | Added missing pages, fixed transit data |
 
 ---
 
