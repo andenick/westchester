@@ -12,6 +12,12 @@ import json
 from typing import Dict, List, Optional
 from datetime import datetime
 
+# Import configuration
+try:
+    from .config import get_cors_origins, API_TITLE, API_VERSION, API_DESCRIPTION
+except ImportError:
+    from config import get_cors_origins, API_TITLE, API_VERSION, API_DESCRIPTION
+
 # Import robin_source_attribution (handle both relative and absolute imports)
 try:
     from .robin_source_attribution import robin_attributor, add_robin_attribution_to_endpoint
@@ -21,23 +27,18 @@ except ImportError:
 
 # Initialize FastAPI app
 app = FastAPI(
-    title="Westchester County Data Platform API",
-    description="API for accessing Westchester County government data, transit info, and demographics",
-    version="1.0.0",
+    title=API_TITLE,
+    description=API_DESCRIPTION,
+    version=API_VERSION,
     docs_url="/docs",
     redoc_url="/redoc"
 )
 
 # Add CORS middleware to allow frontend access
-# For production: Update allow_origins with your production domain
+# CORS origins are configured via environment variables (see config.py)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "http://localhost:3000",  # Development - Frontend dev server
-        "http://localhost:5173",  # Development - Vite default
-        # "https://yourdomain.com",  # Production - Add your production domain here
-        # "https://www.yourdomain.com"  # Production - Add with www if needed
-    ],
+    allow_origins=get_cors_origins(),  # Dynamically get allowed origins from config
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

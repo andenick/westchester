@@ -114,3 +114,6 @@ htmlcov/
 .dmypy.json
 dmypy.json
 
+
+# Local Netlify folder
+.netlify
