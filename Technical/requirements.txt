@@ -85,7 +85,7 @@ requests-cache==1.2.0  # HTTP response caching
 
 # Additional Data Sources
 fredapi==0.4.3  # Federal Reserve Economic Data
-pynyc==0.2.0  # NYC Open Data integration
+# pynyc removed - package doesn't exist on PyPI
 
 # Database Integration
 sqlalchemy==2.0.23  # Database ORM

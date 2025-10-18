@@ -1,0 +1,34 @@
+# Westchester County Data Platform - Production Dependencies
+# Minimal requirements for Render deployment
+
+# Web Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# Data Validation
+pydantic==2.5.2
+pydantic-settings==2.1.0
+
+# Environment Management
+python-dotenv==1.0.0
+
+# Data Processing (required for API data endpoints)
+pandas==2.2.2
+numpy
+openpyxl==3.1.2
+
+# Geographic Data (required for GeoJSON endpoints)
+geopandas==0.14.1
+shapely==2.0.2
+pyproj==3.6.1
+
+# Data Acquisition
+requests==2.31.0
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
+
+# HTTP Response Caching (for performance)
+requests-cache==1.2.0

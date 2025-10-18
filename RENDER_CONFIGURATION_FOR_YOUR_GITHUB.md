@@ -133,7 +133,7 @@ Root Directory: (leave BLANK)
 Environment: Python 3
 
 Build Command:
-pip install -r Technical/requirements.txt
+pip install -r Technical/requirements-production.txt
 
 Start Command:
 cd Technical/src/api && uvicorn main:app --host 0.0.0.0 --port $PORT
