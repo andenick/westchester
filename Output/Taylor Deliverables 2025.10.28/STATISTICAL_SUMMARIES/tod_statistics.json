@@ -1,0 +1,16 @@
+{
+  "tod_statistics": {
+    "total_roads": 938,
+    "no_coverage": 423,
+    "one_side": 265,
+    "both_sides": 250,
+    "any_coverage_pct": 54.90405117270789
+  },
+  "non_tod_statistics": {
+    "total_roads": 3448,
+    "no_coverage": 2822,
+    "one_side": 355,
+    "both_sides": 271,
+    "any_coverage_pct": 18.155452436194896
+  }
+}

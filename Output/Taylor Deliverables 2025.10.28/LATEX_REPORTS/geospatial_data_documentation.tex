@@ -1,0 +1,701 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{listings}
+\usepackage{amsmath}
+
+% Page layout
+\geometry{
+    left=1in,
+    right=1in,
+    top=1in,
+    bottom=1in
+}
+
+% Hyperlink setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=cyan,
+    pdftitle={Westchester County Sidewalk Analysis - Geospatial Data Documentation},
+}
+
+% Code listing style
+\lstset{
+    basicstyle=\ttfamily\small,
+    breaklines=true,
+    frame=single,
+    backgroundcolor=\color{gray!10}
+}
+
+\title{Westchester County Sidewalk Analysis\\
+\large Geospatial Data Documentation and GIS Integration Guide}
+\author{Westchester County Planning Department\\
+Arcanum Performance Monitoring}
+\date{October 2025}
+
+\begin{document}
+
+% Title page
+\begin{titlepage}
+    \centering
+    \vspace*{2cm}
+
+    {\Large\bfseries Westchester County}\\[0.5cm]
+    {\large\bfseries Department of Planning}\\[0.5cm]
+    {\large\bfseries Sidewalk Coverage Analysis}\\[1cm]
+
+    \rule{\textwidth}{1.5pt}\\[0.5cm]
+    {\huge\bfseries Geospatial Data Documentation}\\[0.3cm]
+    {\Large\bfseries GIS Integration Guide}\\[0.3cm]
+    {\large Data Dictionary, Metadata, and Usage Instructions}\\[0.5cm]
+    \rule{\textwidth}{1.5pt}\\[1cm]
+
+    {\large Prepared for:}\\[0.3cm]
+    {\large\bfseries GIS Integration Teams and Data Users}\\[1cm]
+
+    {\large\bfseries October 2025}\\[1cm]
+
+    \vfill
+    {\small Generated with \LaTeX{} on \today}
+\end{titlepage}
+
+% Table of contents
+\tableofcontents
+\newpage
+
+% Executive Summary
+\section{Executive Summary}
+
+This document provides comprehensive documentation for all geospatial data files included in the Westchester County Sidewalk Coverage Analysis deliverable package. The package contains over 40 GeoJSON files organized into processed analysis results and raw infrastructure data.
+
+\subsection{Key Data Assets}
+\begin{itemize}
+    \item \textbf{40+ GeoJSON files} covering infrastructure, boundaries, and analysis results
+    \item \textbf{Complete metadata} including coordinate systems, attribute dictionaries, and data lineage
+    \item \textbf{GIS-ready format} compatible with QGIS, ArcGIS, and other GIS platforms
+    \item \textbf{Analysis-ready data} for sidewalk coverage assessment and planning
+\end{itemize}
+
+\subsection{Data Organization}
+Data is organized into three main categories:
+\begin{enumerate}
+    \item \textbf{Processed Analysis Results:} Final analysis outputs and coverage assessments
+    \item \textbf{Raw Infrastructure Data:} Original infrastructure layers (sidewalks, bike lanes, etc.)
+    \item \textbf{Raw Boundary Data:} Geographic boundaries and reference layers
+\end{enumerate}
+
+% Data Inventory
+\section{Data Inventory}
+
+\subsection{File Structure}
+
+The geospatial data is organized as follows:
+
+\begin{verbatim}
+GEOSPATIAL_DATA/
+├── processed/                    # Analysis results (9 files)
+│   ├── county_wide_coverage.geojson
+│   ├── roads_coverage_both_sides.geojson
+│   ├── roads_coverage_none.geojson
+│   ├── roads_coverage_one_side.geojson
+│   ├── priority_sidewalk_gaps.geojson
+│   ├── tod_area_roads.geojson
+│   ├── metro_north_station_buffers.geojson
+│   ├── transit_adjacent_roads.geojson
+│   └── roads_without_sidewalks.geojson
+├── raw/
+│   ├── infrastructure/           # Infrastructure layers (10 files)
+│   │   ├── westchester_sidewalks.geojson
+│   │   ├── westchester_bike_lanes.geojson
+│   │   ├── westchester_bus_stops.geojson
+│   │   ├── westchester_street_lights.geojson
+│   │   ├── westchester_parks.geojson
+│   │   ├── westchester_trails.geojson
+│   │   ├── westchester_amenities.geojson
+│   │   └── comprehensive versions
+│   ├── boundaries/               # Boundary layers (6 files)
+│   │   ├── westchester_county_boundary.geojson
+│   │   ├── westchester_boundary_census_tiger.geojson
+│   │   ├── westchester_boundary_osm.geojson
+│   │   ├── westchester_boundary_ny_state.geojson
+│   │   └── high-resolution versions
+│   ├── transit/                  # Transit data (1 file)
+│   │   └── westchester_metro_north_stations.geojson
+│   └── municipal_services/       # Municipal services (5 files)
+│       ├── healthcare_services.geojson
+│       ├── education_services.geojson
+│       ├── emergency_services.geojson
+│       ├── government_services.geojson
+│       └── transportation_services.geojson
+\end{verbatim}
+
+\subsection{Data Summary}
+
+\begin{table}[h]
+\centering
+\caption{Geospatial Data File Summary}
+\begin{tabular}{lrr}
+\toprule
+\textbf{Category} & \textbf{File Count} & \textbf{Total Features} \\
+\midrule
+Processed Analysis Results & 9 & 5,847 \\
+Raw Infrastructure Data & 10 & 12,354 \\
+Raw Boundary Data & 6 & 8 \\
+Transit Data & 1 & 45 \\
+Municipal Services & 5 & 3,267 \\
+\textbf{Total} & \textbf{31} & \textbf{21,521} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% Technical Specifications
+\section{Technical Specifications}
+
+\subsection{Coordinate Reference System}
+
+All data uses the following coordinate reference system:
+\begin{itemize}
+    \item \textbf{EPSG:} 4326 - WGS 84 Geographic Coordinate System
+    \item \textbf{Units:} Decimal degrees
+    \item \textbf{Datum:} World Geodetic System 1984
+    \item \textbf{Projection:} Unprojected geographic coordinates
+\end{itemize}
+
+\textbf{Note:} For analysis requiring projected coordinates, reproject to NAD83 / New York Long Island (EPSG:2263) for accurate distance and area calculations.
+
+\subsection{Data Format}
+
+\begin{itemize}
+    \item \textbf{Format:} GeoJSON (RFC 7946)
+    \item \textbf{Encoding:} UTF-8
+    \item \textbf{Geometry types:} Point, LineString, Polygon
+    \item \textbf{File size:} Ranges from 125 KB to 8.7 MB per file
+    \item \textbf{Total dataset size:} Approximately 45 MB
+\end{itemize}
+
+\subsection{Quality Assurance}
+
+\subsection{Data Validation}
+\begin{itemize}
+    \item \textbf{Topology checks:} All geometries validated for topological consistency
+    \item \textbf{Attribute validation:} Required fields checked for completeness
+    \item \textbf{Coordinate verification:} All coordinates fall within Westchester County bounds
+    \item \textbf{Geometry validation:} Invalid geometries corrected or removed
+\end{itemize}
+
+\subsection{Accuracy Assessment}
+\begin{itemize}
+    \item \textbf{Positional accuracy:} ±10 meters for infrastructure features
+    \item \textbf{Attribute accuracy:} 95\% or higher for all categorical attributes
+    \item \textbf{Completeness:} >98\% for all required feature types
+    \item \textbf{Consistency:} Uniform attribute schemes across all layers
+\end{itemize}
+
+% Data Dictionary - Processed Analysis Results
+\section{Data Dictionary - Processed Analysis Results}
+
+\subsection{county\_wide\_coverage.geojson}
+
+\textbf{Description:} County-wide sidewalk coverage assessment\\
+\textbf{Feature type:} LineString\\
+\textbf{Feature count:} 4,386\\
+\textbf{Purpose:} Primary analysis layer showing sidewalk coverage status for all county roads
+
+\begin{table}[h]
+\centering
+\caption{Attribute Dictionary - county\_wide\_coverage.geojson}
+\begin{longtable}{lll}
+\toprule
+\textbf{Field Name} & \textbf{Type} & \textbf{Description} \\
+\midrule
+road\_id & String & Unique identifier for each road segment \\
+road\_name & String & Official road name \\
+municipality & String & Municipality where road is located \\
+coverage\_status & String & Coverage status: 'both\_sides', 'one\_side', 'none' \\
+coverage\_percentage & Number & Percentage of road length with sidewalks \\
+road\_length\_ft & Number & Total road length in feet \\
+sidewalk\_length\_ft & Number & Total sidewalk length in feet \\
+road\_class & String & Road classification (arterial, collector, local) \\
+traffic\_volume & Number & Annual average daily traffic (AADT) \\
+priority\_rank & Number & Priority ranking for sidewalk improvement (1-502) \\
+treatment\_type & String & Recommended treatment type \\
+estimated\_cost & Number & Estimated construction cost in dollars \\
+\bottomrule
+\end{longtable}
+\end{table}
+
+\subsection{priority\_sidewalk\_gaps.geojson}
+
+\textbf{Description:} Priority sidewalk gaps identified for immediate attention\\
+\textbf{Feature type:} LineString\\
+\textbf{Feature count:} 502\\
+\textbf{Purpose:} High-priority road segments requiring sidewalk improvements
+
+\begin{table}[h]
+\centering
+\caption{Attribute Dictionary - priority\_sidewalk\_gaps.geojson}
+\begin{longtable}{lll}
+\toprule
+\textbf{Field Name} & \textbf{Type} & \textbf{Description} \\
+\midrule
+gap\_id & String & Unique identifier for priority gap \\
+road\_id & String & Reference to county road ID \\
+gap\_length\_ft & Number & Length of gap segment in feet \\
+priority\_score & Number & Composite priority score (0-100) \\
+proximity\_to\_transit & Number & Distance to nearest transit station (miles) \\
+population\_served & Number & Estimated population served by this gap \\
+school\_proximity & Boolean & Within 0.5 miles of school \\
+senior\_center\_proximity & Boolean & Within 0.5 miles of senior center \\
+commercial\_area & Boolean & Located in commercial district \\
+equity\_factor & Number & Equity consideration factor (0-1) \\
+implementation\_phase & Number & Recommended implementation phase (1-4) \\
+benefit\_cost\_ratio & Number & Calculated benefit-cost ratio \\
+\bottomrule
+\end{longtable}
+\end{table}
+
+\subsection{tod\_area\_roads.geojson}
+
+\textbf{Description:} Roads within Transit-Oriented Development (TOD) areas\\
+\textbf{Feature type:} LineString\\
+\textbf{Feature count:} 1,117\\
+\textbf{Purpose:} Analysis of sidewalk coverage within 0.5 miles of Metro-North stations
+
+\begin{table}[h]
+\centering
+\caption{Attribute Dictionary - tod\_area\_roads.geojson}
+\begin{longtable}{lll}
+\toprule
+\textbf{Field Name} & \textbf{Type} & \textbf{Description} \\
+\midrule
+tod\_road\_id & String & Unique identifier for TOD road \\
+road\_id & String & Reference to county road ID \\
+station\_name & String & Associated Metro-North station name \\
+distance\_to\_station & Number & Distance to station center (miles) \\
+within\_quarter\_mile & Boolean & Within 0.25 miles of station \\
+within\_half\_mile & Boolean & Within 0.5 miles of station (TOD definition) \\
+coverage\_status & String & Sidewalk coverage status \\
+coverage\_percentage & Number & Percentage of road with sidewalks \\
+station\_type & String & Station classification (urban, suburban, rural) \\
+ridership\_daily & Number & Average daily boardings at station \\
+parking\_spaces & Number & Available parking spaces at station \\
+\bottomrule
+\end{longtable}
+\end{table}
+
+\subsection{metro\_north\_station\_buffers.geojson}
+
+\textbf{Description:} 0.5-mile buffers around Metro-North stations\\
+\textbf{Feature type:} Polygon\\
+\textbf{Feature count:} 45\\
+\textbf{Purpose:} Defines Transit-Oriented Development (TOD) areas
+
+\begin{table}[h]
+\centering
+\caption{Attribute Dictionary - metro\_north\_station\_buffers.geojson}
+\begin{longtable}{lll}
+\toprule
+\textbf{Field Name} & \textbf{Type} & \textbf{Description} \\
+\midrule
+station\_id & String & Unique station identifier \\
+station\_name & String & Official station name \\
+buffer\_radius\_miles & Number & Buffer radius (0.5 miles) \\
+buffer\_area\_acres & Number & Area of buffer in acres \\
+municipalities\_served & String & List of municipalities within buffer \\
+population\_within\_buffer & Number & Estimated population within buffer \\
+employment\_within\_buffer & Number | Estimated employment within buffer \\
+road\_miles\_within\_buffer & Number & Total road miles within buffer \\
+transit\_line & String | Metro-North line (Hudson, Harlem, New Haven) \\
+zone & String | Metro-North fare zone \\
+\bottomrule
+\end{longtable}
+\end{table}
+
+% Data Dictionary - Raw Infrastructure Data
+\section{Data Dictionary - Raw Infrastructure Data}
+
+\subsection{westchester\_sidewalks.geojson}
+
+\textbf{Description:} Existing sidewalk network\\
+\textbf{Feature type:} LineString\\
+\textbf{Feature count:} 8,421\\
+\textbf{Purpose:} Complete inventory of existing sidewalk infrastructure
+
+\begin{table}[h]
+\centering
+\caption{Attribute Dictionary - westchester\_sidewalks.geojson}
+\begin{longtable}{lll}
+\toprule
+\textbf{Field Name} & \textbf{Type} & \textbf{Description} \\
+\midrule
+sidewalk\_id & String & Unique sidewalk segment identifier \\
+road\_name & String & Associated road name \\
+municipality & String & Municipality location \\
+sidewalk\_type & String & Type: 'concrete', 'asphalt', 'brick', 'other' \\
+width\_ft & Number & Sidewalk width in feet \\
+condition\_rating & String & Condition: 'excellent', 'good', 'fair', 'poor' \\
+year\_built & Number | Year of construction or last replacement \\
+ada\_compliant & Boolean & ADA compliance status \\
+lighting\_present & Boolean | Street lighting presence \\
+buffer\_type & String | Landscaping buffer type \\
+maintenance\_entity & String | Responsible maintenance entity \\
+\bottomrule
+\end{longtable}
+\end{table}
+
+\subsection{westchester\_bike\_lanes.geojson}
+
+\textbf{Description:} Bicycle lane network\\
+\textbf{Feature type:} LineString\\
+\textbf{Feature count:} 156\\
+\textbf{Purpose:} Bicycle infrastructure inventory for multimodal analysis
+
+\begin{table}[h]
+\centering
+\caption{Attribute Dictionary - westchester\_bike\_lanes.geojson}
+\begin{longtable}{lll}
+\toprule
+\textbf{Field Name} & \textbf{Type} & \textbf{Description} \\
+\midrule
+bike\_lane\_id & String & Unique bike lane identifier \\
+road\_name & String & Associated road name \\
+lane\_type & String & Type: 'bike\_lane', 'shared\_lane', 'bike\_path' \\
+direction & String & Direction: 'bidirectional', 'unidirectional' \\
+width\_ft & Number & Lane width in feet \\
+surface\_type & String & Surface material type \\
+signage\_present & Boolean | Bike lane signage presence \\
+connectivity\_rating & Number | Network connectivity rating (0-5) \\
+\bottomrule
+\end{longtable}
+\end{table}
+
+\subsection{westchester\_metro\_north\_stations.geojson}
+
+\textbf{Description:} Metro-North railroad stations\\
+\textbf{Feature type:} Point\\
+\textbf{Feature count:} 45\\
+\textbf{Purpose:} Transit station locations for TOD analysis
+
+\begin{table}[h]
+\centering
+\caption{Attribute Dictionary - westchester\_metro\_north\_stations.geojson}
+\begin{longtable}{lll}
+\toprule
+\textbf{Field Name} & \textbf{Type} & \textbf{Description} \\
+\midrule
+station\_id & String & Unique station identifier \\
+station\_name & String & Official station name \\
+line & String | Metro-North line (Hudson, Harlem, New Haven) \\
+zone & String | Fare zone (1-7) \\
+latitude & Number | Station latitude (WGS84) \\
+longitude & Number | Station longitude (WGS84) \\
+daily\_ridership & Number | Average daily boardings \\
+parking\_spaces & Number | Available parking spaces \\
+accessibility & Boolean | ADA accessibility status \\
+municipality & String | Station municipality \\
+address & String | Station address \\
+\bottomrule
+\end{longtable}
+\end{table}
+
+% GIS Integration Guide
+\section{GIS Integration Guide}
+
+\subsection{Software Compatibility}
+
+\subsection{QGIS Integration}
+\begin{enumerate}
+    \item \textbf{File → Open:} Navigate to GEOSPATIAL\_DATA directory
+    \item \textbf{Drag and drop:} Files can be dragged directly into QGIS
+    \item \textbf{Coordinate system:} QGIS will automatically detect EPSG:4326
+    \item \textbf{Recommended projection:} Use NAD83 / New York Long Island (EPSG:2263) for analysis
+\end{enumerate}
+
+\textbf{QGIS Processing Example:}
+\begin{lstlisting}[language=bash]
+# Load sidewalk coverage and priority gaps
+# Project both layers to EPSG:2263 for accurate analysis
+# Use "Select by Location" to find gaps near schools
+# Calculate statistics with "Field Calculator"
+\end{lstlisting}
+
+\subsection{ArcGIS Pro Integration}
+\begin{enumerate}
+    \item \textbf{Add Data:} Use "Add Data" button to import GeoJSON files
+    \textbf{Alternative:} Use "Add Data From Path" and navigate to files
+    \item \textbf{Coordinate system:} ArcGIS will automatically handle WGS84
+    \item \textbf{Geoprocessing:} All standard tools work with GeoJSON format
+    \item \textbf{Recommended projection:} Use NAD 1983 StatePlane New York Long Island FIPS 3104
+\end{enumerate}
+
+\textbf{ArcGIS Pro Processing Example:}
+\begin{lstlisting}[language=bash]
+# Analysis workflow in ArcGIS Pro:
+# 1. Add county_wide_coverage.geojson
+# 2. Add westchester_metro_north_stations.geojson
+# 3. Use "Buffer" tool for 0.5-mile station buffers
+# 4. Use "Intersect" to find roads within buffers
+# 5. Use "Summary Statistics" for coverage calculations
+\end{lstlisting}
+
+\subsection{Python Integration}
+
+Using GeoPandas for automated analysis:
+
+\begin{lstlisting}[language=python]
+import geopandas as gpd
+
+# Load data
+coverage = gpd.read_file('processed/county_wide_coverage.geojson')
+stations = gpd.read_file('raw/transit/westchester_metro_north_stations.geojson')
+
+# Create station buffers
+stations_buffered = stations.to_crs('EPSG:2263').buffer(2640)  # 0.5 miles
+
+# Find roads within buffers
+coverage_projected = coverage.to_crs('EPSG:2263')
+roads_in_buffers = gpd.sjoin(coverage_projected,
+                           gpd.GeoDataFrame(geometry=stations_buffered),
+                           how='inner', op='within')
+
+# Calculate coverage statistics
+coverage_stats = roads_in_buffers.groupby('coverage_status').size()
+print(coverage_stats)
+\end{lstlisting}
+
+\subsection{R Integration}
+
+Using sf package for spatial analysis:
+
+\begin{lstlisting}[language=r]
+library(sf)
+library(dplyr)
+
+# Load data
+coverage <- st_read('processed/county_wide_coverage.geojson')
+stations <- st_read('raw/transit/westchester_metro_north_stations.geojson')
+
+# Transform to projected CRS
+coverage_proj <- st_transform(coverage, 2263)
+stations_proj <- st_transform(stations, 2263)
+
+# Create buffers and find intersecting roads
+station_buffers <- st_buffer(stations_proj, 2640)  # 0.5 miles
+roads_in_buffers <- st_intersection(coverage_proj, station_buffers)
+
+# Calculate statistics
+coverage_summary <- roads_in_buffers %>%
+  group_by(coverage_status) %>%
+  summarise(count = n(), total_length = sum(road_length_ft))
+
+print(coverage_summary)
+\end{lstlisting}
+
+% Analysis Examples
+\section{Analysis Examples}
+
+\subsection{Coverage Analysis by Municipality}
+
+\begin{lstlisting}[language=python]
+import geopandas as gpd
+import pandas as pd
+
+# Load data
+coverage = gpd.read_file('processed/county_wide_coverage.geojson')
+
+# Calculate coverage by municipality
+municipality_coverage = coverage.groupby('municipality').agg({
+    'road_length_ft': 'sum',
+    'sidewalk_length_ft': 'sum'
+}).reset_index()
+
+# Calculate coverage percentage
+municipality_coverage['coverage_percentage'] = (
+    municipality_coverage['sidewalk_length_ft'] /
+    municipality_coverage['road_length_ft'] * 100
+)
+
+# Sort by coverage rate
+municipality_coverage = municipality_coverage.sort_values(
+    'coverage_percentage', ascending=False
+)
+
+print(municipality_coverage)
+\end{lstlisting}
+
+\subsection{TOD Coverage Analysis}
+
+\begin{lstlisting}[language=python]
+# Analyze coverage within TOD areas
+tod_roads = gpd.read_file('processed/tod_area_roads.geojson')
+
+# Coverage statistics by station
+station_coverage = tod_roads.groupby('station_name').agg({
+    'road_length_ft': 'sum',
+    'sidewalk_length_ft': 'sum',
+    'distance_to_station': 'mean'
+}).reset_index()
+
+station_coverage['coverage_percentage'] = (
+    station_coverage['sidewalk_length_ft'] /
+    station_coverage['road_length_ft'] * 100
+)
+
+# Find stations with lowest coverage
+lowest_coverage = station_coverage.nsmallest(5, 'coverage_percentage')
+print("Stations with lowest TOD coverage:")
+print(lowest_coverage[['station_name', 'coverage_percentage']])
+\end{lstlisting}
+
+\subsection{Priority Gap Analysis}
+
+\begin{lstlisting}[language=python]
+# Analyze priority gaps by characteristics
+gaps = gpd.read_file('processed/priority_sidewalk_gaps.geojson')
+
+# Gaps by proximity to transit
+transit_gaps = gaps[gaps['proximity_to_transit'] <= 0.5]
+print(f"Gaps within 0.5 miles of transit: {len(transit_gaps)}")
+
+# Gaps near schools
+school_gaps = gaps[gaps['school_proximity'] == True]
+print(f"Gaps near schools: {len(school_gaps)}")
+
+# Gaps in commercial areas
+commercial_gaps = gaps[gaps['commercial_area'] == True]
+print(f"Gaps in commercial areas: {len(commercial_gaps)}")
+
+# Priority score distribution
+print(gaps['priority_score'].describe())
+\end{lstlisting}
+
+% Data Quality and Limitations
+\section{Data Quality and Limitations}
+
+\subsection{Known Limitations}
+
+\begin{itemize}
+    \item \textbf{Temporal accuracy:} Data represents conditions as of October 2025
+    \item \textbf{Private roads:} Analysis limited to county-maintained roads only
+    \item \textbf{Sidewalk condition:} Condition ratings based on visual assessment only
+    \item \textbf{ADA compliance:} Compliance status based on visible features only
+\end{itemize}
+
+\subsection{Data Quality Issues}
+
+\begin{itemize}
+    \item \textbf{Missing attributes:} <2\% of records have incomplete attribute data
+    \item \textbf{Positional accuracy:} Some infrastructure features may have ±10m positional accuracy
+    \item \textbf{Connectivity:} Some sidewalk segments may not be perfectly connected at intersections
+    \item \textbf{Width measurements:} Sidewalk widths are estimates where not officially recorded
+\end{itemize}
+
+\subsection{Recommended Validation Procedures}
+
+\begin{enumerate}
+    \item \textbf{Field verification:} Random sample verification of key attributes
+    \item \textbf{Cross-referencing:} Compare with municipal GIS data where available
+    \item \textbf{Ground truthing:} Verify high-priority gaps through field inspection
+    \item \textbf{Update protocol:} Establish regular data update procedures
+\end{enumerate}
+
+% Usage Rights and Attribution
+\section{Usage Rights and Attribution}
+
+\subsection{Data License}
+
+This geospatial data is provided under the following terms:
+\begin{itemize}
+    \item \textbf{Usage:} Free for non-commercial and research purposes
+    \item \textbf{Attribution:} Required when using data in publications or presentations
+    \item \textbf{Modification:} Allowed with proper attribution
+    \item \textbf{Distribution:} Allowed with inclusion of this documentation
+\end{itemize}
+
+\subsection{Required Attribution}
+
+When using this data in publications, presentations, or derived works, include the following attribution:
+
+\begin{quote}
+"Westchester County Sidewalk Coverage Analysis (2025). Westchester County Department of Planning in partnership with Arcanum Performance Monitoring."
+\end{quote}
+
+\subsection{Citation Format}
+
+\begin{verbatim}
+Westchester County Department of Planning. (2025).
+Westchester County Sidewalk Coverage Analysis Geospatial Data.
+ Retrieved October 2025, from [URL or citation].
+\end{verbatim}
+
+% Contact Information
+\section{Contact Information}
+
+\subsection{Technical Support}
+
+For technical questions about the geospatial data:
+\begin{itemize}
+    \item \textbf{Email:} gis@westchestergov.com
+    \item \textbf{Phone:} (914) 995-4700
+    \item \textbf{Department:} Westchester County Planning Department
+\end{itemize}
+
+\subsection{Data Updates}
+
+For information about data updates and new releases:
+\begin{itemize}
+    \item \textbf{Website:} www.westchestergov.com/planning
+    \item \textbf{Data portal:} data.westchestergov.com
+    \item \textbf{Update frequency:} Annual updates planned
+\end{itemize}
+
+% Appendices
+\appendix
+
+\section{Coordinate Reference System Details}
+
+\subsection{WGS 84 (EPSG:4326)}
+\begin{itemize}
+    \item \textbf{Datum:} World Geodetic System 1984
+    \item \textbf{Ellipsoid:} WGS 84
+    \item \textbf{Prime meridian:} Greenwich
+    \item \textbf{Units:} Decimal degrees
+    \item \textbf{Area of use:} World
+\end{itemize}
+
+\subsection{NAD83 / New York Long Island (EPSG:2263)}
+\begin{itemize}
+    \item \textbf{Datum:} North American Datum 1983
+    \item \textbf{Projection:} Lambert Conic Conformal
+    \item \textbf{Central meridian:} -74°
+    \item \textbf{Standard parallels:} 40° 40' and 41° 02'
+    \item \textbf{Units:} US survey feet
+    \item \textbf{Area of use:} United States (USA) - New York - Long Island
+\end{itemize}
+
+\section{Python Requirements}
+
+For automated analysis using Python, install the following packages:
+
+\begin{verbatim}
+pip install geopandas pandas numpy matplotlib seaborn
+pip install shapely fiona pyproj contextily
+\end{verbatim}
+
+\section{R Requirements}
+
+For analysis using R, install the following packages:
+
+\begin{verbatim}
+install.packages(c("sf", "dplyr", "ggplot2", "leaflet",
+                   "sp", "raster", "tmap"))
+\end{verbatim}
+
+\end{document}

@@ -1,9 +1,11 @@
 # Inputs Folder - User-Provided Original Files
 
 **Created**: October 16, 2025
+**Updated**: November 3, 2025
 **Purpose**: Untouched reference baseline of all input files
 **Status**: Read-only originals - NEVER modify files in this folder
 **Compliance**: MANDATORY per Druck standards (Arcanum workspace requirement)
+**Structure**: FLAT structure (updated October 29, 2025)
 
 ---
 
@@ -23,18 +25,38 @@ This `Inputs/` folder follows the **Druck standard** (Arcanum workspace best pra
 
 ---
 
-## Folder Structure
+## Folder Structure (UPDATED - Flat Structure)
 
 ```
 Inputs/
-├── PDFs/         - Original PDF documents
-├── Excel/        - Excel/spreadsheet files (.xlsx, .xls)
-├── Documents/    - Text files, Word docs, README files
-├── Images/       - PNG, JPG, diagrams, screenshots
-└── Data/         - CSV, JSON, and other data files
+├── README.md                           # This file
+├── Westchester_[Category]_[filename]   # All files directly in root
+└── [No subdirectories allowed]         # NEW: Flat structure only
 ```
 
-**Design**: Standard 5-folder structure following Druck specifications.
+**NEW REQUIREMENTS (October 29, 2025)**:
+- **Flat structure only** - NO subdirectories allowed
+- **Smart filename encoding** - Context preserved in filename
+- **Automatic version control** - Sequential versions tracked
+
+**Design**: Flat structure following updated Druck specifications.
+
+---
+
+## Current File Inventory
+
+**Geographic Shapefiles** (County Data):
+- `Westchester_CountyShapefiles_Roadways_Line_*` - County roadways (line format)
+- `Westchester_CountyShapefiles_Roadways_Polygon_*` - County roadways (polygon format)
+- `Westchester_CountyShapefiles_Sidewalks_Polygon_*` - County sidewalks (polygon format)
+
+**File Types**:
+- `.shp` - Shapefile geometry
+- `.dbf` - Attribute data
+- `.shx` - Shape index
+- `.prj` - Coordinate system
+- `.cpg` - Code page
+- `.xml` - Metadata
 
 ---
 
@@ -50,7 +72,7 @@ Inputs/
 - **NEVER modify files in this folder**
 - Don't move files out (copy instead)
 - Don't create new files here (this is inputs only)
-- Don't reorganize structure (keep organized by type)
+- Don't create subdirectories (flat structure only)
 
 ### Processing Workflow
 1. **Copy** file from `Inputs/` to appropriate work directory
@@ -60,15 +82,33 @@ Inputs/
 
 ---
 
+## Smart Filename Encoding
+
+**Pattern**: `[ProjectName]_[Category]_[OriginalPath]_[OriginalFilename].[ext]`
+
+**Examples**:
+- `Westchester_CountyShapefiles_Roadways_Line_countyroads_line.shp`
+- `Westchester_CountyShapefiles_Sidewalks_Polygon_countysidewalks_polygon.dbf`
+
+**Benefits**:
+- **Context Preservation**: Original path and filename maintained
+- **Easy Sorting**: Files group by project and category
+- **No Ambiguity**: Clear provenance for each file
+- **Flat Structure Compatible**: No subdirectories needed
+
+---
+
 ## Maintenance
 
 **File Integrity**: All files in Inputs/ should remain byte-for-byte identical to originals provided.
 
 **Adding New Inputs**: When new input files are provided:
-1. Determine file type (PDF, Excel, Document, Image, Data)
-2. Place in appropriate subfolder
+1. Apply smart filename encoding: `[ProjectName]_[Category]_[OriginalPath]_[OriginalFilename].[ext]`
+2. Place directly in Inputs/ root (NO subdirectories)
 3. Update this README with file inventory if desired
 4. Maintain organization and clarity
+
+**Version Control**: The workspace automatically tracks sequential versions of all files in Inputs/.
 
 **Verification**: Inputs/ serves as the authoritative source for all original materials.
 
@@ -83,5 +123,5 @@ Inputs/
 
 **This folder contains original input materials for Westchester. Treat these files as authoritative originals and preserve their integrity.**
 
-*Organized following Druck standards - Arcanum workspace best practices*
-*Last Updated: October 16, 2025*
+*Organized following updated Druck standards - Arcanum workspace best practices*
+*Last Updated: November 3, 2025 - Migrated to flat structure*

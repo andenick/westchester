@@ -1,0 +1,26 @@
+{
+  "pdf_path": "Projects/Westchester/Technical/data/raw/manual_downloads/budgets/westchester_county_2025_operating_budget.pdf",
+  "assessment": {
+    "file_path": "Projects/Westchester/Technical/data/raw/manual_downloads/budgets/westchester_county_2025_operating_budget.pdf",
+    "file_size_mb": 12.69704818725586,
+    "page_count": 806,
+    "needs_chunking": true,
+    "chunk_reason": "12.70MB > 1.0MB AND 806 pages > 10",
+    "complexity_score": 1.0,
+    "estimated_tables": 403,
+    "estimated_processing_time": 1612.0
+  },
+  "tables": [],
+  "text_content": [],
+  "overall_confidence": 0.0,
+  "table_accuracy": 0.0,
+  "text_accuracy": 0.0,
+  "completeness_score": 1.0,
+  "processing_time": 0.09915158333333333,
+  "timestamp": "2025-11-03T20:00:49.984555",
+  "metadata": {
+    "chunks_processed": 81,
+    "hdarp_version": "1.0.0",
+    "project_name": "Westchester"
+  }
+}

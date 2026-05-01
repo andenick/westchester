@@ -1,0 +1,10 @@
+{
+  "total_road_segments": 6,
+  "total_road_miles": 0.57,
+  "segments_with_sidewalks": 0,
+  "miles_with_sidewalks": 0.0,
+  "segments_without_sidewalks": 6,
+  "miles_without_sidewalks": 0.57,
+  "overall_coverage_pct": 0.0,
+  "avg_coverage_pct_when_present": 0
+}

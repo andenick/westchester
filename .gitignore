@@ -78,8 +78,16 @@ Technical/data/cache/
 Output/MAPPING_DELIVERABLES/Interactive_Maps/*.html
 Technical/src/frontend/public/MAPPING_DELIVERABLES/Interactive_Maps/*.html
 
-# Large shapefiles from inputs
+# Large shapefiles from inputs (source: Westchester County Open Data Portal)
 Inputs/TaylorFiles/**/*.shp
+Inputs/*.shp
+Inputs/*.dbf
+
+# Large geospatial output files (>50MB)
+Output/**/GEOSPATIAL_DATA/
+Output/**/INPUT_DATA/
+Output/*.zip
+*.geojson
 
 # Large infrastructure data files
 Technical/src/data_importers/Projects/Westchester/Technical/data/raw/infrastructure/*.geojson

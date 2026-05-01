@@ -1,4 +1,4 @@
-# Westchester County Data Platform - Claude Instructions
+# Westchester County Data Platform - Multi-LLM Agent Instructions
 
 ## Project Overview
 
@@ -24,6 +24,38 @@ Westchester/
 │   └── README.md      # Technical guide
 └── HANDOFF_DOCUMENTATION.md
 ```
+
+## MULTI-LLM COMPATIBILITY (UNIVERSAL AGENT STANDARDS)
+
+### Platform-Agnostic Development
+This project supports all LLM platforms equally:
+- **Claude Code**: Primary development environment
+- **GLM-4.6**: Use `glmcc` launcher for full compatibility
+- **Perplexity**: Enhanced research capabilities across all platforms
+
+### Universal DALM Processing
+All platforms use identical DALM (Direct Agent LLM Method) procedures:
+- **File Size Limits**: 1MB max per chunk, 10 pages max per segment
+- **Processing Method**: Universal DALM orchestrator handles all LLMs
+- **Attribution Tracking**: All platforms log which LLM processed each document
+- **Quality Standards**: Identical validation regardless of LLM used
+
+### Cross-Platform Commands
+All Arcanum slash commands work identically across platforms:
+- `/readystart` - Initialize any agent with project context
+- `/status` - Check workspace status across all platforms
+- `/workspace` - Navigate and understand project structure
+- `/library-index` - Process research materials (Robert integration)
+- `/latex-report` - Generate professional reports
+- `/methodology` - Apply research frameworks
+- `/research` - Execute systematic research workflows
+
+### Performance Standards
+- **Instance Limits**: Maximum 4 concurrent instances across ALL platforms
+- **Resource Monitoring**: Druck tracks usage regardless of LLM platform
+- **Quality Assurance**: Identical standards for all platforms
+
+---
 
 ## MANDATORY DRUCK STANDARDS (NON-NEGOTIABLE)
 

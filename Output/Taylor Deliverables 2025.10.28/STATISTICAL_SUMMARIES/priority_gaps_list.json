@@ -1,0 +1,44 @@
+[
+  {
+    "road_name": "THEODORE FREMD AVE",
+    "road_description": "PAVED ROAD CENTER LINE",
+    "length_miles": 0.19,
+    "priority_score": -770.0,
+    "rank": 1
+  },
+  {
+    "road_name": "THEODORE FREMD AVE",
+    "road_description": "PAVED ROAD CENTER LINE",
+    "length_miles": 0.14,
+    "priority_score": -785.8,
+    "rank": 2
+  },
+  {
+    "road_name": "AQUEDUCT PL",
+    "road_description": "PAVED ROAD CENTER LINE",
+    "length_miles": 0.1,
+    "priority_score": -803.0,
+    "rank": 3
+  },
+  {
+    "road_name": "AQUEDUCT PL",
+    "road_description": "PAVED ROAD CENTER LINE",
+    "length_miles": 0.08,
+    "priority_score": -808.3,
+    "rank": 4
+  },
+  {
+    "road_name": "AQUEDUCT PL",
+    "road_description": "PAVED ROAD CENTER LINE",
+    "length_miles": 0.04,
+    "priority_score": -825.2,
+    "rank": 5
+  },
+  {
+    "road_name": "HALSTEAD AVE",
+    "road_description": "PAVED ROAD CENTER LINE",
+    "length_miles": 0.02,
+    "priority_score": -833.2,
+    "rank": 6
+  }
+]
