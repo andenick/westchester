@@ -1,0 +1,29 @@
+{
+  "version": "5.3",
+  "validation_accuracy": "100% (17/17)",
+  "total_roads": 60615,
+  "total_road_miles": 5327.6,
+  "coverage_counts": {
+    "none": 41668,
+    "one_side": 7434,
+    "both_sides": 11513
+  },
+  "coverage_percentages": {
+    "none": 68.7,
+    "one_side": 12.3,
+    "both_sides": 19.0
+  },
+  "coverage_miles": {
+    "none": 4115.0,
+    "one_side": 472.8,
+    "both_sides": 739.7
+  },
+  "methodology": {
+    "buffer_distance_ft": 35,
+    "detection_threshold_pct": 0.35,
+    "sampling_interval_ft": 10,
+    "source_roads": "roads2.shp (60,676 segments)",
+    "source_sidewalks": "countysidewalks_polygon.shp (77,558 polygons)",
+    "approach": "DVRPC-inspired, engineering-optimized"
+  }
+}

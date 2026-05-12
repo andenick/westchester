@@ -89,6 +89,12 @@ Output/**/INPUT_DATA/
 Output/*.zip
 *.geojson
 
+# Deliverable packages with large shapefiles
+Output/Taylor_ArcGIS_Replication_Package_v1.0/
+
+# Raw GIS data imports
+Technical/src/data_importers/data/raw/westchester_gis/
+
 # Large infrastructure data files
 Technical/src/data_importers/Projects/Westchester/Technical/data/raw/infrastructure/*.geojson
 
