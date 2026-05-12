@@ -65,7 +65,7 @@ We'll cover both methods.
 
 ```bash
 # Navigate to project root
-cd D:/Arcanum/Projects/Westchester
+cd .
 
 # Initialize git (if not done)
 git init

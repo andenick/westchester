@@ -2,7 +2,7 @@
 
 ## 📦 **FINAL PACKAGE - READY FOR DELIVERY**
 
-**Location:** `D:/Arcanum/Projects/Westchester/Output/Taylor Deliverables 2025.10.28/`
+**Location:** ` Deliverables 2025.10.28/`
 
 **Package Size:** 1.6 GB
 **Total Files:** 50+

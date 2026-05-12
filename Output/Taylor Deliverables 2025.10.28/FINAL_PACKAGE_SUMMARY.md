@@ -232,4 +232,4 @@ The "Taylor Deliverables 2025.10.28" package contains:
 ---
 
 *Final package summary prepared October 28, 2025*
-*Package location: D:/Arcanum/Projects/Westchester/Output/Taylor Deliverables 2025.10.28/*
+*Package location:  Deliverables 2025.10.28/*

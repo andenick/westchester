@@ -126,7 +126,7 @@ grep -r "SAMPLE DATA" Technical/src/frontend/src/pages/dashboards/
 
 #### Test Backend Build
 ```bash
-cd D:/Arcanum/Projects/Westchester/Technical
+cd ./Technical
 
 # Install dependencies
 pip install -r requirements.txt
@@ -143,7 +143,7 @@ curl http://localhost:8000/api/health
 
 #### Test Frontend Build
 ```bash
-cd D:/Arcanum/Projects/Westchester/Technical/src/frontend
+cd ./Technical/src/frontend
 
 # Install dependencies
 npm install
@@ -339,7 +339,7 @@ curl $RENDER_URL/api/planning/sidewalk-statistics
 **Locally**, create environment file for Netlify:
 
 ```bash
-cd D:/Arcanum/Projects/Westchester/Technical/src/frontend
+cd ./Technical/src/frontend
 
 # Copy template
 cp .env.production .env.production.local

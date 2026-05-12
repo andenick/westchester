@@ -370,7 +370,7 @@ pip install geopandas shapely pandas openpyxl
 ### Step 2: County-Wide Analysis
 
 ```bash
-cd D:/Arcanum/Projects/Westchester/Technical
+cd ./Technical
 python src/data_importers/countywide_sidewalk_analyzer.py
 ```
 
@@ -395,7 +395,7 @@ python src/data_importers/generate_excel_reports.py
 ### Step 5: LaTeX PDF Compilation
 
 ```bash
-cd D:/Arcanum/Projects/Westchester/Output/PDFs
+cd ./Output/PDFs
 pdflatex -interaction=nonstopmode executive_summary.tex
 pdflatex -interaction=nonstopmode technical_analysis.tex
 pdflatex -interaction=nonstopmode technical_analysis.tex  # Second pass for TOC
@@ -412,9 +412,9 @@ pdflatex -interaction=nonstopmode technical_analysis.tex  # Second pass for TOC
 **Technical Details:** Complete implementation guide in `Technical/README.md`
 
 **Data Location:**
-- **Inputs:** `D:/Arcanum/Projects/Westchester/Inputs/TaylorFiles/County Shapefiles/`
-- **Outputs:** `D:/Arcanum/Projects/Westchester/Output/` (Excel, PDFs)
-- **GeoJSON:** `D:/Arcanum/Projects/Westchester/Technical/data/processed/countywide_sidewalk_analysis/`
+- **Inputs:** `./Inputs/TaylorFiles/County Shapefiles/`
+- **Outputs:** `./Output/` (Excel, PDFs)
+- **GeoJSON:** `./Technical/data/processed/countywide_sidewalk_analysis/`
 
 **Quality Assurance:** All outputs validated with 100% data coverage and professional formatting standards
 

@@ -14,7 +14,7 @@ Before starting, ensure you have:
 - [✓] Backend deployed on Render (from previous guide)
 - [✓] Render API URL copied (e.g., `https://westchester-api.onrender.com`)
 - [✓] Node.js 18+ and npm installed locally
-- [✓] Frontend code ready in `D:/Arcanum/Projects/Westchester/Technical/src/frontend`
+- [✓] Frontend code ready in `./Technical/src/frontend`
 - [✓] GitHub account (optional, for auto-deploy)
 
 ---
@@ -51,7 +51,7 @@ Before starting, ensure you have:
 
 Navigate to frontend directory:
 ```bash
-cd D:/Arcanum/Projects/Westchester/Technical/src/frontend
+cd ./Technical/src/frontend
 ```
 
 Create production environment file:

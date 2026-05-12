@@ -16,9 +16,9 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Paths
-BASE_DIR = Path("D:/Arcanum/Projects/Westchester/Technical")
+BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = BASE_DIR / "data/processed/countywide_sidewalk_analysis"
-OUTPUT_DIR = Path("D:/Arcanum/Projects/Westchester/Output/MAPPING_DELIVERABLES")
+OUTPUT_DIR = Path(__file__).resolve().parent.parent.parent / "Output" / "MAPPING_DELIVERABLES"
 STATIC_DIR = OUTPUT_DIR / "Static_Maps"
 INTERACTIVE_DIR = OUTPUT_DIR / "Interactive_Maps"
 STATIONS_FILE = BASE_DIR / "data/raw/transit/westchester_metro_north_stations.geojson"

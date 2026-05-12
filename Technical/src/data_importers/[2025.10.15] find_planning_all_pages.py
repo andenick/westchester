@@ -10,7 +10,7 @@ import io
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 
-budget_dir = Path('D:/Arcanum/Projects/Westchester/Technical/data/raw/manual_downloads/budgets')
+budget_dir = Path(__file__).resolve().parent.parent / 'data' / 'raw' / 'manual_downloads' / 'budgets'
 
 for year, filename in [('2022', 'westchester_county_2022_operating_budget.pdf'),
                        ('2023', 'westchester_county_2023_operating_budget.pdf')]:

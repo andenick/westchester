@@ -210,7 +210,7 @@ pdflatex westchester_reporting_strategy.tex
 - Missing automated tests
 
 ### Resources
-- **Druck Standards**: `D:/Arcanum/Council/Druck/`
+- **Druck Standards**: `
 - **Claude Configuration**: `.claude/instructions.md`
 - **Progress Log**: `Technical/PROGRESS_LOG.md`
 - **Handoff Documentation**: `HANDOFF_DOCUMENTATION.md`

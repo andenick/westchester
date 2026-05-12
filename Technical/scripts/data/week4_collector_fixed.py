@@ -21,7 +21,7 @@ from pathlib import Path
 
 class Week4HistoricalCollector:
     def __init__(self):
-        self.project_root = Path("D:/Arcanum/Projects/Westchester")
+        self.project_root = Path(__file__).resolve().parent.parent.parent
         self.technical_dir = self.project_root / "Technical"
         self.data_dir = self.technical_dir / "data" / "week4_historical"
         self.api_dir = self.project_root / "Technical" / "src" / "api"

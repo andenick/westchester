@@ -13,7 +13,7 @@ import os
 import time
 from pathlib import Path
 
-PROJECT_ROOT = Path("D:/Arcanum/Projects/Westchester2_Final")
+PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 INPUT_FILE = PROJECT_ROOT / "TAYLOR_DELIVERABLES_v5.3" / "westchester_sidewalk_v5.3.geojson"
 OUTPUT_DIR = PROJECT_ROOT / "Westchester" / "Technical" / "src" / "frontend" / "public" / "data"
 

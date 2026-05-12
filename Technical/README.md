@@ -308,7 +308,7 @@ assert len(xl.sheet_names) == 1, f"FAILED: {len(xl.sheet_names)} sheets"
 # CORRECT workflow:
 # 1. Copy from Robin
 import shutil
-shutil.copy('D:/Arcanum/Robin/data/dataset.xlsx', 
+shutil.copy(' 
             'Technical/data/robin_sourced/dataset.xlsx')
 
 # 2. Process local copy
@@ -362,7 +362,7 @@ allow_origins=["http://localhost:5173"]  # Add your frontend URL
 
 ## Resources
 
-- **Druck Standards**: `D:/Arcanum/Council/Druck/`
+- **Druck Standards**: `
 - **Project Index**: `../PROJECT_INDEX.md`
 - **Progress Log**: `PROGRESS_LOG.md`
 - **API Documentation**: http://localhost:8000/docs

@@ -77,7 +77,7 @@ Inputs/
 ## Related Documentation
 
 - **Westchester README.md** - Project overview and documentation
-- **Druck Standards** - `D:/Arcanum/Council/Druck/README.md` for workspace requirements
+- **Druck Standards** - ` for workspace requirements
 
 ---
 

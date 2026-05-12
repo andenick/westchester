@@ -140,7 +140,7 @@ Warnings: 4
 
 ### Directory Structure
 ```
-D:/Arcanum/Projects/Westchester/Technical/scripts/
+./Technical/scripts/
 ├── pdf_extractor.py           # PDF extraction automation
 ├── westchester_scraper.py     # Web scraping framework
 ├── data_validator.py          # Data validation pipeline

@@ -90,13 +90,13 @@ Comprehensive deployment guide covering:
 - Troubleshooting guide
 - Post-deployment verification
 
-**Location**: `D:/Arcanum/Projects/Westchester/Technical/DEPLOYMENT.md`
+**Location**: `./Technical/DEPLOYMENT.md`
 
 ---
 
 ## Data Files Ready
 
-**Location**: `D:/Arcanum/Projects/Westchester/Technical/data/raw/infrastructure/`
+**Location**: `./Technical/data/raw/infrastructure/`
 
 **Files** (538 MB total):
 - roads_no_coverage.geojson (73 MB)
@@ -223,7 +223,7 @@ To deploy to production, you need to:
 1. `DEPLOYMENT.md` - Comprehensive deployment guide
 2. `PRODUCTION_STATUS.md` - This file (current status)
 3. `src/frontend/.env.example` - Environment variable template
-4. Planning deliverables in `D:/Arcanum/Projects/Westchester/Output/DELIVERABLES_FOR_TAYLOR/`
+4. Planning deliverables in `./Output/DELIVERABLES_FOR_TAYLOR/`
 
 ---
 

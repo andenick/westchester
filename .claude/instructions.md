@@ -197,10 +197,10 @@ Before Handoff:
 ## ESSENTIAL DRUCK DOCUMENTS
 
 Read these for complete standards:
-1. `D:/Arcanum/Council/Druck/AGENT_QUICK_START_GUIDE.md`
-2. `D:/Arcanum/Council/Druck/AGENT_STANDARDS_AND_BEST_PRACTICES.md`
-3. `D:/Arcanum/Council/Druck/COMPLETE_STANDARDS_FRAMEWORK_OCT2025.md`
-4. `D:/Arcanum/Council/Druck/QUICK_REFERENCE_CARD.md`
+1. `
+2. `
+3. `
+4. `
 
 ## SUCCESS FORMULA
 

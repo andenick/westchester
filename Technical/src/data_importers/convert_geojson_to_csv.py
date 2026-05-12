@@ -9,8 +9,8 @@ from pathlib import Path
 
 def convert_geojson_to_csv():
     # Input and output paths
-    geojson_file = Path("D:/Arcanum/Projects/Westchester2_Final/Westchester/Technical/data/raw/WCGIS.tax-parcels.geojson")
-    csv_file = Path("D:/Arcanum/Projects/Westchester2_Final/Westchester/Technical/data/raw/WCGIS.tax-parcels.csv")
+    geojson_file = Path(__file__).resolve().parent.parent / "data" / "raw" / "WCGIS.tax-parcels.geojson"
+    csv_file = Path(__file__).resolve().parent.parent / "data" / "raw" / "WCGIS.tax-parcels.csv"
 
     print(f"Reading GeoJSON from: {geojson_file}")
 

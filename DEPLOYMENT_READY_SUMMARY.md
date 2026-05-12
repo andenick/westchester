@@ -361,7 +361,7 @@ PYTHON_VERSION=3.11.5
 - React: https://react.dev
 
 ### Project Files
-- Located: `D:/Arcanum/Projects/Westchester/`
+- Located: `./`
 - Git repository: (Add URL if using version control)
 
 ---
